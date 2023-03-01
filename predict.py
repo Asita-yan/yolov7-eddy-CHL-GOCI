@@ -16,8 +16,8 @@ data = Dataset(file_goci)
 # points = np.column_stack((x.ravel(), y.ravel()))
 lon = data.variables['lonl'][:]
 lat = data.variables['latl'][:]
-
-
+class_names=['AE','CE']
+all_classes_nums=np.zeros(2)
 def project_geo(point):
     point = np.array(point, dtype=int)
     return (float(lon[point[0], point[1]]), float(lat[point[0], point[1]]))
@@ -72,7 +72,7 @@ if __name__ == "__main__":
     #   crop、count仅在mode='predict'时有效
     # -------------------------------------------------------------------------#
     crop = False
-    count = False
+    count = True
     # ----------------------------------------------------------------------------------------------------------#
     #   video_path          用于指定视频的路径，当video_path=0时表示检测摄像头
     #                       想要检测视频，则设置如video_path = "xxx.mp4"即可，代表读取出根目录下的xxx.mp4文件。
@@ -101,214 +101,232 @@ if __name__ == "__main__":
     #
     #   dir_origin_path和dir_save_path仅在mode='dir_predict'时有效
     # -------------------------------------------------------------------------#
-    hour = '00'
-    dir_origin_path = "E:\\photo\\clip\\" + hour + "\\"
-    dir_save_path = "E:\\photo\\predict\\" + hour + "\\"
-    dir_json = "E:\\photo\\predict\\" + hour + "\\" + "dataset\\"
-    # -------------------------------------------------------------------------#
-    #   heatmap_save_path   热力图的保存路径，默认保存在model_data下
-    #   
-    #   heatmap_save_path仅在mode='heatmap'有效
-    # -------------------------------------------------------------------------#
-    heatmap_save_path = "model_data/heatmap_vision.png"
-    # -------------------------------------------------------------------------#
-    #   simplify            使用Simplify onnx
-    #   onnx_save_path      指定了onnx的保存路径
-    # -------------------------------------------------------------------------#
-    simplify = True
-    onnx_save_path = "model_data/models.onnx"
+    for str_hour in ['00','01','02','03','04','05','06','07']:
+        hour = str_hour
+        dir_origin_path = "E:\\photo\\clip\\" + hour + "\\"
+        dir_save_path = "E:\\photo\\predict\\" + hour + "\\"
+        dir_json = "E:\\photo\\predict\\" + hour + "\\" + "dataset\\"
+        # -------------------------------------------------------------------------#
+        #   heatmap_save_path   热力图的保存路径，默认保存在model_data下
+        #
+        #   heatmap_save_path仅在mode='heatmap'有效
+        # -------------------------------------------------------------------------#
+        heatmap_save_path = "model_data/heatmap_vision.png"
+        # -------------------------------------------------------------------------#
+        #   simplify            使用Simplify onnx
+        #   onnx_save_path      指定了onnx的保存路径
+        # -------------------------------------------------------------------------#
+        simplify = True
+        onnx_save_path = "model_data/models.onnx"
 
-    if mode == "predict":
-        '''
-        1、如果想要进行检测完的图片的保存，利用r_image.save("img.jpg")即可保存，直接在predict.py里进行修改即可。 
-        2、如果想要获得预测框的坐标，可以进入yolo.detect_image函数，在绘图部分读取top，left，bottom，right这四个值。
-        3、如果想要利用预测框截取下目标，可以进入yolo.detect_image函数，在绘图部分利用获取到的top，left，bottom，right这四个值
-        在原图上利用矩阵的方式进行截取。
-        4、如果想要在预测图上写额外的字，比如检测到的特定目标的数量，可以进入yolo.detect_image函数，在绘图部分对predicted_class进行判断，
-        比如判断if predicted_class == 'car': 即可判断当前目标是否为车，然后记录数量即可。利用draw.text即可写字。
-        '''
-        while True:
-            img = input('Input image filename:')
-            try:
-                image = Image.open(img)
-            except:
-                print('Open Error! Try again!')
-                continue
-            else:
-                r_image = yolo.detect_image(image, crop=crop, count=count)
-                r_image.show()
+        if mode == "predict":
+            '''
+            1、如果想要进行检测完的图片的保存，利用r_image.save("img.jpg")即可保存，直接在predict.py里进行修改即可。 
+            2、如果想要获得预测框的坐标，可以进入yolo.detect_image函数，在绘图部分读取top，left，bottom，right这四个值。
+            3、如果想要利用预测框截取下目标，可以进入yolo.detect_image函数，在绘图部分利用获取到的top，left，bottom，right这四个值
+            在原图上利用矩阵的方式进行截取。
+            4、如果想要在预测图上写额外的字，比如检测到的特定目标的数量，可以进入yolo.detect_image函数，在绘图部分对predicted_class进行判断，
+            比如判断if predicted_class == 'car': 即可判断当前目标是否为车，然后记录数量即可。利用draw.text即可写字。
+            '''
+            while True:
+                img = input('Input image filename:')
+                try:
+                    image = Image.open(img)
+                except:
+                    print('Open Error! Try again!')
+                    continue
+                else:
+                    r_image = yolo.detect_image(image, crop=crop, count=count)
+                    r_image.show()
 
-    elif mode == "video":
-        capture = cv2.VideoCapture(video_path)
-        if video_save_path != "":
-            fourcc = cv2.VideoWriter_fourcc(*'XVID')
-            size = (int(capture.get(cv2.CAP_PROP_FRAME_WIDTH)), int(capture.get(cv2.CAP_PROP_FRAME_HEIGHT)))
-            out = cv2.VideoWriter(video_save_path, fourcc, video_fps, size)
+        elif mode == "video":
+            capture = cv2.VideoCapture(video_path)
+            if video_save_path != "":
+                fourcc = cv2.VideoWriter_fourcc(*'XVID')
+                size = (int(capture.get(cv2.CAP_PROP_FRAME_WIDTH)), int(capture.get(cv2.CAP_PROP_FRAME_HEIGHT)))
+                out = cv2.VideoWriter(video_save_path, fourcc, video_fps, size)
 
-        ref, frame = capture.read()
-        if not ref:
-            raise ValueError("未能正确读取摄像头（视频），请注意是否正确安装摄像头（是否正确填写视频路径）。")
-
-        fps = 0.0
-        while (True):
-            t1 = time.time()
-            # 读取某一帧
             ref, frame = capture.read()
             if not ref:
-                break
-            # 格式转变，BGRtoRGB
-            frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-            # 转变成Image
-            frame = Image.fromarray(np.uint8(frame))
-            # 进行检测
-            frame = np.array(yolo.detect_image(frame))
-            # RGBtoBGR满足opencv显示格式
-            frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
+                raise ValueError("未能正确读取摄像头（视频），请注意是否正确安装摄像头（是否正确填写视频路径）。")
 
-            fps = (fps + (1. / (time.time() - t1))) / 2
-            print("fps= %.2f" % (fps))
-            frame = cv2.putText(frame, "fps= %.2f" % (fps), (0, 40), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
+            fps = 0.0
+            while (True):
+                t1 = time.time()
+                # 读取某一帧
+                ref, frame = capture.read()
+                if not ref:
+                    break
+                # 格式转变，BGRtoRGB
+                frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+                # 转变成Image
+                frame = Image.fromarray(np.uint8(frame))
+                # 进行检测
+                frame = np.array(yolo.detect_image(frame))
+                # RGBtoBGR满足opencv显示格式
+                frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
 
-            cv2.imshow("video", frame)
-            c = cv2.waitKey(1) & 0xff
+                fps = (fps + (1. / (time.time() - t1))) / 2
+                print("fps= %.2f" % (fps))
+                frame = cv2.putText(frame, "fps= %.2f" % (fps), (0, 40), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
+
+                cv2.imshow("video", frame)
+                c = cv2.waitKey(1) & 0xff
+                if video_save_path != "":
+                    out.write(frame)
+
+                if c == 27:
+                    capture.release()
+                    break
+
+            print("Video Detection Done!")
+            capture.release()
             if video_save_path != "":
-                out.write(frame)
+                print("Save processed video to the path :" + video_save_path)
+                out.release()
+            cv2.destroyAllWindows()
 
-            if c == 27:
-                capture.release()
-                break
+        elif mode == "fps":
+            img = Image.open(fps_image_path)
+            tact_time = yolo.get_FPS(img, test_interval)
+            print(str(tact_time) + ' seconds, ' + str(1 / tact_time) + 'FPS, @batch_size 1')
 
-        print("Video Detection Done!")
-        capture.release()
-        if video_save_path != "":
-            print("Save processed video to the path :" + video_save_path)
-            out.release()
-        cv2.destroyAllWindows()
+        elif mode == "dir_predict":
+            import os
+            from tqdm import tqdm
+            import datetime
+            import glob
+            from torchvision.ops import nms
+            import torch
 
-    elif mode == "fps":
-        img = Image.open(fps_image_path)
-        tact_time = yolo.get_FPS(img, test_interval)
-        print(str(tact_time) + ' seconds, ' + str(1 / tact_time) + 'FPS, @batch_size 1')
+            start_date = datetime.date(2011, 4, 1)
+            end_date = datetime.date(2021, 3, 31)
+            delta = datetime.timedelta(days=1)
 
-    elif mode == "dir_predict":
-        import os
-        from tqdm import tqdm
-        import datetime
-        import glob
-        from torchvision.ops import nms
-        import torch
+            for current_date in tqdm(start_date + delta * n for n in range((end_date - start_date).days)):
+                date_file = current_date.strftime('%Y%m%d')
+                day_results = np.empty((0, 7))
+                day_img_names = []
+                img_names = glob.glob(dir_origin_path + date_file + '*.jpg')
+                for img_name in img_names:
+                    # img_name='20110404_8_8.jpg'
+                    if img_name.lower().endswith(
+                            ('.bmp', '.dib', '.png', '.jpg', '.jpeg', '.pbm', '.pgm', '.ppm', '.tif', '.tiff')):
+                        image_path = os.path.join(dir_origin_path, img_name)
+                        # image_path='E:\\photo\\00\\20110401.jpg'
+                        image = Image.open(image_path)
+                        img_name = img_name.split('\\')[-1]
+                        r_image, results = yolo.detect_image(image, eddy_minradius=100)  # 直径50km
+                        if results is None:
+                            continue
 
-        start_date = datetime.date(2011, 4, 1)
-        end_date = datetime.date(2021, 3, 31)
-        delta = datetime.timedelta(days=1)
+                        day_results_pjt = project_daypicture(results, img_name)
+                        day_results = np.concatenate((day_results, day_results_pjt), axis=0)
+                        # day_img_names.append(img_name)
+                        if not os.path.exists(dir_save_path):
+                            os.makedirs(dir_save_path)
+                        r_image.save(os.path.join(dir_save_path, img_name.replace(".jpg", ".png")), quality=95,
+                                     subsampling=0)
+                if day_results.shape[0] == 0:
+                    continue
+                day_results_t = torch.from_numpy(day_results)
+                detections = day_results_t[:, :4]  # 获取坐标
+                scores = day_results_t[:, 4] * day_results_t[:, 5]  # 获取置信度乘上分类概率
+                nms_thres = yolo._defaults['nms_iou']  # 设置IoU阈值
+                keep_idx = nms(detections, scores, nms_thres)
+                day_results = day_results[keep_idx]
+                classes_nums = np.zeros(2)
+                for i in range(2):
+                    if len(day_results.shape)==1:
+                        day_results=np.reshape(day_results,(1,7))
+                        num = np.sum(day_results[:,-1] == i)
+                    else:
+                        num = np.sum(day_results[:,-1] == i)
+                    # if num > 0:
+                    #     print(class_names[i], " : ", num, sep=' ')
 
-        for current_date in (start_date + delta * n for n in range((end_date - start_date).days)):
-            date_file = current_date.strftime('%Y%m%d')
-            day_results = np.empty((0, 7))
-            day_img_names = []
-            img_names = glob.glob(dir_origin_path + date_file + '*.jpg')
-            for img_name in tqdm(img_names):
-                # img_name='20110404_8_8.jpg'
-                if img_name.lower().endswith(
-                        ('.bmp', '.dib', '.png', '.jpg', '.jpeg', '.pbm', '.pgm', '.ppm', '.tif', '.tiff')):
-                    image_path = os.path.join(dir_origin_path, img_name)
-                    # image_path='E:\\photo\\00\\20110401.jpg'
-                    image = Image.open(image_path)
-                    r_image, results = yolo.detect_image(image, eddy_minradius=100)  # 直径50km
-                    if results is None:
-                        continue
-                    img_name = img_name.split('\\')[-1]
-                    day_results_pjt = project_daypicture(results, img_name)
-                    day_results = np.concatenate((day_results, day_results_pjt), axis=0)
-                    day_img_names.append(img_name)
-                    if not os.path.exists(dir_save_path):
-                        os.makedirs(dir_save_path)
-                    r_image.save(os.path.join(dir_save_path, img_name.replace(".jpg", ".png")), quality=95,
-                                 subsampling=0)
-            if day_results.shape[0] == 0:
-                continue
-            day_results_t = torch.from_numpy(day_results)
-            detections = day_results_t[:, :4]  # 获取坐标
-            scores = day_results_t[:, 4] * day_results_t[:, 5]  # 获取置信度乘上分类概率
-            nms_thres = yolo._defaults['nms_iou']  # 设置IoU阈值
-            keep_idx = nms(detections, scores, nms_thres)
-            day_results = day_results[keep_idx]
-            date = img_name.split('_')[0]
-            tempdict = {
-                "time": date,
-                "AE or CE label": "0 or 1",
-                "Anticyclonic_": float((day_results[:, -1] == 0).sum()),
-                "Cyclonic_": float((day_results[:, -1] == 1).sum()),
-                "results": {
-                    "predict":  day_results.tolist(),
-                    "eddy_type": list(int(day_results[i][-1]) for i in range(day_results.shape[0])),
-                    "eddy_center_lon_lat": list(project_geo([(day_results[i, 2] + day_results[i, 0]) // 2,
-                                                             (day_results[i, 3] + day_results[i, 1]) // 2]
-                                                            ) for i in range(day_results.shape[0])),
-                    "box_min_lon_lat": list(
-                        project_geo((day_results[i, 0], day_results[i, 1])) for i in
-                        range(day_results.shape[0])),
-                    "box_max_lon_lat": list(
-                        project_geo((day_results[i, 2], day_results[i, 3])) for i in
-                        range(day_results.shape[0])),
-                    "eddy_inradius": list(float(min(day_results[i, 2] - day_results[i, 0],
-                                                    day_results[i, 3] - day_results[i, 1]) * 500 / 2)
-                                          for i in range(day_results.shape[0])),
-                    "eddy_internal_ellipse_area": list(float((1 / 4 * np.pi * (
-                            day_results[i, 2] - day_results[i, 0]) * 500 * 500 * (
-                                                                      day_results[i, 3] -
-                                                                      day_results[i, 1]))) for i in
-                                                       range(day_results.shape[0])),
-                    "confidence": list(float((day_results[i, 4] * day_results[i, 5])) for i in
-                                       range(day_results.shape[0]))
+                    classes_nums[i] = num
+
+                date = img_name.split('_')[0]
+
+
+                tempdict = {
+                    "time": date,
+                    "AE or CE label": "0 or 1",
+                    "Anticyclonic_": float((day_results[:, -1] == 0).sum()),
+                    "Cyclonic_": float((day_results[:, -1] == 1).sum()),
+                    "results": {
+                        "predict":  day_results.tolist(),
+                        "eddy_type": list(int(day_results[i][-1]) for i in range(day_results.shape[0])),
+                        "eddy_center_lon_lat": list(project_geo([(day_results[i, 2] + day_results[i, 0]) // 2,
+                                                                 (day_results[i, 3] + day_results[i, 1]) // 2]
+                                                                ) for i in range(day_results.shape[0])),
+                        "box_min_lon_lat": list(
+                            project_geo((day_results[i, 0], day_results[i, 1])) for i in
+                            range(day_results.shape[0])),
+                        "box_max_lon_lat": list(
+                            project_geo((day_results[i, 2], day_results[i, 3])) for i in
+                            range(day_results.shape[0])),
+                        "eddy_inradius": list(float(min(day_results[i, 2] - day_results[i, 0],
+                                                        day_results[i, 3] - day_results[i, 1]) * 500 / 2)
+                                              for i in range(day_results.shape[0])),
+                        "eddy_internal_ellipse_area": list(float((1 / 4 * np.pi * (
+                                day_results[i, 2] - day_results[i, 0]) * 500 * 500 * (
+                                                                          day_results[i, 3] -
+                                                                          day_results[i, 1]))) for i in
+                                                           range(day_results.shape[0])),
+                        "confidence": list(float((day_results[i, 4] * day_results[i, 5])) for i in
+                                           range(day_results.shape[0]))
+                    }
                 }
-            }
 
-            if not os.path.isfile(os.path.join(dir_json, date_file + hour + '.json')):
-                with open(os.path.join(dir_json, date_file + '.json'), 'w') as f:
-                    json.dump(tempdict, f)
-            print(date_file)
-            # date=img_name.split('_')[0]
-            # tempdict={
-            #     "time": date,
-            #     "AE":0,
-            #     "CE":1,
-            #     "img_name": {"predict_picture": day_img_names,
-            #         "type": list(int(day_results[i][-1]) for i in range(day_results.shape[0])),
-            #         "box_center_lon_lat": list(project([(day_results[i][2]+day_results[i][0])//2,(day_results[i][3]+day_results[i][1])//2],img_name) for i in range(day_results.shape[0])),
-            #         "box_min_lon_lat": list(project((day_results[i][0],day_results[i][1]),img_name) for i in range(day_results.shape[0])),
-            #         "box_max_lon_lat": list(project((day_results[i][2],day_results[i][3]),img_name )for i in range(day_results.shape[0])),
-            #         "box_inradius":list(float(min(day_results[i][2]-day_results[i][0],day_results[i][3]-day_results[i][1])*500/2) for i in range(day_results.shape[0])),
-            #         "box_internal_ellipse_area":list(float((1/4*np.pi*(day_results[i][2]-day_results[i][0])*500*500*(day_results[i][3]-day_results[i][1]))) for i in range(day_results.shape[0])),
-            #         "confidence":list(float((day_results[i][4]*day_results[i][5])) for i in range(day_results.shape[0]))
-            #     }
-            # }
-            #
-            # if not os.path.isfile(os.path.join(dir_json,date+'.json')):
-            #     with open(os.path.join(dir_json,date+'.json'), 'w') as f:
-            #         json.dump(tempdict, f)
-            # else:
-            #     with open(os.path.join(dir_json,date+'.json'), 'r') as f:
-            #         data = json.load(f)
-            #     # 在原有内容的基础上添加新内容
-            #     data.update({img_name[:-4]:tempdict[img_name[:-4]]})
-            #     # 写入文件
-            #     with open(os.path.join(dir_json,date+'.json'), 'w') as f:
-            #         json.dump(data, f)
-    elif mode == "heatmap":
-        while True:
-            img = input('Input image filename:')
-            try:
-                image = Image.open(img)
-            except:
-                print('Open Error! Try again!')
-                continue
-            else:
-                yolo.detect_heatmap(image, heatmap_save_path)
+                if not os.path.isfile(os.path.join(dir_json, date_file + hour + '.json')):
+                    with open(os.path.join(dir_json, date_file + '.json'), 'w') as f:
+                        json.dump(tempdict, f)
+                all_classes_nums+=classes_nums
+                print(classes_nums, date + hour, all_classes_nums, sep=' ')
+                # print(date_file+hour)
+                # date=img_name.split('_')[0]
+                # tempdict={
+                #     "time": date,
+                #     "AE":0,
+                #     "CE":1,
+                #     "img_name": {"predict_picture": day_img_names,
+                #         "type": list(int(day_results[i][-1]) for i in range(day_results.shape[0])),
+                #         "box_center_lon_lat": list(project([(day_results[i][2]+day_results[i][0])//2,(day_results[i][3]+day_results[i][1])//2],img_name) for i in range(day_results.shape[0])),
+                #         "box_min_lon_lat": list(project((day_results[i][0],day_results[i][1]),img_name) for i in range(day_results.shape[0])),
+                #         "box_max_lon_lat": list(project((day_results[i][2],day_results[i][3]),img_name )for i in range(day_results.shape[0])),
+                #         "box_inradius":list(float(min(day_results[i][2]-day_results[i][0],day_results[i][3]-day_results[i][1])*500/2) for i in range(day_results.shape[0])),
+                #         "box_internal_ellipse_area":list(float((1/4*np.pi*(day_results[i][2]-day_results[i][0])*500*500*(day_results[i][3]-day_results[i][1]))) for i in range(day_results.shape[0])),
+                #         "confidence":list(float((day_results[i][4]*day_results[i][5])) for i in range(day_results.shape[0]))
+                #     }
+                # }
+                #
+                # if not os.path.isfile(os.path.join(dir_json,date+'.json')):
+                #     with open(os.path.join(dir_json,date+'.json'), 'w') as f:
+                #         json.dump(tempdict, f)
+                # else:
+                #     with open(os.path.join(dir_json,date+'.json'), 'r') as f:
+                #         data = json.load(f)
+                #     # 在原有内容的基础上添加新内容
+                #     data.update({img_name[:-4]:tempdict[img_name[:-4]]})
+                #     # 写入文件
+                #     with open(os.path.join(dir_json,date+'.json'), 'w') as f:
+                #         json.dump(data, f)
+        elif mode == "heatmap":
+            while True:
+                img = input('Input image filename:')
+                try:
+                    image = Image.open(img)
+                except:
+                    print('Open Error! Try again!')
+                    continue
+                else:
+                    yolo.detect_heatmap(image, heatmap_save_path)
 
-    elif mode == "export_onnx":
-        yolo.convert_to_onnx(simplify, onnx_save_path)
+        elif mode == "export_onnx":
+            yolo.convert_to_onnx(simplify, onnx_save_path)
 
-    else:
-        raise AssertionError(
-            "Please specify the correct mode: 'predict', 'video', 'fps', 'heatmap', 'export_onnx', 'dir_predict'.")
+        else:
+            raise AssertionError(
+                "Please specify the correct mode: 'predict', 'video', 'fps', 'heatmap', 'export_onnx', 'dir_predict'.")
