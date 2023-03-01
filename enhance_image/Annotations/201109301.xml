@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>Annotations</folder><filename>201109301.jpg</filename><path>E:\photo\00\ImageSets\201109301.jpg</path><source><database>GOCI</database></source><size><width>221</width><height>220</height><depth>1</depth></size><segmented>0</segmented><object><name>CE</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>50</xmin><ymin>54</ymin><xmax>77</xmax><ymax>81</ymax></bndbox></object></annotation>

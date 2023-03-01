@@ -1,0 +1,2085 @@
+E:\photo\00\enhance_image\201104010.jpg 51,68,79,93,1 9,12,31,32,1
+E:\photo\00\enhance_image\201104010_histogramEqualization0.jpg 51,68,79,93,1 9,12,31,32,1
+E:\photo\00\enhance_image\201104010_Imagerotate0.jpg 70,73,95,101,1 16,123,36,145,1
+E:\photo\00\enhance_image\201104010_noiseImpulse0.jpg 51,68,79,93,1 9,12,31,32,1
+E:\photo\00\enhance_image\201104010_randomGaussian0.jpg 51,68,79,93,1 9,12,31,32,1
+E:\photo\00\enhance_image\201104011.jpg 16,86,50,121,1
+E:\photo\00\enhance_image\201104011_histogramEqualization0.jpg 16,86,50,121,1
+E:\photo\00\enhance_image\201104011_Imagerotate0.jpg 29,77,63,110,1
+E:\photo\00\enhance_image\201104011_noiseImpulse0.jpg 16,86,50,121,1
+E:\photo\00\enhance_image\201104011_randomGaussian0.jpg 16,86,50,121,1
+E:\photo\00\enhance_image\201104012.jpg 11,78,87,154,1
+E:\photo\00\enhance_image\201104012_histogramEqualization0.jpg 11,78,87,154,1
+E:\photo\00\enhance_image\201104012_Imagerotate0.jpg 73,126,153,201,1
+E:\photo\00\enhance_image\201104012_noiseImpulse0.jpg 11,78,87,154,1
+E:\photo\00\enhance_image\201104012_randomGaussian0.jpg 11,78,87,154,1
+E:\photo\00\enhance_image\201104013.jpg 40,85,77,121,1
+E:\photo\00\enhance_image\201104013_histogramEqualization0.jpg 40,85,77,121,1
+E:\photo\00\enhance_image\201104013_Imagerotate0.jpg 68,98,104,134,1
+E:\photo\00\enhance_image\201104013_noiseImpulse0.jpg 40,85,77,121,1
+E:\photo\00\enhance_image\201104013_randomGaussian0.jpg 40,85,77,121,1
+E:\photo\00\enhance_image\201104014_histogramEqualization0.jpg 2,1,41,32,1
+E:\photo\00\enhance_image\201104014_Imagerotate0.jpg 162,199,200,232,1
+E:\photo\00\enhance_image\201104014_randomGaussian0.jpg 2,1,41,32,1
+E:\photo\00\enhance_image\201104015.jpg 13,84,44,114,1 118,83,157,122,1
+E:\photo\00\enhance_image\201104015_histogramEqualization0.jpg 13,84,44,114,1 118,83,157,122,1
+E:\photo\00\enhance_image\201104015_Imagerotate0.jpg 79,167,109,197,1 147,82,186,120,1
+E:\photo\00\enhance_image\201104015_noiseImpulse0.jpg 13,84,44,114,1 118,83,157,122,1
+E:\photo\00\enhance_image\201104020.jpg 8,112,39,138,1
+E:\photo\00\enhance_image\201104020_Imagerotate0.jpg 44,139,74,165,1
+E:\photo\00\enhance_image\201104020_noiseImpulse0.jpg 8,112,39,138,1
+E:\photo\00\enhance_image\201104020_randomGaussian0.jpg 8,112,39,138,1
+E:\photo\00\enhance_image\201104021_histogramEqualization0.jpg 35,19,70,46,1 25,115,47,141,1 137,13,162,35,1
+E:\photo\00\enhance_image\201104021_Imagerotate0.jpg 191,120,221,151,1 137,46,161,69,1 133,200,156,223,1
+E:\photo\00\enhance_image\201104021_randomGaussian0.jpg 35,19,70,46,1 25,115,47,141,1 137,13,162,35,1
+E:\photo\00\enhance_image\201104030.jpg 19,5,74,60,1
+E:\photo\00\enhance_image\201104030_histogramEqualization0.jpg 19,5,74,60,1
+E:\photo\00\enhance_image\201104030_Imagerotate0.jpg 98,123,153,178,1
+E:\photo\00\enhance_image\201104030_randomGaussian0.jpg 19,5,74,60,1
+E:\photo\00\enhance_image\201104031.jpg 15,15,83,97,1
+E:\photo\00\enhance_image\201104031_histogramEqualization0.jpg 15,15,83,97,1
+E:\photo\00\enhance_image\201104031_Imagerotate0.jpg 145,75,215,154,1
+E:\photo\00\enhance_image\201104031_noiseImpulse0.jpg 15,15,83,97,1
+E:\photo\00\enhance_image\201104031_randomGaussian0.jpg 15,15,83,97,1
+E:\photo\00\enhance_image\201104032.jpg 131,85,193,138,1
+E:\photo\00\enhance_image\201104032_histogramEqualization0.jpg 131,85,193,138,1
+E:\photo\00\enhance_image\201104032_Imagerotate0.jpg 93,17,146,78,1
+E:\photo\00\enhance_image\201104032_noiseImpulse0.jpg 131,85,193,138,1
+E:\photo\00\enhance_image\201104032_randomGaussian0.jpg 131,85,193,138,1
+E:\photo\00\enhance_image\201104033.jpg 10,103,52,144,1
+E:\photo\00\enhance_image\201104033_Imagerotate0.jpg 100,37,142,78,1
+E:\photo\00\enhance_image\201104033_noiseImpulse0.jpg 10,103,52,144,1
+E:\photo\00\enhance_image\201104033_randomGaussian0.jpg 10,103,52,144,1
+E:\photo\00\enhance_image\201104034_histogramEqualization0.jpg 38,61,139,146,0 9,26,52,65,1
+E:\photo\00\enhance_image\201104034_Imagerotate0.jpg 58,91,154,180,0 71,35,113,75,1
+E:\photo\00\enhance_image\201104034_noiseImpulse0.jpg 38,61,139,146,0 9,26,52,65,1
+E:\photo\00\enhance_image\201104035.jpg 94,50,199,139,0 8,24,76,112,0
+E:\photo\00\enhance_image\201104035_histogramEqualization0.jpg 94,50,199,139,0 8,24,76,112,0
+E:\photo\00\enhance_image\201104035_noiseImpulse0.jpg 94,50,199,139,0 8,24,76,112,0
+E:\photo\00\enhance_image\201104035_randomGaussian0.jpg 94,50,199,139,0 8,24,76,112,0
+E:\photo\00\enhance_image\201104040.jpg 4,6,52,42,1 214,51,260,113,1 20,93,50,132,1
+E:\photo\00\enhance_image\201104040_histogramEqualization0.jpg 4,6,52,42,1 214,51,260,113,1 20,93,50,132,1
+E:\photo\00\enhance_image\201104040_Imagerotate0.jpg 9,64,55,100,1 226,58,272,118,1 45,147,75,185,1
+E:\photo\00\enhance_image\201104041_histogramEqualization0.jpg 14,14,57,62,1 33,230,57,256,1
+E:\photo\00\enhance_image\201104041_Imagerotate0.jpg 113,251,157,297,1 251,101,275,125,1
+E:\photo\00\enhance_image\201104041_randomGaussian0.jpg 14,14,57,62,1 33,230,57,256,1
+E:\photo\00\enhance_image\201104042.jpg 8,198,207,388,0 80,10,170,116,0 265,61,517,354,0 189,75,247,119,1
+E:\photo\00\enhance_image\201104042_Imagerotate0.jpg 137,371,334,563,0 92,206,186,308,0 311,113,573,396,0 210,218,264,266,1
+E:\photo\00\enhance_image\201104042_noiseImpulse0.jpg 8,198,207,388,0 80,10,170,116,0 265,61,517,354,0 189,75,247,119,1
+E:\photo\00\enhance_image\201104042_randomGaussian0.jpg 8,198,207,388,0 80,10,170,116,0 265,61,517,354,0 189,75,247,119,1
+E:\photo\00\enhance_image\201104043.jpg 24,21,124,114,0 224,20,330,125,0
+E:\photo\00\enhance_image\201104043_histogramEqualization0.jpg 24,21,124,114,0 224,20,330,125,0
+E:\photo\00\enhance_image\201104043_noiseImpulse0.jpg 24,21,124,114,0 224,20,330,125,0
+E:\photo\00\enhance_image\201104043_randomGaussian0.jpg 24,21,124,114,0 224,20,330,125,0
+E:\photo\00\enhance_image\201104044.jpg 18,77,52,108,1
+E:\photo\00\enhance_image\201104044_histogramEqualization0.jpg 18,77,52,108,1
+E:\photo\00\enhance_image\201104044_Imagerotate0.jpg 53,137,86,168,1
+E:\photo\00\enhance_image\201104044_noiseImpulse0.jpg 18,77,52,108,1
+E:\photo\00\enhance_image\201104045.jpg 100,80,142,119,1
+E:\photo\00\enhance_image\201104045_histogramEqualization0.jpg 100,80,142,119,1
+E:\photo\00\enhance_image\201104045_Imagerotate0.jpg 115,41,154,82,1
+E:\photo\00\enhance_image\201104045_noiseImpulse0.jpg 100,80,142,119,1
+E:\photo\00\enhance_image\201104045_randomGaussian0.jpg 100,80,142,119,1
+E:\photo\00\enhance_image\201104046.jpg 14,169,122,248,1 147,108,213,161,1
+E:\photo\00\enhance_image\201104046_histogramEqualization0.jpg 14,169,122,248,1 147,108,213,161,1
+E:\photo\00\enhance_image\201104046_Imagerotate0.jpg 226,128,313,228,1 119,91,176,153,1
+E:\photo\00\enhance_image\201104046_noiseImpulse0.jpg 14,169,122,248,1 147,108,213,161,1
+E:\photo\00\enhance_image\201104046_randomGaussian0.jpg 14,169,122,248,1 147,108,213,161,1
+E:\photo\00\enhance_image\201104047_histogramEqualization0.jpg 49,58,78,84,1 90,153,153,230,1
+E:\photo\00\enhance_image\201104047_Imagerotate0.jpg 106,173,135,199,1 17,35,80,112,1
+E:\photo\00\enhance_image\201104047_randomGaussian0.jpg 49,58,78,84,1 90,153,153,230,1
+E:\photo\00\enhance_image\201104048.jpg 15,111,87,191,0
+E:\photo\00\enhance_image\201104048_Imagerotate0.jpg 98,193,171,270,0
+E:\photo\00\enhance_image\201104048_randomGaussian0.jpg 15,111,87,191,0
+E:\photo\00\enhance_image\201104049.jpg 463,415,548,510,0 375,394,434,465,0 51,370,128,497,0 436,31,534,124,0 327,118,431,206,0 311,398,360,448,1 8,389,45,440,1
+E:\photo\00\enhance_image\201104049_Imagerotate0.jpg 34,466,127,549,0 99,387,168,445,0 133,68,257,146,0 416,520,507,616,0 357,396,443,497,0 130,326,179,374,1 202,31,252,68,1
+E:\photo\00\enhance_image\201104049_noiseImpulse0.jpg 463,415,548,510,0 375,394,434,465,0 51,370,128,497,0 436,31,534,124,0 327,118,431,206,0 311,398,360,448,1 8,389,45,440,1
+E:\photo\00\enhance_image\201104049_randomGaussian0.jpg 463,415,548,510,0 375,394,434,465,0 51,370,128,497,0 436,31,534,124,0 327,118,431,206,0 311,398,360,448,1 8,389,45,440,1
+E:\photo\00\enhance_image\201104050_histogramEqualization0.jpg 255,22,270,37,1 363,25,393,51,1 320,7,345,34,1 7,172,59,221,1
+E:\photo\00\enhance_image\201104050_Imagerotate0.jpg 256,33,271,48,1 364,26,394,52,1 320,12,345,39,1 23,203,75,252,1
+E:\photo\00\enhance_image\201104050_noiseImpulse0.jpg 255,22,270,37,1 363,25,393,51,1 320,7,345,34,1 7,172,59,221,1
+E:\photo\00\enhance_image\201104050_randomGaussian0.jpg 255,22,270,37,1 363,25,393,51,1 320,7,345,34,1 7,172,59,221,1
+E:\photo\00\enhance_image\201104051.jpg 44,17,82,53,0
+E:\photo\00\enhance_image\201104051_Imagerotate0.jpg 164,52,201,90,0
+E:\photo\00\enhance_image\201104051_noiseImpulse0.jpg 44,17,82,53,0
+E:\photo\00\enhance_image\201104051_randomGaussian0.jpg 44,17,82,53,0
+E:\photo\00\enhance_image\201104052.jpg 242,197,305,266,0 173,184,212,238,1
+E:\photo\00\enhance_image\201104052_histogramEqualization0.jpg 242,197,305,266,0 173,184,212,238,1
+E:\photo\00\enhance_image\201104052_Imagerotate0.jpg 199,323,263,388,0 162,261,209,309,1
+E:\photo\00\enhance_image\201104052_noiseImpulse0.jpg 242,197,305,266,0 173,184,212,238,1
+E:\photo\00\enhance_image\201104053.jpg 10,14,217,211,0
+E:\photo\00\enhance_image\201104053_Imagerotate0.jpg 116,169,317,367,0
+E:\photo\00\enhance_image\201104053_noiseImpulse0.jpg 10,14,217,211,0
+E:\photo\00\enhance_image\201104053_randomGaussian0.jpg 10,14,217,211,0
+E:\photo\00\enhance_image\201104054_histogramEqualization0.jpg 268,213,304,246,1
+E:\photo\00\enhance_image\201104054_noiseImpulse0.jpg 268,213,304,246,1
+E:\photo\00\enhance_image\201104054_randomGaussian0.jpg 268,213,304,246,1
+E:\photo\00\enhance_image\201104060.jpg 46,309,79,354,1
+E:\photo\00\enhance_image\201104060_histogramEqualization0.jpg 46,309,79,354,1
+E:\photo\00\enhance_image\201104060_Imagerotate0.jpg 50,314,83,359,1
+E:\photo\00\enhance_image\201104060_noiseImpulse0.jpg 46,309,79,354,1
+E:\photo\00\enhance_image\201104060_randomGaussian0.jpg 46,309,79,354,1
+E:\photo\00\enhance_image\201104061.jpg 162,316,201,360,1
+E:\photo\00\enhance_image\201104061_histogramEqualization0.jpg 162,316,201,360,1
+E:\photo\00\enhance_image\201104061_noiseImpulse0.jpg 162,316,201,360,1
+E:\photo\00\enhance_image\201104061_randomGaussian0.jpg 162,316,201,360,1
+E:\photo\00\enhance_image\201104062_histogramEqualization0.jpg 81,250,116,283,1 11,8,32,31,1
+E:\photo\00\enhance_image\201104062_Imagerotate0.jpg 268,265,301,300,1 32,366,55,387,1
+E:\photo\00\enhance_image\201104062_randomGaussian0.jpg 81,250,116,283,1 11,8,32,31,1
+E:\photo\00\enhance_image\201104063.jpg 21,226,52,255,1 220,11,255,39,1 236,75,305,150,1
+E:\photo\00\enhance_image\201104063_Imagerotate0.jpg 252,30,283,60,1 180,316,213,346,1 90,233,160,307,1
+E:\photo\00\enhance_image\201104063_noiseImpulse0.jpg 21,226,52,255,1 220,11,255,39,1 236,75,305,150,1
+E:\photo\00\enhance_image\201104063_randomGaussian0.jpg 21,226,52,255,1 220,11,255,39,1 236,75,305,150,1
+E:\photo\00\enhance_image\201104064.jpg 148,5,205,85,0 236,23,317,116,0 17,31,97,109,0 160,177,249,263,0
+E:\photo\00\enhance_image\201104064_histogramEqualization0.jpg 148,5,205,85,0 236,23,317,116,0 17,31,97,109,0 160,177,249,263,0
+E:\photo\00\enhance_image\201104064_Imagerotate0.jpg 146,72,208,147,0 236,41,319,131,0 42,147,122,225,0 238,209,326,296,0
+E:\photo\00\enhance_image\201104064_noiseImpulse0.jpg 148,5,205,85,0 236,23,317,116,0 17,31,97,109,0 160,177,249,263,0
+E:\photo\00\enhance_image\201104064_randomGaussian0.jpg 148,5,205,85,0 236,23,317,116,0 17,31,97,109,0 160,177,249,263,0
+E:\photo\00\enhance_image\201104070.jpg 13,130,111,210,1
+E:\photo\00\enhance_image\201104070_histogramEqualization0.jpg 13,130,111,210,1
+E:\photo\00\enhance_image\201104070_Imagerotate0.jpg 40,133,131,218,1
+E:\photo\00\enhance_image\201104070_noiseImpulse0.jpg 13,130,111,210,1
+E:\photo\00\enhance_image\201104070_randomGaussian0.jpg 9,133,107,213,1
+E:\photo\00\enhance_image\201104071.jpg 10,155,38,182,1
+E:\photo\00\enhance_image\201104071_histogramEqualization0.jpg 10,155,38,182,1
+E:\photo\00\enhance_image\201104071_Imagerotate0.jpg 159,25,186,52,1
+E:\photo\00\enhance_image\201104071_noiseImpulse0.jpg 10,155,38,182,1
+E:\photo\00\enhance_image\201104071_randomGaussian0.jpg 10,155,38,182,1
+E:\photo\00\enhance_image\201104072_histogramEqualization0.jpg 32,115,80,160,1
+E:\photo\00\enhance_image\201104072_Imagerotate0.jpg 202,72,247,117,1
+E:\photo\00\enhance_image\201104072_noiseImpulse0.jpg 32,115,80,160,1
+E:\photo\00\enhance_image\201104072_randomGaussian0.jpg 32,115,80,160,1
+E:\photo\00\enhance_image\201104080.jpg 124,123,209,197,1
+E:\photo\00\enhance_image\201104080_histogramEqualization0.jpg 124,123,209,197,1
+E:\photo\00\enhance_image\201104080_Imagerotate0.jpg 185,126,262,208,1
+E:\photo\00\enhance_image\201104080_noiseImpulse0.jpg 124,123,209,197,1
+E:\photo\00\enhance_image\201104081.jpg 155,88,290,227,1
+E:\photo\00\enhance_image\201104081_histogramEqualization0.jpg 155,88,290,227,1
+E:\photo\00\enhance_image\201104081_Imagerotate0.jpg 165,110,299,248,1
+E:\photo\00\enhance_image\201104081_noiseImpulse0.jpg 155,88,290,227,1
+E:\photo\00\enhance_image\201104081_randomGaussian0.jpg 155,88,290,227,1
+E:\photo\00\enhance_image\201104082.jpg 46,115,119,181,1 197,141,259,194,1
+E:\photo\00\enhance_image\201104082_Imagerotate0.jpg 40,75,104,147,1 57,227,109,288,1
+E:\photo\00\enhance_image\201104082_randomGaussian0.jpg 46,115,119,181,1 197,141,259,194,1
+E:\photo\00\enhance_image\201104083.jpg 13,269,55,307,1 121,78,173,132,1 228,9,269,50,1
+E:\photo\00\enhance_image\201104083_histogramEqualization0.jpg 13,269,55,307,1 121,78,173,132,1 228,9,269,50,1
+E:\photo\00\enhance_image\201104083_Imagerotate0.jpg 253,10,293,47,1 186,209,236,261,1 113,314,152,354,1
+E:\photo\00\enhance_image\201104083_noiseImpulse0.jpg 13,269,55,307,1 121,78,173,132,1 228,9,269,50,1
+E:\photo\00\enhance_image\201104083_randomGaussian0.jpg 13,269,55,307,1 121,78,173,132,1 228,9,269,50,1
+E:\photo\00\enhance_image\201104090.jpg 208,192,278,264,1
+E:\photo\00\enhance_image\201104090_Imagerotate0.jpg 274,210,343,281,1
+E:\photo\00\enhance_image\201104090_randomGaussian0.jpg 208,192,278,264,1
+E:\photo\00\enhance_image\201104091.jpg 2,381,80,462,1 107,268,162,324,1 80,19,143,93,1
+E:\photo\00\enhance_image\201104091_Imagerotate0.jpg 357,473,437,551,1 297,345,353,400,1 63,256,135,321,1
+E:\photo\00\enhance_image\201104091_noiseImpulse0.jpg 2,381,80,462,1 107,268,162,324,1 80,19,143,93,1
+E:\photo\00\enhance_image\201104091_randomGaussian0.jpg 2,381,80,462,1 107,268,162,324,1 80,19,143,93,1
+E:\photo\00\enhance_image\201104092.jpg 113,111,238,219,1
+E:\photo\00\enhance_image\201104092_randomGaussian0.jpg 113,111,238,219,1
+E:\photo\00\enhance_image\201104093_histogramEqualization0.jpg 7,2,74,56,1
+E:\photo\00\enhance_image\201104093_Imagerotate0.jpg 11,40,78,93,1
+E:\photo\00\enhance_image\201104093_noiseImpulse0.jpg 7,2,74,56,1
+E:\photo\00\enhance_image\201104093_randomGaussian0.jpg 7,2,74,56,1
+E:\photo\00\enhance_image\201104094.jpg 172,8,243,82,1
+E:\photo\00\enhance_image\201104094_histogramEqualization0.jpg 172,8,243,82,1
+E:\photo\00\enhance_image\201104094_Imagerotate0.jpg 24,59,96,129,1
+E:\photo\00\enhance_image\201104094_noiseImpulse0.jpg 172,8,243,82,1
+E:\photo\00\enhance_image\201104094_randomGaussian0.jpg 172,8,243,82,1
+E:\photo\00\enhance_image\201104100.jpg 171,172,234,241,1
+E:\photo\00\enhance_image\201104100_histogramEqualization0.jpg 171,172,234,241,1
+E:\photo\00\enhance_image\201104100_Imagerotate0.jpg 20,73,83,140,1
+E:\photo\00\enhance_image\201104100_noiseImpulse0.jpg 171,172,234,241,1
+E:\photo\00\enhance_image\201104100_randomGaussian0.jpg 171,172,234,241,1
+E:\photo\00\enhance_image\201104101.jpg 15,11,91,82,1
+E:\photo\00\enhance_image\201104101_Imagerotate0.jpg 196,145,269,217,1
+E:\photo\00\enhance_image\201104101_noiseImpulse0.jpg 15,11,91,82,1
+E:\photo\00\enhance_image\201104110.jpg 38,141,115,204,0 16,224,79,285,0 124,154,179,218,0
+E:\photo\00\enhance_image\201104110_histogramEqualization0.jpg 38,141,115,204,0 16,224,79,285,0 124,154,179,218,0
+E:\photo\00\enhance_image\201104110_Imagerotate0.jpg 216,109,284,179,0 179,37,239,98,0 160,162,220,219,0
+E:\photo\00\enhance_image\201104110_noiseImpulse0.jpg 38,141,115,204,0 16,224,79,285,0 124,154,179,218,0
+E:\photo\00\enhance_image\201104110_randomGaussian0.jpg 38,141,115,204,0 16,224,79,285,0 124,154,179,218,0
+E:\photo\00\enhance_image\201104111.jpg 16,183,117,278,0 96,134,142,174,0
+E:\photo\00\enhance_image\201104111_histogramEqualization0.jpg 16,183,117,278,0 96,134,142,174,0
+E:\photo\00\enhance_image\201104111_Imagerotate0.jpg 193,263,285,361,0 159,219,198,264,0
+E:\photo\00\enhance_image\201104111_noiseImpulse0.jpg 16,183,117,278,0 96,134,142,174,0
+E:\photo\00\enhance_image\201104111_randomGaussian0.jpg 16,183,117,278,0 96,134,142,174,0
+E:\photo\00\enhance_image\201104112_histogramEqualization0.jpg 17,83,55,122,1
+E:\photo\00\enhance_image\201104112_Imagerotate0.jpg 303,160,341,198,1
+E:\photo\00\enhance_image\201104112_noiseImpulse0.jpg 17,83,55,122,1
+E:\photo\00\enhance_image\201104130.jpg 146,8,183,45,1
+E:\photo\00\enhance_image\201104130_histogramEqualization0.jpg 146,8,183,45,1
+E:\photo\00\enhance_image\201104130_Imagerotate0.jpg 89,187,126,223,1
+E:\photo\00\enhance_image\201104130_noiseImpulse0.jpg 146,8,183,45,1
+E:\photo\00\enhance_image\201104131.jpg 351,21,398,60,1 121,24,173,56,1 12,156,51,194,1 64,84,100,119,1
+E:\photo\00\enhance_image\201104131_histogramEqualization0.jpg 351,21,398,60,1 121,24,173,56,1 12,156,51,194,1 64,84,100,119,1
+E:\photo\00\enhance_image\201104131_Imagerotate0.jpg 329,352,368,399,1 317,123,349,175,1 171,24,209,63,1 250,70,285,106,1 141,119,158,137,1
+E:\photo\00\enhance_image\201104131_noiseImpulse0.jpg 351,21,398,60,1 121,24,173,56,1 12,156,51,194,1 64,84,100,119,1
+E:\photo\00\enhance_image\201104131_randomGaussian0.jpg 351,21,398,60,1 121,24,173,56,1 12,156,51,194,1 64,84,100,119,1
+E:\photo\00\enhance_image\201104132.jpg 177,157,212,185,1 17,278,82,318,1 332,50,355,83,1 407,326,448,357,1
+E:\photo\00\enhance_image\201104132_histogramEqualization0.jpg 177,157,212,185,1 17,278,82,318,1 332,50,355,83,1 407,326,448,357,1
+E:\photo\00\enhance_image\201104132_Imagerotate0.jpg 324,269,356,299,1 342,68,398,119,1 280,445,307,475,1 33,286,71,321,1
+E:\photo\00\enhance_image\201104132_noiseImpulse0.jpg 177,157,212,185,1 17,278,82,318,1 332,50,355,83,1 407,326,448,357,1
+E:\photo\00\enhance_image\201104132_randomGaussian0.jpg 177,157,212,185,1 17,278,82,318,1 332,50,355,83,1 407,326,448,357,1
+E:\photo\00\enhance_image\201104133.jpg 47,36,93,76,1
+E:\photo\00\enhance_image\201104133_histogramEqualization0.jpg 47,36,93,76,1
+E:\photo\00\enhance_image\201104133_noiseImpulse0.jpg 47,36,93,76,1
+E:\photo\00\enhance_image\201104133_randomGaussian0.jpg 47,36,93,76,1
+E:\photo\00\enhance_image\201104134.jpg 16,154,86,220,0 210,173,279,237,0 155,150,199,199,1
+E:\photo\00\enhance_image\201104134_histogramEqualization0.jpg 16,154,86,220,0 210,173,279,237,0 155,150,199,199,1
+E:\photo\00\enhance_image\201104134_Imagerotate0.jpg 154,239,220,309,0 173,46,237,115,0 150,126,199,170,1
+E:\photo\00\enhance_image\201104134_noiseImpulse0.jpg 16,154,86,220,0 210,173,279,237,0 155,150,199,199,1
+E:\photo\00\enhance_image\201104140.jpg 11,67,118,162,0 298,10,334,47,1
+E:\photo\00\enhance_image\201104140_histogramEqualization0.jpg 11,67,118,162,0 298,10,334,47,1
+E:\photo\00\enhance_image\201104140_Imagerotate0.jpg 250,244,354,341,0 21,236,57,273,1
+E:\photo\00\enhance_image\201104140_noiseImpulse0.jpg 11,67,118,162,0 298,10,334,47,1
+E:\photo\00\enhance_image\201104140_randomGaussian0.jpg 11,67,118,162,0 298,10,334,47,1
+E:\photo\00\enhance_image\201104141.jpg 240,43,283,87,1 14,9,119,123,1 42,184,194,269,1
+E:\photo\00\enhance_image\201104141_histogramEqualization0.jpg 240,43,283,87,1 14,9,119,123,1 42,184,194,269,1
+E:\photo\00\enhance_image\201104141_Imagerotate0.jpg 97,285,140,328,1 245,174,351,285,1 118,53,258,150,1
+E:\photo\00\enhance_image\201104141_randomGaussian0.jpg 240,43,283,87,1 14,9,119,123,1 42,184,194,269,1
+E:\photo\00\enhance_image\201104142.jpg 91,33,132,78,1 68,170,107,208,1
+E:\photo\00\enhance_image\201104142_histogramEqualization0.jpg 91,33,132,78,1 68,170,107,208,1
+E:\photo\00\enhance_image\201104142_Imagerotate0.jpg 297,214,339,256,1 221,105,259,143,1
+E:\photo\00\enhance_image\201104142_noiseImpulse0.jpg 91,33,132,78,1 68,170,107,208,1
+E:\photo\00\enhance_image\201104142_randomGaussian0.jpg 91,33,132,78,1 68,170,107,208,1
+E:\photo\00\enhance_image\201104143_histogramEqualization0.jpg 49,21,112,87,0
+E:\photo\00\enhance_image\201104143_Imagerotate0.jpg 61,223,126,285,0
+E:\photo\00\enhance_image\201104143_noiseImpulse0.jpg 49,21,112,87,0
+E:\photo\00\enhance_image\201104144.jpg 190,251,229,282,1 15,26,72,79,1
+E:\photo\00\enhance_image\201104144_Imagerotate0.jpg 199,61,237,92,1 317,290,373,342,1
+E:\photo\00\enhance_image\201104144_noiseImpulse0.jpg 190,251,229,282,1 15,26,72,79,1
+E:\photo\00\enhance_image\201104144_randomGaussian0.jpg 190,251,229,282,1 15,26,72,79,1
+E:\photo\00\enhance_image\201104145.jpg 38,23,100,91,1
+E:\photo\00\enhance_image\201104145_Imagerotate0.jpg 57,224,120,288,1
+E:\photo\00\enhance_image\201104145_noiseImpulse0.jpg 38,23,100,91,1
+E:\photo\00\enhance_image\201104145_randomGaussian0.jpg 38,23,100,91,1
+E:\photo\00\enhance_image\201104146.jpg 228,9,288,99,1
+E:\photo\00\enhance_image\201104146_Imagerotate0.jpg 266,58,326,146,1
+E:\photo\00\enhance_image\201104146_noiseImpulse0.jpg 228,9,288,99,1
+E:\photo\00\enhance_image\201104146_randomGaussian0.jpg 228,9,288,99,1
+E:\photo\00\enhance_image\201104147.jpg 14,13,61,53,1
+E:\photo\00\enhance_image\201104147_histogramEqualization0.jpg 14,13,61,53,1
+E:\photo\00\enhance_image\201104147_Imagerotate0.jpg 101,286,142,331,1
+E:\photo\00\enhance_image\201104147_noiseImpulse0.jpg 14,13,61,53,1
+E:\photo\00\enhance_image\201104147_randomGaussian0.jpg 14,13,61,53,1
+E:\photo\00\enhance_image\201104150.jpg 53,81,105,135,1 135,57,204,128,1 11,264,56,314,1
+E:\photo\00\enhance_image\201104150_histogramEqualization0.jpg 53,81,105,135,1 135,57,204,128,1 11,264,56,314,1
+E:\photo\00\enhance_image\201104150_Imagerotate0.jpg 104,264,157,316,1 118,167,188,236,1 253,382,301,428,1
+E:\photo\00\enhance_image\201104150_noiseImpulse0.jpg 53,81,105,135,1 135,57,204,128,1 11,264,56,314,1
+E:\photo\00\enhance_image\201104150_randomGaussian0.jpg 53,81,105,135,1 135,57,204,128,1 11,264,56,314,1
+E:\photo\00\enhance_image\201104151.jpg 19,101,73,155,1
+E:\photo\00\enhance_image\201104151_histogramEqualization0.jpg 19,101,73,155,1
+E:\photo\00\enhance_image\201104151_noiseImpulse0.jpg 19,101,73,155,1
+E:\photo\00\enhance_image\201104151_randomGaussian0.jpg 19,101,73,155,1
+E:\photo\00\enhance_image\201104152.jpg 119,70,156,105,1
+E:\photo\00\enhance_image\201104152_Imagerotate0.jpg 223,173,259,209,1
+E:\photo\00\enhance_image\201104152_randomGaussian0.jpg 119,70,156,105,1
+E:\photo\00\enhance_image\201104153.jpg 138,64,186,102,1
+E:\photo\00\enhance_image\201104153_histogramEqualization0.jpg 138,64,186,102,1
+E:\photo\00\enhance_image\201104153_Imagerotate0.jpg 79,64,117,111,1
+E:\photo\00\enhance_image\201104153_randomGaussian0.jpg 138,64,186,102,1
+E:\photo\00\enhance_image\201104160.jpg 60,93,173,195,0
+E:\photo\00\enhance_image\201104160_histogramEqualization0.jpg 60,93,173,195,0
+E:\photo\00\enhance_image\201104160_Imagerotate0.jpg 125,266,233,371,0
+E:\photo\00\enhance_image\201104160_noiseImpulse0.jpg 60,93,173,195,0
+E:\photo\00\enhance_image\201104160_randomGaussian0.jpg 60,93,173,195,0
+E:\photo\00\enhance_image\201104170.jpg 241,171,504,410,0 19,256,180,403,0 56,88,161,195,0
+E:\photo\00\enhance_image\201104170_histogramEqualization0.jpg 241,171,504,410,0 19,256,180,403,0 56,88,161,195,0
+E:\photo\00\enhance_image\201104170_Imagerotate0.jpg 72,260,317,517,0 227,56,377,213,0 405,186,512,292,0
+E:\photo\00\enhance_image\201104170_noiseImpulse0.jpg 241,171,504,410,0 19,256,180,403,0 56,88,161,195,0
+E:\photo\00\enhance_image\201104170_randomGaussian0.jpg 241,171,504,410,0 19,256,180,403,0 56,88,161,195,0
+E:\photo\00\enhance_image\201104171_histogramEqualization0.jpg 17,115,61,163,1 155,113,217,170,1
+E:\photo\00\enhance_image\201104171_Imagerotate0.jpg 314,240,358,286,1 199,134,258,191,1
+E:\photo\00\enhance_image\201104171_noiseImpulse0.jpg 17,115,61,163,1 155,113,217,170,1
+E:\photo\00\enhance_image\201104171_randomGaussian0.jpg 17,115,61,163,1 155,113,217,170,1
+E:\photo\00\enhance_image\201104172.jpg 264,220,305,260,1
+E:\photo\00\enhance_image\201104172_histogramEqualization0.jpg 264,220,305,260,1
+E:\photo\00\enhance_image\201104172_Imagerotate0.jpg 268,252,309,292,1
+E:\photo\00\enhance_image\201104172_noiseImpulse0.jpg 264,220,305,260,1
+E:\photo\00\enhance_image\201104172_randomGaussian0.jpg 264,220,305,260,1
+E:\photo\00\enhance_image\201104173.jpg 337,11,424,91,0 310,206,435,307,0 10,98,126,223,0
+E:\photo\00\enhance_image\201104173_histogramEqualization0.jpg 337,11,424,91,0 310,206,435,307,0 10,98,126,223,0
+E:\photo\00\enhance_image\201104173_Imagerotate0.jpg 278,443,359,528,0 93,313,200,432,0 324,102,447,220,0
+E:\photo\00\enhance_image\201104173_noiseImpulse0.jpg 337,11,424,91,0 310,206,435,307,0 10,98,126,223,0
+E:\photo\00\enhance_image\201104173_randomGaussian0.jpg 337,11,424,91,0 310,206,435,307,0 10,98,126,223,0
+E:\photo\00\enhance_image\201104174.jpg 206,97,330,204,0 109,2,156,51,1
+E:\photo\00\enhance_image\201104174_noiseImpulse0.jpg 206,97,330,204,0 109,2,156,51,1
+E:\photo\00\enhance_image\201104174_randomGaussian0.jpg 206,97,330,204,0 109,2,156,51,1
+E:\photo\00\enhance_image\201104175.jpg 27,17,115,117,0 124,88,206,148,0
+E:\photo\00\enhance_image\201104175_histogramEqualization0.jpg 27,17,115,117,0 124,88,206,148,0
+E:\photo\00\enhance_image\201104175_Imagerotate0.jpg 108,43,199,140,0 174,148,251,214,0
+E:\photo\00\enhance_image\201104175_randomGaussian0.jpg 27,17,115,117,0 124,88,206,148,0
+E:\photo\00\enhance_image\201104180.jpg 32,213,253,420,0
+E:\photo\00\enhance_image\201104180_histogramEqualization0.jpg 32,213,253,420,0
+E:\photo\00\enhance_image\201104180_Imagerotate0.jpg 259,34,480,241,0
+E:\photo\00\enhance_image\201104180_randomGaussian0.jpg 32,213,253,420,0
+E:\photo\00\enhance_image\201104200.jpg 56,84,71,101,1 101,66,118,83,1
+E:\photo\00\enhance_image\201104200_Imagerotate0.jpg 66,88,81,105,1 112,73,129,90,1
+E:\photo\00\enhance_image\201104200_randomGaussian0.jpg 56,84,71,101,1 101,66,118,83,1
+E:\photo\00\enhance_image\201104210.jpg 270,24,344,81,1
+E:\photo\00\enhance_image\201104210_Imagerotate0.jpg 37,141,99,209,1
+E:\photo\00\enhance_image\201104210_noiseImpulse0.jpg 270,24,344,81,1
+E:\photo\00\enhance_image\201104210_randomGaussian0.jpg 270,24,344,81,1
+E:\photo\00\enhance_image\201104211.jpg 163,11,242,63,1
+E:\photo\00\enhance_image\201104211_histogramEqualization0.jpg 163,11,242,63,1
+E:\photo\00\enhance_image\201104211_noiseImpulse0.jpg 163,11,242,63,1
+E:\photo\00\enhance_image\201104211_randomGaussian0.jpg 163,11,242,63,1
+E:\photo\00\enhance_image\201104230.jpg 15,28,119,130,1
+E:\photo\00\enhance_image\201104230_Imagerotate0.jpg 40,317,140,419,1
+E:\photo\00\enhance_image\201104230_noiseImpulse0.jpg 15,28,119,130,1
+E:\photo\00\enhance_image\201104230_randomGaussian0.jpg 15,28,119,130,1
+E:\photo\00\enhance_image\201104240.jpg 18,14,53,47,1
+E:\photo\00\enhance_image\201104240_histogramEqualization0.jpg 18,14,53,47,1
+E:\photo\00\enhance_image\201104240_noiseImpulse0.jpg 18,14,53,47,1
+E:\photo\00\enhance_image\201104240_randomGaussian0.jpg 18,14,53,47,1
+E:\photo\00\enhance_image\201104241.jpg 29,19,159,156,1
+E:\photo\00\enhance_image\201104241_histogramEqualization0.jpg 29,19,159,156,1
+E:\photo\00\enhance_image\201104241_Imagerotate0.jpg 213,190,341,326,1
+E:\photo\00\enhance_image\201104241_noiseImpulse0.jpg 29,19,159,156,1
+E:\photo\00\enhance_image\201104241_randomGaussian0.jpg 29,19,159,156,1
+E:\photo\00\enhance_image\201104242.jpg 47,20,223,202,0
+E:\photo\00\enhance_image\201104242_histogramEqualization0.jpg 47,20,223,202,0
+E:\photo\00\enhance_image\201104242_Imagerotate0.jpg 67,81,240,259,0
+E:\photo\00\enhance_image\201104242_noiseImpulse0.jpg 47,20,223,202,0
+E:\photo\00\enhance_image\201104242_randomGaussian0.jpg 47,20,223,202,0
+E:\photo\00\enhance_image\201104243.jpg 113,49,272,197,0
+E:\photo\00\enhance_image\201104243_histogramEqualization0.jpg 113,49,272,197,0
+E:\photo\00\enhance_image\201104243_Imagerotate0.jpg 129,63,280,219,0
+E:\photo\00\enhance_image\201104243_noiseImpulse0.jpg 113,49,272,197,0
+E:\photo\00\enhance_image\201104243_randomGaussian0.jpg 113,49,272,197,0
+E:\photo\00\enhance_image\201104250.jpg 99,1,228,104,1
+E:\photo\00\enhance_image\201104250_Imagerotate0.jpg 100,138,207,261,1
+E:\photo\00\enhance_image\201104250_noiseImpulse0.jpg 99,1,228,104,1
+E:\photo\00\enhance_image\201104250_randomGaussian0.jpg 99,1,228,104,1
+E:\photo\00\enhance_image\201104251.jpg 29,18,61,49,1
+E:\photo\00\enhance_image\201104251_histogramEqualization0.jpg 29,18,61,49,1
+E:\photo\00\enhance_image\201104251_Imagerotate0.jpg 101,32,132,63,1
+E:\photo\00\enhance_image\201104251_noiseImpulse0.jpg 29,18,61,49,1
+E:\photo\00\enhance_image\201104251_randomGaussian0.jpg 29,18,61,49,1
+E:\photo\00\enhance_image\201104252.jpg 51,22,297,259,0
+E:\photo\00\enhance_image\201104252_Imagerotate0.jpg 224,340,463,573,0
+E:\photo\00\enhance_image\201104252_noiseImpulse0.jpg 51,22,297,259,0
+E:\photo\00\enhance_image\201104252_randomGaussian0.jpg 51,22,297,259,0
+E:\photo\00\enhance_image\201104290.jpg 248,322,366,439,0 375,179,457,263,1 176,327,238,393,1
+E:\photo\00\enhance_image\201104290_histogramEqualization0.jpg 248,322,366,439,0 375,179,457,263,1 176,327,238,393,1
+E:\photo\00\enhance_image\201104290_Imagerotate0.jpg 381,175,498,292,0 204,188,288,270,1 444,297,509,360,1
+E:\photo\00\enhance_image\201104300.jpg 27,33,98,106,0
+E:\photo\00\enhance_image\201104300_histogramEqualization0.jpg 27,33,98,106,0
+E:\photo\00\enhance_image\201104300_Imagerotate0.jpg 67,41,137,113,0
+E:\photo\00\enhance_image\201104300_noiseImpulse0.jpg 27,33,98,106,0
+E:\photo\00\enhance_image\201104300_randomGaussian0.jpg 27,33,98,106,0
+E:\photo\00\enhance_image\201104301.jpg 21,135,221,311,0
+E:\photo\00\enhance_image\201104301_histogramEqualization0.jpg 21,135,221,311,0
+E:\photo\00\enhance_image\201104301_Imagerotate0.jpg 148,274,334,458,0
+E:\photo\00\enhance_image\201104301_noiseImpulse0.jpg 21,135,221,311,0
+E:\photo\00\enhance_image\201104301_randomGaussian0.jpg 21,135,221,311,0
+E:\photo\00\enhance_image\201104302.jpg 117,17,162,61,1
+E:\photo\00\enhance_image\201104302_histogramEqualization0.jpg 117,17,162,61,1
+E:\photo\00\enhance_image\201104302_Imagerotate0.jpg 157,47,200,90,1
+E:\photo\00\enhance_image\201104302_noiseImpulse0.jpg 117,17,162,61,1
+E:\photo\00\enhance_image\201104302_randomGaussian0.jpg 117,17,162,61,1
+E:\photo\00\enhance_image\201104303_histogramEqualization0.jpg 272,72,313,120,1 34,165,94,224,1
+E:\photo\00\enhance_image\201104303_Imagerotate0.jpg 293,232,336,278,1 44,163,103,221,1
+E:\photo\00\enhance_image\201104303_randomGaussian0.jpg 272,72,313,120,1 34,165,94,224,1
+E:\photo\00\enhance_image\201104304_histogramEqualization0.jpg 14,22,56,62,1 296,108,347,161,1
+E:\photo\00\enhance_image\201104304_Imagerotate0.jpg 168,33,208,73,1 295,299,346,349,1
+E:\photo\00\enhance_image\201104304_noiseImpulse0.jpg 14,22,56,62,1 296,108,347,161,1
+E:\photo\00\enhance_image\201104304_randomGaussian0.jpg 14,22,56,62,1 296,108,347,161,1
+E:\photo\00\enhance_image\201105020.jpg 13,224,127,340,0 387,113,483,218,0 209,301,283,360,0 523,28,602,106,0
+E:\photo\00\enhance_image\201105020_Imagerotate0.jpg 20,228,134,344,0 403,150,499,254,0 211,321,285,379,0 547,76,626,154,0
+E:\photo\00\enhance_image\201105020_noiseImpulse0.jpg 13,224,127,340,0 387,113,483,218,0 209,301,283,360,0 523,28,602,106,0
+E:\photo\00\enhance_image\201105020_randomGaussian0.jpg 13,224,127,340,0 387,113,483,218,0 209,301,283,360,0 523,28,602,106,0
+E:\photo\00\enhance_image\201105060.jpg 190,15,321,194,0
+E:\photo\00\enhance_image\201105060_histogramEqualization0.jpg 190,15,321,194,0
+E:\photo\00\enhance_image\201105060_Imagerotate0.jpg 193,19,324,197,0
+E:\photo\00\enhance_image\201105060_noiseImpulse0.jpg 190,15,321,194,0
+E:\photo\00\enhance_image\201105060_randomGaussian0.jpg 190,15,321,194,0
+E:\photo\00\enhance_image\201105080.jpg 142,107,307,277,0
+E:\photo\00\enhance_image\201105080_histogramEqualization0.jpg 142,107,307,277,0
+E:\photo\00\enhance_image\201105080_Imagerotate0.jpg 16,142,186,307,0
+E:\photo\00\enhance_image\201105080_noiseImpulse0.jpg 142,107,307,277,0
+E:\photo\00\enhance_image\201105080_randomGaussian0.jpg 142,107,307,277,0
+E:\photo\00\enhance_image\201105081.jpg 82,130,196,241,0
+E:\photo\00\enhance_image\201105081_histogramEqualization0.jpg 82,130,196,241,0
+E:\photo\00\enhance_image\201105081_noiseImpulse0.jpg 82,130,196,241,0
+E:\photo\00\enhance_image\201105081_randomGaussian0.jpg 82,130,196,241,0
+E:\photo\00\enhance_image\201105082.jpg 33,223,153,347,0 391,118,491,209,0
+E:\photo\00\enhance_image\201105082_Imagerotate0.jpg 382,41,502,164,0 124,309,222,401,0
+E:\photo\00\enhance_image\201105082_noiseImpulse0.jpg 33,223,153,347,0 391,118,491,209,0
+E:\photo\00\enhance_image\201105082_randomGaussian0.jpg 33,223,153,347,0 391,118,491,209,0
+E:\photo\00\enhance_image\201105090.jpg 167,11,265,115,1
+E:\photo\00\enhance_image\201105090_histogramEqualization0.jpg 167,11,265,115,1
+E:\photo\00\enhance_image\201105090_Imagerotate0.jpg 58,157,161,256,1
+E:\photo\00\enhance_image\201105090_noiseImpulse0.jpg 167,11,265,115,1
+E:\photo\00\enhance_image\201105090_randomGaussian0.jpg 167,11,265,115,1
+E:\photo\00\enhance_image\201105120.jpg 93,79,151,131,1 270,109,353,187,1
+E:\photo\00\enhance_image\201105120_histogramEqualization0.jpg 93,79,151,131,1 270,109,353,187,1
+E:\photo\00\enhance_image\201105120_Imagerotate0.jpg 290,168,347,221,1 87,193,169,271,1
+E:\photo\00\enhance_image\201105120_noiseImpulse0.jpg 93,79,151,131,1 270,109,353,187,1
+E:\photo\00\enhance_image\201105140_Imagerotate0.jpg 37,55,55,73,1
+E:\photo\00\enhance_image\201105140_noiseImpulse0.jpg 33,16,51,35,1
+E:\photo\00\enhance_image\201105140_randomGaussian0.jpg 33,16,51,35,1
+E:\photo\00\enhance_image\201105150_noiseImpulse0.jpg 103,46,132,82,1 93,120,146,176,1
+E:\photo\00\enhance_image\201105151.jpg 36,31,86,68,1
+E:\photo\00\enhance_image\201105151_histogramEqualization0.jpg 36,31,86,68,1
+E:\photo\00\enhance_image\201105151_Imagerotate0.jpg 221,97,260,144,1
+E:\photo\00\enhance_image\201105151_noiseImpulse0.jpg 36,31,86,68,1
+E:\photo\00\enhance_image\201105160.jpg 119,83,155,113,1
+E:\photo\00\enhance_image\201105160_Imagerotate0.jpg 122,94,158,124,1
+E:\photo\00\enhance_image\201105160_noiseImpulse0.jpg 119,83,155,113,1
+E:\photo\00\enhance_image\201105160_randomGaussian0.jpg 119,83,155,113,1
+E:\photo\00\enhance_image\201105170.jpg 55,298,126,369,0 33,409,144,518,0 281,493,430,634,0
+E:\photo\00\enhance_image\201105170_histogramEqualization0.jpg 55,298,126,369,0 33,409,144,518,0 281,493,430,634,0
+E:\photo\00\enhance_image\201105170_Imagerotate0.jpg 700,489,769,558,0 723,347,831,454,0 481,153,626,293,0
+E:\photo\00\enhance_image\201105170_noiseImpulse0.jpg 55,298,126,369,0 33,409,144,518,0 281,493,430,634,0
+E:\photo\00\enhance_image\201105170_randomGaussian0.jpg 700,489,769,558,0 723,347,831,454,0 481,153,626,293,0
+E:\photo\00\enhance_image\201105180.jpg 13,265,88,332,1
+E:\photo\00\enhance_image\201105180_Imagerotate0.jpg 323,20,398,87,1
+E:\photo\00\enhance_image\201105180_noiseImpulse0.jpg 13,265,88,332,1
+E:\photo\00\enhance_image\201105180_randomGaussian0.jpg 13,265,88,332,1
+E:\photo\00\enhance_image\201105181.jpg 70,18,102,49,1
+E:\photo\00\enhance_image\201105181_histogramEqualization0.jpg 70,18,102,49,1
+E:\photo\00\enhance_image\201105181_Imagerotate0.jpg 48,191,79,222,1
+E:\photo\00\enhance_image\201105181_noiseImpulse0.jpg 70,18,102,49,1
+E:\photo\00\enhance_image\201105181_randomGaussian0.jpg 70,18,102,49,1
+E:\photo\00\enhance_image\201105182.jpg 9,11,112,108,1
+E:\photo\00\enhance_image\201105182_histogramEqualization0.jpg 9,11,112,108,1
+E:\photo\00\enhance_image\201105182_Imagerotate0.jpg 168,35,265,134,1
+E:\photo\00\enhance_image\201105182_randomGaussian0.jpg 9,11,112,108,1
+E:\photo\00\enhance_image\201105183.jpg 77,13,106,35,1
+E:\photo\00\enhance_image\201105183_Imagerotate0.jpg 34,90,58,117,1
+E:\photo\00\enhance_image\201105183_noiseImpulse0.jpg 77,13,106,35,1
+E:\photo\00\enhance_image\201105183_randomGaussian0.jpg 77,13,106,35,1
+E:\photo\00\enhance_image\201105190.jpg 22,108,108,187,1
+E:\photo\00\enhance_image\201105190_histogramEqualization0.jpg 22,108,108,187,1
+E:\photo\00\enhance_image\201105190_Imagerotate0.jpg 202,233,282,317,1
+E:\photo\00\enhance_image\201105190_noiseImpulse0.jpg 22,108,108,187,1
+E:\photo\00\enhance_image\201105190_randomGaussian0.jpg 22,108,108,187,1
+E:\photo\00\enhance_image\201105200_histogramEqualization0.jpg 13,18,200,193,0
+E:\photo\00\enhance_image\201105200_noiseImpulse0.jpg 13,18,200,193,0
+E:\photo\00\enhance_image\201105201.jpg 3,109,85,183,1
+E:\photo\00\enhance_image\201105201_histogramEqualization0.jpg 3,109,85,183,1
+E:\photo\00\enhance_image\201105201_Imagerotate0.jpg 7,112,88,185,1
+E:\photo\00\enhance_image\201105201_noiseImpulse0.jpg 3,109,85,183,1
+E:\photo\00\enhance_image\201105201_randomGaussian0.jpg 3,109,85,183,1
+E:\photo\00\enhance_image\201105240_histogramEqualization0.jpg 178,80,272,165,1
+E:\photo\00\enhance_image\201105240_Imagerotate0.jpg 240,199,328,286,1
+E:\photo\00\enhance_image\201105240_randomGaussian0.jpg 178,80,272,165,1
+E:\photo\00\enhance_image\201105300_Imagerotate0.jpg 579,559,763,778,1
+E:\photo\00\enhance_image\201105300_noiseImpulse0.jpg 55,363,287,536,1
+E:\photo\00\enhance_image\201105300_randomGaussian0.jpg 579,559,763,778,1
+E:\photo\00\enhance_image\201105301.jpg 554,43,704,155,1
+E:\photo\00\enhance_image\201105301_histogramEqualization0.jpg 554,43,704,155,1
+E:\photo\00\enhance_image\201105301_Imagerotate0.jpg 423,115,550,250,1
+E:\photo\00\enhance_image\201105301_noiseImpulse0.jpg 554,43,704,155,1
+E:\photo\00\enhance_image\201105301_randomGaussian0.jpg 423,115,550,250,1
+E:\photo\00\enhance_image\201105310.jpg 14,227,56,265,1
+E:\photo\00\enhance_image\201105310_histogramEqualization0.jpg 14,227,56,265,1
+E:\photo\00\enhance_image\201105310_Imagerotate0.jpg 16,27,54,69,1
+E:\photo\00\enhance_image\201105310_noiseImpulse0.jpg 14,227,56,265,1
+E:\photo\00\enhance_image\201105310_randomGaussian0.jpg 14,227,56,265,1
+E:\photo\00\enhance_image\201105311.jpg 31,21,89,69,1
+E:\photo\00\enhance_image\201105311_histogramEqualization0.jpg 31,21,89,69,1
+E:\photo\00\enhance_image\201105311_Imagerotate0.jpg 238,47,291,99,1
+E:\photo\00\enhance_image\201105311_noiseImpulse0.jpg 31,21,89,69,1
+E:\photo\00\enhance_image\201105311_randomGaussian0.jpg 31,21,89,69,1
+E:\photo\00\enhance_image\201105312_histogramEqualization0.jpg 93,85,118,107,1
+E:\photo\00\enhance_image\201105312_Imagerotate0.jpg 55,127,78,151,1
+E:\photo\00\enhance_image\201105312_noiseImpulse0.jpg 93,85,118,107,1
+E:\photo\00\enhance_image\201105312_randomGaussian0.jpg 93,85,118,107,1
+E:\photo\00\enhance_image\201106010.jpg 26,4,295,187,0
+E:\photo\00\enhance_image\201106010_noiseImpulse0.jpg 26,4,295,187,0
+E:\photo\00\enhance_image\201106020.jpg 47,20,237,197,0
+E:\photo\00\enhance_image\201106020_histogramEqualization0.jpg 47,20,237,197,0
+E:\photo\00\enhance_image\201106020_Imagerotate0.jpg 79,71,263,251,0
+E:\photo\00\enhance_image\201106020_noiseImpulse0.jpg 47,20,237,197,0
+E:\photo\00\enhance_image\201106020_randomGaussian0.jpg 47,20,237,197,0
+E:\photo\00\enhance_image\201106021.jpg 37,114,106,180,1 199,15,441,213,0
+E:\photo\00\enhance_image\201106021_histogramEqualization0.jpg 37,114,106,180,1 199,15,441,213,0
+E:\photo\00\enhance_image\201106021_randomGaussian0.jpg 37,114,106,180,1 199,15,441,213,0
+E:\photo\00\enhance_image\201106040_histogramEqualization0.jpg 222,30,285,85,1
+E:\photo\00\enhance_image\201106040_noiseImpulse0.jpg 222,30,285,85,1
+E:\photo\00\enhance_image\201106040_randomGaussian0.jpg 222,30,285,85,1
+E:\photo\00\enhance_image\201106050.jpg 246,219,436,410,0
+E:\photo\00\enhance_image\201106050_Imagerotate0.jpg 319,357,508,547,0
+E:\photo\00\enhance_image\201106050_noiseImpulse0.jpg 246,219,436,410,0
+E:\photo\00\enhance_image\201106050_randomGaussian0.jpg 319,357,508,547,0
+E:\photo\00\enhance_image\201106060.jpg 40,38,194,189,1
+E:\photo\00\enhance_image\201106060_histogramEqualization0.jpg 40,38,194,189,1
+E:\photo\00\enhance_image\201106060_Imagerotate0.jpg 205,55,354,207,1
+E:\photo\00\enhance_image\201106060_noiseImpulse0.jpg 40,38,194,189,1
+E:\photo\00\enhance_image\201106060_randomGaussian0.jpg 40,38,194,189,1
+E:\photo\00\enhance_image\201106061.jpg 41,42,248,259,0
+E:\photo\00\enhance_image\201106061_Imagerotate0.jpg 250,244,456,460,0
+E:\photo\00\enhance_image\201106061_noiseImpulse0.jpg 41,42,248,259,0
+E:\photo\00\enhance_image\201106061_randomGaussian0.jpg 41,42,248,259,0
+E:\photo\00\enhance_image\201106110.jpg 272,285,464,506,0
+E:\photo\00\enhance_image\201106110_histogramEqualization0.jpg 272,285,464,506,0
+E:\photo\00\enhance_image\201106110_Imagerotate0.jpg 498,456,706,654,0
+E:\photo\00\enhance_image\201106110_noiseImpulse0.jpg 272,285,464,506,0
+E:\photo\00\enhance_image\201106110_randomGaussian0.jpg 498,456,706,654,0
+E:\photo\00\enhance_image\201106150.jpg 288,11,343,53,1 37,160,90,213,1
+E:\photo\00\enhance_image\201106150_Imagerotate0.jpg 245,48,296,94,1 136,320,188,372,1
+E:\photo\00\enhance_image\201106150_noiseImpulse0.jpg 288,11,343,53,1 37,160,90,213,1
+E:\photo\00\enhance_image\201106150_randomGaussian0.jpg 288,11,343,53,1 37,160,90,213,1
+E:\photo\00\enhance_image\201106160.jpg 30,1,80,41,1
+E:\photo\00\enhance_image\201106160_histogramEqualization0.jpg 30,1,80,41,1
+E:\photo\00\enhance_image\201106160_Imagerotate0.jpg 178,373,220,420,1
+E:\photo\00\enhance_image\201106160_noiseImpulse0.jpg 30,1,80,41,1
+E:\photo\00\enhance_image\201106160_randomGaussian0.jpg 30,1,80,41,1
+E:\photo\00\enhance_image\201106170.jpg 249,226,316,284,1
+E:\photo\00\enhance_image\201106170_histogramEqualization0.jpg 249,226,316,284,1
+E:\photo\00\enhance_image\201106170_Imagerotate0.jpg 277,232,344,289,1
+E:\photo\00\enhance_image\201106170_noiseImpulse0.jpg 249,226,316,284,1
+E:\photo\00\enhance_image\201106170_randomGaussian0.jpg 249,226,316,284,1
+E:\photo\00\enhance_image\201106190.jpg 404,361,491,418,1 24,31,260,191,1
+E:\photo\00\enhance_image\201106190_histogramEqualization0.jpg 404,361,491,418,1 24,31,260,191,1
+E:\photo\00\enhance_image\201106190_Imagerotate0.jpg 113,52,198,111,1 270,344,499,507,1
+E:\photo\00\enhance_image\201106190_randomGaussian0.jpg 404,361,491,418,1 24,31,260,191,1
+E:\photo\00\enhance_image\201106191.jpg 218,5,440,277,0
+E:\photo\00\enhance_image\201106191_histogramEqualization0.jpg 218,5,440,277,0
+E:\photo\00\enhance_image\201106191_Imagerotate0.jpg 106,267,366,500,0
+E:\photo\00\enhance_image\201106191_noiseImpulse0.jpg 218,5,440,277,0
+E:\photo\00\enhance_image\201106191_randomGaussian0.jpg 218,5,440,277,0
+E:\photo\00\enhance_image\201106200.jpg 63,14,178,105,1
+E:\photo\00\enhance_image\201106200_histogramEqualization0.jpg 63,14,178,105,1
+E:\photo\00\enhance_image\201106200_Imagerotate0.jpg 272,63,381,160,1
+E:\photo\00\enhance_image\201106250_histogramEqualization0.jpg 121,4,221,68,1
+E:\photo\00\enhance_image\201106250_Imagerotate0.jpg 120,33,211,106,1
+E:\photo\00\enhance_image\201106250_noiseImpulse0.jpg 121,4,221,68,1
+E:\photo\00\enhance_image\201106250_randomGaussian0.jpg 121,4,221,68,1
+E:\photo\00\enhance_image\201106260.jpg 31,12,104,76,0
+E:\photo\00\enhance_image\201106260_histogramEqualization0.jpg 31,12,104,76,0
+E:\photo\00\enhance_image\201106260_Imagerotate0.jpg 177,269,248,336,0
+E:\photo\00\enhance_image\201106260_randomGaussian0.jpg 31,12,104,76,0
+E:\photo\00\enhance_image\201106261.jpg 301,15,408,108,0
+E:\photo\00\enhance_image\201106261_histogramEqualization0.jpg 301,15,408,108,0
+E:\photo\00\enhance_image\201106261_Imagerotate0.jpg 391,306,483,409,0
+E:\photo\00\enhance_image\201106261_randomGaussian0.jpg 301,15,408,108,0
+E:\photo\00\enhance_image\201106270.jpg 24,16,276,270,0
+E:\photo\00\enhance_image\201106270_histogramEqualization0.jpg 24,16,276,270,0
+E:\photo\00\enhance_image\201106270_Imagerotate0.jpg 83,113,330,360,0
+E:\photo\00\enhance_image\201106270_noiseImpulse0.jpg 24,16,276,270,0
+E:\photo\00\enhance_image\201106290.jpg 130,81,199,150,1
+E:\photo\00\enhance_image\201106290_Imagerotate0.jpg 165,87,233,154,1
+E:\photo\00\enhance_image\201106290_noiseImpulse0.jpg 130,81,199,150,1
+E:\photo\00\enhance_image\201106290_randomGaussian0.jpg 130,81,199,150,1
+E:\photo\00\enhance_image\201106291.jpg 191,20,234,65,1
+E:\photo\00\enhance_image\201106291_histogramEqualization0.jpg 191,20,234,65,1
+E:\photo\00\enhance_image\201106291_Imagerotate0.jpg 70,35,114,77,1
+E:\photo\00\enhance_image\201106291_noiseImpulse0.jpg 191,20,234,65,1
+E:\photo\00\enhance_image\201106291_randomGaussian0.jpg 191,20,234,65,1
+E:\photo\00\enhance_image\201106300.jpg 35,80,157,182,1
+E:\photo\00\enhance_image\201106300_histogramEqualization0.jpg 35,80,157,182,1
+E:\photo\00\enhance_image\201106300_Imagerotate0.jpg 110,101,228,202,1
+E:\photo\00\enhance_image\201106300_noiseImpulse0.jpg 35,80,157,182,1
+E:\photo\00\enhance_image\201106300_randomGaussian0.jpg 35,80,157,182,1
+E:\photo\00\enhance_image\201107010.jpg 153,42,369,293,0
+E:\photo\00\enhance_image\201107010_histogramEqualization0.jpg 153,42,369,293,0
+E:\photo\00\enhance_image\201107010_Imagerotate0.jpg 55,160,306,376,0
+E:\photo\00\enhance_image\201107010_noiseImpulse0.jpg 153,42,369,293,0
+E:\photo\00\enhance_image\201107010_randomGaussian0.jpg 153,42,369,293,0
+E:\photo\00\enhance_image\201107050.jpg 58,42,225,248,0
+E:\photo\00\enhance_image\201107050_Imagerotate0.jpg 246,127,443,296,0
+E:\photo\00\enhance_image\201107050_noiseImpulse0.jpg 58,42,225,248,0
+E:\photo\00\enhance_image\201107050_randomGaussian0.jpg 58,42,225,248,0
+E:\photo\00\enhance_image\201107060.jpg 406,353,485,421,1
+E:\photo\00\enhance_image\201107060_histogramEqualization0.jpg 406,353,485,421,1
+E:\photo\00\enhance_image\201107060_Imagerotate0.jpg 366,536,442,607,1
+E:\photo\00\enhance_image\201107060_noiseImpulse0.jpg 406,353,485,421,1
+E:\photo\00\enhance_image\201107060_randomGaussian0.jpg 406,353,485,421,1
+E:\photo\00\enhance_image\201107080.jpg 79,17,96,36,1
+E:\photo\00\enhance_image\201107080_histogramEqualization0.jpg 79,17,96,36,1
+E:\photo\00\enhance_image\201107080_Imagerotate0.jpg 166,158,183,175,1
+E:\photo\00\enhance_image\201107080_noiseImpulse0.jpg 79,17,96,36,1
+E:\photo\00\enhance_image\201107080_randomGaussian0.jpg 79,17,96,36,1
+E:\photo\00\enhance_image\201107090_histogramEqualization0.jpg 20,60,74,118,0
+E:\photo\00\enhance_image\201107090_Imagerotate0.jpg 127,268,183,321,0
+E:\photo\00\enhance_image\201107090_noiseImpulse0.jpg 20,60,74,118,0
+E:\photo\00\enhance_image\201107100.jpg
+E:\photo\00\enhance_image\201107100_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201107100_Imagerotate0.jpg
+E:\photo\00\enhance_image\201107100_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201107100_randomGaussian0.jpg
+E:\photo\00\enhance_image\201107101.jpg 12,6,62,51,1
+E:\photo\00\enhance_image\201107101_histogramEqualization0.jpg 12,6,62,51,1
+E:\photo\00\enhance_image\201107101_Imagerotate0.jpg 21,249,67,297,1
+E:\photo\00\enhance_image\201107101_randomGaussian0.jpg 12,6,62,51,1
+E:\photo\00\enhance_image\201107110.jpg 15,14,48,43,1
+E:\photo\00\enhance_image\201107110_histogramEqualization0.jpg 15,14,48,43,1
+E:\photo\00\enhance_image\201107110_noiseImpulse0.jpg 15,14,48,43,1
+E:\photo\00\enhance_image\201107110_randomGaussian0.jpg 15,14,48,43,1
+E:\photo\00\enhance_image\201107111.jpg 7,235,44,267,1
+E:\photo\00\enhance_image\201107111_noiseImpulse0.jpg 7,235,44,267,1
+E:\photo\00\enhance_image\201107111_randomGaussian0.jpg 7,235,44,267,1
+E:\photo\00\enhance_image\201107112.jpg 38,53,79,94,1
+E:\photo\00\enhance_image\201107112_Imagerotate0.jpg 164,45,205,86,1
+E:\photo\00\enhance_image\201107112_noiseImpulse0.jpg 38,53,79,94,1
+E:\photo\00\enhance_image\201107112_randomGaussian0.jpg 38,53,79,94,1
+E:\photo\00\enhance_image\201107140.jpg 30,44,70,80,1
+E:\photo\00\enhance_image\201107140_Imagerotate0.jpg 467,322,506,357,1
+E:\photo\00\enhance_image\201107140_noiseImpulse0.jpg 30,44,70,80,1
+E:\photo\00\enhance_image\201107140_randomGaussian0.jpg 30,44,70,80,1
+E:\photo\00\enhance_image\201107150_Imagerotate0.jpg 142,48,182,74,1
+E:\photo\00\enhance_image\201107150_noiseImpulse0.jpg 42,174,68,214,1
+E:\photo\00\enhance_image\201107150_randomGaussian0.jpg 42,174,68,214,1
+E:\photo\00\enhance_image\201107151.jpg 295,57,328,85,1
+E:\photo\00\enhance_image\201107151_histogramEqualization0.jpg 295,57,328,85,1
+E:\photo\00\enhance_image\201107151_Imagerotate0.jpg 369,236,400,266,1
+E:\photo\00\enhance_image\201107151_noiseImpulse0.jpg 295,57,328,85,1
+E:\photo\00\enhance_image\201107152.jpg 44,255,74,279,1
+E:\photo\00\enhance_image\201107152_histogramEqualization0.jpg 44,255,74,279,1
+E:\photo\00\enhance_image\201107152_Imagerotate0.jpg 84,235,112,261,1
+E:\photo\00\enhance_image\201107152_noiseImpulse0.jpg 44,255,74,279,1
+E:\photo\00\enhance_image\201107152_randomGaussian0.jpg 44,255,74,279,1
+E:\photo\00\enhance_image\201107160_histogramEqualization0.jpg 165,166,227,227,1
+E:\photo\00\enhance_image\201107160_Imagerotate0.jpg 194,206,255,268,1
+E:\photo\00\enhance_image\201107160_noiseImpulse0.jpg 165,166,227,227,1
+E:\photo\00\enhance_image\201107160_randomGaussian0.jpg 165,166,227,227,1
+E:\photo\00\enhance_image\201107170.jpg 253,3,311,65,1
+E:\photo\00\enhance_image\201107170_Imagerotate0.jpg 38,209,97,267,1
+E:\photo\00\enhance_image\201107170_noiseImpulse0.jpg 253,3,311,65,1
+E:\photo\00\enhance_image\201107170_randomGaussian0.jpg 253,3,311,65,1
+E:\photo\00\enhance_image\201107180_histogramEqualization0.jpg 26,215,126,299,0
+E:\photo\00\enhance_image\201107180_noiseImpulse0.jpg 26,215,126,299,0
+E:\photo\00\enhance_image\201107180_randomGaussian0.jpg 26,215,126,299,0
+E:\photo\00\enhance_image\201107200.jpg 240,211,275,254,1
+E:\photo\00\enhance_image\201107200_histogramEqualization0.jpg 240,211,275,254,1
+E:\photo\00\enhance_image\201107200_Imagerotate0.jpg 282,79,323,114,1
+E:\photo\00\enhance_image\201107200_noiseImpulse0.jpg 240,211,275,254,1
+E:\photo\00\enhance_image\201107200_randomGaussian0.jpg 240,211,275,254,1
+E:\photo\00\enhance_image\201107201_histogramEqualization0.jpg 37,75,108,178,1
+E:\photo\00\enhance_image\201107201_Imagerotate0.jpg 113,71,207,151,1
+E:\photo\00\enhance_image\201107201_noiseImpulse0.jpg 37,75,108,178,1
+E:\photo\00\enhance_image\201107201_randomGaussian0.jpg 37,75,108,178,1
+E:\photo\00\enhance_image\201108010.jpg 87,174,152,239,1
+E:\photo\00\enhance_image\201108010_histogramEqualization0.jpg 87,174,152,239,1
+E:\photo\00\enhance_image\201108010_Imagerotate0.jpg 158,102,221,166,1
+E:\photo\00\enhance_image\201108010_randomGaussian0.jpg 87,174,152,239,1
+E:\photo\00\enhance_image\201108020.jpg 182,51,250,109,1
+E:\photo\00\enhance_image\201108020_histogramEqualization0.jpg 182,51,250,109,1
+E:\photo\00\enhance_image\201108020_noiseImpulse0.jpg 182,51,250,109,1
+E:\photo\00\enhance_image\201108050.jpg 134,31,270,148,0 325,306,378,365,1
+E:\photo\00\enhance_image\201108050_Imagerotate0.jpg 288,147,409,274,0 233,457,289,511,1
+E:\photo\00\enhance_image\201108050_noiseImpulse0.jpg 134,31,270,148,0 325,306,378,365,1
+E:\photo\00\enhance_image\201108050_randomGaussian0.jpg 134,31,270,148,0 325,306,378,365,1
+E:\photo\00\enhance_image\201108080.jpg 434,24,610,230,1
+E:\photo\00\enhance_image\201108080_histogramEqualization0.jpg 434,24,610,230,1
+E:\photo\00\enhance_image\201108080_Imagerotate0.jpg 617,429,816,612,1
+E:\photo\00\enhance_image\201108080_noiseImpulse0.jpg 434,24,610,230,1
+E:\photo\00\enhance_image\201108080_randomGaussian0.jpg 617,429,816,612,1
+E:\photo\00\enhance_image\201108100.jpg 10,1,34,31,1
+E:\photo\00\enhance_image\201108100_histogramEqualization0.jpg 10,1,34,31,1
+E:\photo\00\enhance_image\201108100_Imagerotate0.jpg 205,291,230,319,1
+E:\photo\00\enhance_image\201108100_noiseImpulse0.jpg 10,1,34,31,1
+E:\photo\00\enhance_image\201108100_randomGaussian0.jpg 10,1,34,31,1
+E:\photo\00\enhance_image\201108110.jpg 30,298,119,380,0
+E:\photo\00\enhance_image\201108110_histogramEqualization0.jpg 30,298,119,380,0
+E:\photo\00\enhance_image\201108110_randomGaussian0.jpg 30,298,119,380,0
+E:\photo\00\enhance_image\201108111_randomGaussian0.jpg 67,37,94,61,1
+E:\photo\00\enhance_image\201108120_histogramEqualization0.jpg 48,123,101,175,1
+E:\photo\00\enhance_image\201108120_Imagerotate0.jpg 93,50,145,103,1
+E:\photo\00\enhance_image\201108120_noiseImpulse0.jpg 48,123,101,175,1
+E:\photo\00\enhance_image\201108120_randomGaussian0.jpg 48,123,101,175,1
+E:\photo\00\enhance_image\201108170.jpg 242,114,283,165,1
+E:\photo\00\enhance_image\201108170_histogramEqualization0.jpg 242,114,283,165,1
+E:\photo\00\enhance_image\201108170_Imagerotate0.jpg 136,120,185,162,1
+E:\photo\00\enhance_image\201108170_noiseImpulse0.jpg 242,114,283,165,1
+E:\photo\00\enhance_image\201108180.jpg 162,131,213,176,1
+E:\photo\00\enhance_image\201108180_histogramEqualization0.jpg 162,131,213,176,1
+E:\photo\00\enhance_image\201108180_Imagerotate0.jpg 41,125,90,171,1
+E:\photo\00\enhance_image\201108180_noiseImpulse0.jpg 162,131,213,176,1
+E:\photo\00\enhance_image\201108180_randomGaussian0.jpg 162,131,213,176,1
+E:\photo\00\enhance_image\201108181_histogramEqualization0.jpg 1,205,56,274,1
+E:\photo\00\enhance_image\201108181_Imagerotate0.jpg 309,256,375,313,1
+E:\photo\00\enhance_image\201108181_noiseImpulse0.jpg 1,205,56,274,1
+E:\photo\00\enhance_image\201108181_randomGaussian0.jpg 1,205,56,274,1
+E:\photo\00\enhance_image\201108190_histogramEqualization0.jpg 101,63,156,115,1
+E:\photo\00\enhance_image\201108190_Imagerotate0.jpg 146,191,199,243,1
+E:\photo\00\enhance_image\201108191.jpg 56,153,142,244,1
+E:\photo\00\enhance_image\201108191_histogramEqualization0.jpg 56,153,142,244,1
+E:\photo\00\enhance_image\201108191_Imagerotate0.jpg 278,86,362,173,1
+E:\photo\00\enhance_image\201108191_noiseImpulse0.jpg 56,153,142,244,1
+E:\photo\00\enhance_image\201108191_randomGaussian0.jpg 56,153,142,244,1
+E:\photo\00\enhance_image\201108200.jpg
+E:\photo\00\enhance_image\201108200_Imagerotate0.jpg
+E:\photo\00\enhance_image\201108200_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201108220.jpg 229,134,297,204,1
+E:\photo\00\enhance_image\201108220_histogramEqualization0.jpg 229,134,297,204,1
+E:\photo\00\enhance_image\201108220_Imagerotate0.jpg 59,234,128,302,1
+E:\photo\00\enhance_image\201108220_noiseImpulse0.jpg 229,134,297,204,1
+E:\photo\00\enhance_image\201108220_randomGaussian0.jpg 229,134,297,204,1
+E:\photo\00\enhance_image\201108230.jpg
+E:\photo\00\enhance_image\201108230_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201108230_randomGaussian0.jpg
+E:\photo\00\enhance_image\201108240.jpg 14,20,80,110,1 13,328,44,363,1
+E:\photo\00\enhance_image\201108240_histogramEqualization0.jpg 14,20,80,110,1 13,328,44,363,1
+E:\photo\00\enhance_image\201108240_noiseImpulse0.jpg 14,20,80,110,1 13,328,44,363,1
+E:\photo\00\enhance_image\201108240_randomGaussian0.jpg 14,20,80,110,1 13,328,44,363,1
+E:\photo\00\enhance_image\201108250.jpg 339,26,415,131,0 281,13,345,74,1
+E:\photo\00\enhance_image\201108250_histogramEqualization0.jpg 339,26,415,131,0 281,13,345,74,1
+E:\photo\00\enhance_image\201108250_Imagerotate0.jpg 390,103,466,206,0 342,77,404,137,1
+E:\photo\00\enhance_image\201108250_noiseImpulse0.jpg 339,26,415,131,0 281,13,345,74,1
+E:\photo\00\enhance_image\201108250_randomGaussian0.jpg 339,26,415,131,0 281,13,345,74,1
+E:\photo\00\enhance_image\201108260_histogramEqualization0.jpg 127,7,176,55,1
+E:\photo\00\enhance_image\201108260_Imagerotate0.jpg 180,128,227,176,1
+E:\photo\00\enhance_image\201108260_randomGaussian0.jpg 127,7,176,55,1
+E:\photo\00\enhance_image\201108270_histogramEqualization0.jpg 195,7,218,27,1
+E:\photo\00\enhance_image\201108270_Imagerotate0.jpg 187,15,209,35,1
+E:\photo\00\enhance_image\201108270_noiseImpulse0.jpg 195,7,218,27,1
+E:\photo\00\enhance_image\201108270_randomGaussian0.jpg 195,7,218,27,1
+E:\photo\00\enhance_image\201108280.jpg 17,7,82,73,0
+E:\photo\00\enhance_image\201108280_histogramEqualization0.jpg 17,7,82,73,0
+E:\photo\00\enhance_image\201108280_Imagerotate0.jpg 152,399,218,464,0
+E:\photo\00\enhance_image\201108280_noiseImpulse0.jpg 17,7,82,73,0
+E:\photo\00\enhance_image\201108310_Imagerotate0.jpg 67,79,93,107,1
+E:\photo\00\enhance_image\201108310_noiseImpulse0.jpg 193,192,219,220,1
+E:\photo\00\enhance_image\201108311.jpg 66,166,107,204,1
+E:\photo\00\enhance_image\201108311_histogramEqualization0.jpg 66,166,107,204,1
+E:\photo\00\enhance_image\201108311_Imagerotate0.jpg 171,136,209,177,1
+E:\photo\00\enhance_image\201108311_noiseImpulse0.jpg 66,166,107,204,1
+E:\photo\00\enhance_image\201108311_randomGaussian0.jpg 66,166,107,204,1
+E:\photo\00\enhance_image\201109010_histogramEqualization0.jpg 167,135,193,167,1
+E:\photo\00\enhance_image\201109010_noiseImpulse0.jpg 167,135,193,167,1
+E:\photo\00\enhance_image\201109010_randomGaussian0.jpg 167,135,193,167,1
+E:\photo\00\enhance_image\201109011.jpg 6,108,38,143,1
+E:\photo\00\enhance_image\201109011_Imagerotate0.jpg 24,89,57,122,1
+E:\photo\00\enhance_image\201109011_noiseImpulse0.jpg 6,108,38,143,1
+E:\photo\00\enhance_image\201109011_randomGaussian0.jpg 6,108,38,143,1
+E:\photo\00\enhance_image\201109050_histogramEqualization0.jpg 136,1,237,65,1
+E:\photo\00\enhance_image\201109050_Imagerotate0.jpg 74,216,169,285,1
+E:\photo\00\enhance_image\201109050_randomGaussian0.jpg 136,1,237,65,1
+E:\photo\00\enhance_image\201109060.jpg 135,85,243,173,1
+E:\photo\00\enhance_image\201109060_histogramEqualization0.jpg 135,85,243,173,1
+E:\photo\00\enhance_image\201109060_Imagerotate0.jpg 84,99,187,189,1
+E:\photo\00\enhance_image\201109060_randomGaussian0.jpg 135,85,243,173,1
+E:\photo\00\enhance_image\201109061_histogramEqualization0.jpg 7,9,43,42,1
+E:\photo\00\enhance_image\201109061_Imagerotate0.jpg 12,119,44,155,1
+E:\photo\00\enhance_image\201109061_noiseImpulse0.jpg 7,9,43,42,1
+E:\photo\00\enhance_image\201109061_randomGaussian0.jpg 7,9,43,42,1
+E:\photo\00\enhance_image\201109062.jpg 120,121,145,147,1
+E:\photo\00\enhance_image\201109062_histogramEqualization0.jpg 120,121,145,147,1
+E:\photo\00\enhance_image\201109062_Imagerotate0.jpg 142,38,168,62,1
+E:\photo\00\enhance_image\201109062_noiseImpulse0.jpg 120,121,145,147,1
+E:\photo\00\enhance_image\201109062_randomGaussian0.jpg 120,121,145,147,1
+E:\photo\00\enhance_image\201109070.jpg 20,79,71,112,1 125,65,168,103,1
+E:\photo\00\enhance_image\201109070_histogramEqualization0.jpg 20,79,71,112,1 125,65,168,103,1
+E:\photo\00\enhance_image\201109070_Imagerotate0.jpg 77,139,121,181,1 144,62,184,102,1
+E:\photo\00\enhance_image\201109070_noiseImpulse0.jpg 20,79,71,112,1 125,65,168,103,1
+E:\photo\00\enhance_image\201109071.jpg 178,8,214,42,1
+E:\photo\00\enhance_image\201109071_Imagerotate0.jpg 236,179,269,215,1
+E:\photo\00\enhance_image\201109071_noiseImpulse0.jpg 178,8,214,42,1
+E:\photo\00\enhance_image\201109071_randomGaussian0.jpg 178,8,214,42,1
+E:\photo\00\enhance_image\201109072_histogramEqualization0.jpg 9,7,37,36,1
+E:\photo\00\enhance_image\201109072_Imagerotate0.jpg 87,16,115,45,1
+E:\photo\00\enhance_image\201109072_noiseImpulse0.jpg 9,7,37,36,1
+E:\photo\00\enhance_image\201109072_randomGaussian0.jpg 9,7,37,36,1
+E:\photo\00\enhance_image\201109073_histogramEqualization0.jpg 147,161,188,186,1
+E:\photo\00\enhance_image\201109073_Imagerotate0.jpg 147,166,188,191,1
+E:\photo\00\enhance_image\201109073_randomGaussian0.jpg 147,161,188,186,1
+E:\photo\00\enhance_image\201109074.jpg 5,1,58,47,1
+E:\photo\00\enhance_image\201109074_histogramEqualization0.jpg 5,1,58,47,1
+E:\photo\00\enhance_image\201109074_Imagerotate0.jpg 70,11,116,62,1
+E:\photo\00\enhance_image\201109074_noiseImpulse0.jpg 5,1,58,47,1
+E:\photo\00\enhance_image\201109080.jpg 9,7,112,112,0
+E:\photo\00\enhance_image\201109080_randomGaussian0.jpg 9,7,112,112,0
+E:\photo\00\enhance_image\201109081.jpg 73,79,97,101,1
+E:\photo\00\enhance_image\201109081_noiseImpulse0.jpg 73,79,97,101,1
+E:\photo\00\enhance_image\201109081_randomGaussian0.jpg 73,79,97,101,1
+E:\photo\00\enhance_image\201109090.jpg 11,7,52,36,1
+E:\photo\00\enhance_image\201109090_histogramEqualization0.jpg 11,7,52,36,1
+E:\photo\00\enhance_image\201109090_Imagerotate0.jpg 68,17,106,49,1
+E:\photo\00\enhance_image\201109090_noiseImpulse0.jpg 11,7,52,36,1
+E:\photo\00\enhance_image\201109090_randomGaussian0.jpg 11,7,52,36,1
+E:\photo\00\enhance_image\201109091.jpg 97,50,144,99,1
+E:\photo\00\enhance_image\201109091_histogramEqualization0.jpg 97,50,144,99,1
+E:\photo\00\enhance_image\201109091_Imagerotate0.jpg 200,316,247,364,1
+E:\photo\00\enhance_image\201109091_noiseImpulse0.jpg 97,50,144,99,1
+E:\photo\00\enhance_image\201109091_randomGaussian0.jpg 97,50,144,99,1
+E:\photo\00\enhance_image\201109092_histogramEqualization0.jpg 8,90,30,109,1
+E:\photo\00\enhance_image\201109092_noiseImpulse0.jpg 8,90,30,109,1
+E:\photo\00\enhance_image\201109092_randomGaussian0.jpg 8,90,30,109,1
+E:\photo\00\enhance_image\201109093.jpg
+E:\photo\00\enhance_image\201109093_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201109093_Imagerotate0.jpg
+E:\photo\00\enhance_image\201109093_randomGaussian0.jpg
+E:\photo\00\enhance_image\201109094.jpg
+E:\photo\00\enhance_image\201109094_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201109094_Imagerotate0.jpg
+E:\photo\00\enhance_image\201109094_randomGaussian0.jpg
+E:\photo\00\enhance_image\201109100.jpg 116,107,167,156,1
+E:\photo\00\enhance_image\201109100_noiseImpulse0.jpg 116,107,167,156,1
+E:\photo\00\enhance_image\201109100_randomGaussian0.jpg 116,107,167,156,1
+E:\photo\00\enhance_image\201109110.jpg 10,169,44,200,1
+E:\photo\00\enhance_image\201109110_histogramEqualization0.jpg 10,169,44,200,1
+E:\photo\00\enhance_image\201109110_noiseImpulse0.jpg 10,169,44,200,1
+E:\photo\00\enhance_image\201109130.jpg 134,59,190,107,1
+E:\photo\00\enhance_image\201109130_histogramEqualization0.jpg 134,59,190,107,1
+E:\photo\00\enhance_image\201109130_Imagerotate0.jpg 148,119,203,166,1
+E:\photo\00\enhance_image\201109130_noiseImpulse0.jpg 134,59,190,107,1
+E:\photo\00\enhance_image\201109130_randomGaussian0.jpg 134,59,190,107,1
+E:\photo\00\enhance_image\201109140_histogramEqualization0.jpg 181,149,217,177,1
+E:\photo\00\enhance_image\201109140_Imagerotate0.jpg 169,221,203,251,1
+E:\photo\00\enhance_image\201109140_noiseImpulse0.jpg 181,149,217,177,1
+E:\photo\00\enhance_image\201109140_randomGaussian0.jpg 181,149,217,177,1
+E:\photo\00\enhance_image\201109141.jpg 116,46,144,73,1
+E:\photo\00\enhance_image\201109141_histogramEqualization0.jpg 116,46,144,73,1
+E:\photo\00\enhance_image\201109141_Imagerotate0.jpg 128,63,156,90,1
+E:\photo\00\enhance_image\201109141_noiseImpulse0.jpg 116,46,144,73,1
+E:\photo\00\enhance_image\201109141_randomGaussian0.jpg 116,46,144,73,1
+E:\photo\00\enhance_image\201109150.jpg 228,179,278,215,1
+E:\photo\00\enhance_image\201109150_histogramEqualization0.jpg 228,179,278,215,1
+E:\photo\00\enhance_image\201109150_Imagerotate0.jpg 30,202,70,248,1
+E:\photo\00\enhance_image\201109150_randomGaussian0.jpg 228,179,278,215,1
+E:\photo\00\enhance_image\201109151.jpg 222,182,300,267,1
+E:\photo\00\enhance_image\201109151_histogramEqualization0.jpg 222,182,300,267,1
+E:\photo\00\enhance_image\201109151_Imagerotate0.jpg 51,230,134,308,1
+E:\photo\00\enhance_image\201109151_noiseImpulse0.jpg 222,182,300,267,1
+E:\photo\00\enhance_image\201109151_randomGaussian0.jpg 222,182,300,267,1
+E:\photo\00\enhance_image\201109170_histogramEqualization0.jpg 379,10,549,203,1
+E:\photo\00\enhance_image\201109170_Imagerotate0.jpg 429,66,598,257,1
+E:\photo\00\enhance_image\201109170_noiseImpulse0.jpg 379,10,549,203,1
+E:\photo\00\enhance_image\201109180.jpg 26,191,97,269,0
+E:\photo\00\enhance_image\201109180_noiseImpulse0.jpg 26,191,97,269,0
+E:\photo\00\enhance_image\201109180_randomGaussian0.jpg 26,191,97,269,0
+E:\photo\00\enhance_image\201109181.jpg 9,6,53,47,1
+E:\photo\00\enhance_image\201109181_histogramEqualization0.jpg 9,6,53,47,1
+E:\photo\00\enhance_image\201109181_noiseImpulse0.jpg 9,6,53,47,1
+E:\photo\00\enhance_image\201109181_randomGaussian0.jpg 9,6,53,47,1
+E:\photo\00\enhance_image\201109190.jpg 6,95,39,121,1
+E:\photo\00\enhance_image\201109190_histogramEqualization0.jpg 6,95,39,121,1
+E:\photo\00\enhance_image\201109190_Imagerotate0.jpg 55,138,86,166,1
+E:\photo\00\enhance_image\201109190_noiseImpulse0.jpg 6,95,39,121,1
+E:\photo\00\enhance_image\201109190_randomGaussian0.jpg 6,95,39,121,1
+E:\photo\00\enhance_image\201109230.jpg 10,19,47,54,1
+E:\photo\00\enhance_image\201109230_histogramEqualization0.jpg 10,19,47,54,1
+E:\photo\00\enhance_image\201109230_Imagerotate0.jpg 27,37,63,74,1
+E:\photo\00\enhance_image\201109230_noiseImpulse0.jpg 10,19,47,54,1
+E:\photo\00\enhance_image\201109240_histogramEqualization0.jpg 158,16,406,268,0
+E:\photo\00\enhance_image\201109240_Imagerotate0.jpg 191,74,439,324,0
+E:\photo\00\enhance_image\201109240_noiseImpulse0.jpg 158,16,406,268,0
+E:\photo\00\enhance_image\201109240_randomGaussian0.jpg 158,16,406,268,0
+E:\photo\00\enhance_image\201109241.jpg 144,163,173,193,1
+E:\photo\00\enhance_image\201109241_histogramEqualization0.jpg 144,163,173,193,1
+E:\photo\00\enhance_image\201109241_Imagerotate0.jpg 90,31,119,60,1
+E:\photo\00\enhance_image\201109241_noiseImpulse0.jpg 144,163,173,193,1
+E:\photo\00\enhance_image\201109280.jpg 345,161,396,219,1 252,333,305,383,1
+E:\photo\00\enhance_image\201109280_histogramEqualization0.jpg 345,161,396,219,1 252,333,305,383,1
+E:\photo\00\enhance_image\201109280_noiseImpulse0.jpg 345,161,396,219,1 252,333,305,383,1
+E:\photo\00\enhance_image\201109280_randomGaussian0.jpg 345,161,396,219,1 252,333,305,383,1
+E:\photo\00\enhance_image\201109281_Imagerotate0.jpg 358,116,421,171,1
+E:\photo\00\enhance_image\201109281_noiseImpulse0.jpg 15,222,80,278,1
+E:\photo\00\enhance_image\201109281_randomGaussian0.jpg 15,222,80,278,1
+E:\photo\00\enhance_image\201109282_histogramEqualization0.jpg 23,89,384,418,0 404,141,431,169,1
+E:\photo\00\enhance_image\201109282_Imagerotate0.jpg 105,128,442,481,0 454,424,482,451,1
+E:\photo\00\enhance_image\201109282_noiseImpulse0.jpg 23,89,384,418,0 404,141,431,169,1
+E:\photo\00\enhance_image\201109282_randomGaussian0.jpg 23,89,384,418,0 404,141,431,169,1
+E:\photo\00\enhance_image\201109283.jpg
+E:\photo\00\enhance_image\201109283_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201109283_Imagerotate0.jpg
+E:\photo\00\enhance_image\201109283_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201109283_randomGaussian0.jpg
+E:\photo\00\enhance_image\201109290.jpg 11,20,76,82,1
+E:\photo\00\enhance_image\201109290_histogramEqualization0.jpg 11,20,76,82,1
+E:\photo\00\enhance_image\201109290_Imagerotate0.jpg 242,16,304,81,1
+E:\photo\00\enhance_image\201109290_noiseImpulse0.jpg 11,20,76,82,1
+E:\photo\00\enhance_image\201109290_randomGaussian0.jpg 11,20,76,82,1
+E:\photo\00\enhance_image\201109291.jpg 110,69,140,99,1 12,19,58,55,1
+E:\photo\00\enhance_image\201109291_histogramEqualization0.jpg 110,69,140,99,1 12,19,58,55,1
+E:\photo\00\enhance_image\201109291_Imagerotate0.jpg 142,125,172,155,1 89,30,132,69,1
+E:\photo\00\enhance_image\201109291_noiseImpulse0.jpg 110,69,140,99,1 12,19,58,55,1
+E:\photo\00\enhance_image\201109300.jpg 9,90,49,129,1
+E:\photo\00\enhance_image\201109300_histogramEqualization0.jpg 9,90,49,129,1
+E:\photo\00\enhance_image\201109300_Imagerotate0.jpg 108,26,148,65,1
+E:\photo\00\enhance_image\201109300_noiseImpulse0.jpg 9,90,49,129,1
+E:\photo\00\enhance_image\201109300_randomGaussian0.jpg 9,90,49,129,1
+E:\photo\00\enhance_image\201109301_histogramEqualization0.jpg 50,54,77,81,1
+E:\photo\00\enhance_image\201109301_noiseImpulse0.jpg 50,54,77,81,1
+E:\photo\00\enhance_image\201109302_histogramEqualization0.jpg 10,143,64,194,1
+E:\photo\00\enhance_image\201109302_noiseImpulse0.jpg 10,143,64,194,1
+E:\photo\00\enhance_image\201109302_randomGaussian0.jpg 10,143,64,194,1
+E:\photo\00\enhance_image\201110010.jpg 108,103,167,152,1
+E:\photo\00\enhance_image\201110010_histogramEqualization0.jpg 108,103,167,152,1
+E:\photo\00\enhance_image\201110010_Imagerotate0.jpg 24,112,72,170,1
+E:\photo\00\enhance_image\201110020.jpg 31,25,182,170,0
+E:\photo\00\enhance_image\201110020_histogramEqualization0.jpg 31,25,182,170,0
+E:\photo\00\enhance_image\201110020_Imagerotate0.jpg 105,54,252,197,0
+E:\photo\00\enhance_image\201110020_randomGaussian0.jpg 31,25,182,170,0
+E:\photo\00\enhance_image\201110030.jpg 15,8,149,127,0
+E:\photo\00\enhance_image\201110030_histogramEqualization0.jpg 15,8,149,127,0
+E:\photo\00\enhance_image\201110030_Imagerotate0.jpg 17,9,151,128,0
+E:\photo\00\enhance_image\201110030_noiseImpulse0.jpg 15,8,149,127,0
+E:\photo\00\enhance_image\201110040.jpg 13,12,150,126,0
+E:\photo\00\enhance_image\201110040_histogramEqualization0.jpg 13,12,150,126,0
+E:\photo\00\enhance_image\201110040_Imagerotate0.jpg 231,142,361,262,0
+E:\photo\00\enhance_image\201110040_noiseImpulse0.jpg 13,12,150,126,0
+E:\photo\00\enhance_image\201110040_randomGaussian0.jpg 13,12,150,126,0
+E:\photo\00\enhance_image\201110060.jpg 254,9,298,38,1 307,42,350,80,1
+E:\photo\00\enhance_image\201110060_histogramEqualization0.jpg 254,9,298,38,1 307,42,350,80,1
+E:\photo\00\enhance_image\201110060_Imagerotate0.jpg 312,246,343,287,1 292,308,330,349,1
+E:\photo\00\enhance_image\201110060_noiseImpulse0.jpg 254,9,298,38,1 307,42,350,80,1
+E:\photo\00\enhance_image\201110060_randomGaussian0.jpg 254,9,298,38,1 307,42,350,80,1
+E:\photo\00\enhance_image\201110130.jpg 178,65,203,92,1 161,5,182,29,1
+E:\photo\00\enhance_image\201110130_histogramEqualization0.jpg 178,65,203,92,1 161,5,182,29,1
+E:\photo\00\enhance_image\201110130_Imagerotate0.jpg 178,185,204,210,1 216,134,239,156,1
+E:\photo\00\enhance_image\201110130_randomGaussian0.jpg 178,65,203,92,1 161,5,182,29,1
+E:\photo\00\enhance_image\201110160.jpg 43,75,74,108,1
+E:\photo\00\enhance_image\201110160_histogramEqualization0.jpg 43,75,74,108,1
+E:\photo\00\enhance_image\201110160_Imagerotate0.jpg 152,55,185,86,1
+E:\photo\00\enhance_image\201110160_noiseImpulse0.jpg 43,75,74,108,1
+E:\photo\00\enhance_image\201110160_randomGaussian0.jpg 43,75,74,108,1
+E:\photo\00\enhance_image\201110190.jpg 9,75,28,107,1
+E:\photo\00\enhance_image\201110190_histogramEqualization0.jpg 9,75,28,107,1
+E:\photo\00\enhance_image\201110190_Imagerotate0.jpg 60,138,85,165,1
+E:\photo\00\enhance_image\201110190_randomGaussian0.jpg 9,75,28,107,1
+E:\photo\00\enhance_image\201110230.jpg 289,183,321,216,1 8,14,29,34,1 58,184,95,219,1
+E:\photo\00\enhance_image\201110230_noiseImpulse0.jpg 289,183,321,216,1 8,14,29,34,1 58,184,95,219,1
+E:\photo\00\enhance_image\201110230_randomGaussian0.jpg 289,183,321,216,1 8,14,29,34,1 58,184,95,219,1
+E:\photo\00\enhance_image\201110240.jpg 9,23,37,48,1
+E:\photo\00\enhance_image\201110240_histogramEqualization0.jpg 9,23,37,48,1
+E:\photo\00\enhance_image\201110240_Imagerotate0.jpg 13,63,41,88,1
+E:\photo\00\enhance_image\201110240_randomGaussian0.jpg 9,23,37,48,1
+E:\photo\00\enhance_image\201110241.jpg 21,18,57,43,1
+E:\photo\00\enhance_image\201110241_noiseImpulse0.jpg 21,18,57,43,1
+E:\photo\00\enhance_image\201110241_randomGaussian0.jpg 21,18,57,43,1
+E:\photo\00\enhance_image\201110242.jpg 21,152,50,176,1
+E:\photo\00\enhance_image\201110242_Imagerotate0.jpg 25,154,53,178,1
+E:\photo\00\enhance_image\201110242_randomGaussian0.jpg 21,152,50,176,1
+E:\photo\00\enhance_image\201110243_histogramEqualization0.jpg 19,17,66,54,1
+E:\photo\00\enhance_image\201110243_Imagerotate0.jpg 209,150,253,188,1
+E:\photo\00\enhance_image\201110243_noiseImpulse0.jpg 19,17,66,54,1
+E:\photo\00\enhance_image\201110243_randomGaussian0.jpg 19,17,66,54,1
+E:\photo\00\enhance_image\201110250.jpg 217,10,257,53,1
+E:\photo\00\enhance_image\201110250_histogramEqualization0.jpg 217,10,257,53,1
+E:\photo\00\enhance_image\201110250_Imagerotate0.jpg 213,24,253,66,1
+E:\photo\00\enhance_image\201110250_noiseImpulse0.jpg 217,10,257,53,1
+E:\photo\00\enhance_image\201110250_randomGaussian0.jpg 217,10,257,53,1
+E:\photo\00\enhance_image\201110280_histogramEqualization0.jpg 74,102,114,144,1 128,101,145,121,1
+E:\photo\00\enhance_image\201110280_Imagerotate0.jpg 104,50,146,90,1 102,19,122,36,1
+E:\photo\00\enhance_image\201110280_noiseImpulse0.jpg 74,102,114,144,1 128,101,145,121,1
+E:\photo\00\enhance_image\201110280_randomGaussian0.jpg 74,102,114,144,1 128,101,145,121,1
+E:\photo\00\enhance_image\201111020.jpg 3,182,31,207,1
+E:\photo\00\enhance_image\201111020_Imagerotate0.jpg 87,10,112,36,1
+E:\photo\00\enhance_image\201111020_noiseImpulse0.jpg 3,182,31,207,1
+E:\photo\00\enhance_image\201111020_randomGaussian0.jpg 3,182,31,207,1
+E:\photo\00\enhance_image\201111060_histogramEqualization0.jpg 260,8,299,55,1
+E:\photo\00\enhance_image\201111060_Imagerotate0.jpg 183,351,225,393,1
+E:\photo\00\enhance_image\201111060_noiseImpulse0.jpg 260,8,299,55,1
+E:\photo\00\enhance_image\201111060_randomGaussian0.jpg 260,8,299,55,1
+E:\photo\00\enhance_image\201111130.jpg 15,269,85,348,1
+E:\photo\00\enhance_image\201111130_histogramEqualization0.jpg 15,269,85,348,1
+E:\photo\00\enhance_image\201111130_Imagerotate0.jpg 317,250,394,319,1
+E:\photo\00\enhance_image\201111130_randomGaussian0.jpg 15,269,85,348,1
+E:\photo\00\enhance_image\201111150.jpg 15,140,60,181,1
+E:\photo\00\enhance_image\201111150_histogramEqualization0.jpg 15,140,60,181,1
+E:\photo\00\enhance_image\201111150_noiseImpulse0.jpg 15,140,60,181,1
+E:\photo\00\enhance_image\201111150_randomGaussian0.jpg 15,140,60,181,1
+E:\photo\00\enhance_image\201111210_histogramEqualization0.jpg 8,111,26,130,1
+E:\photo\00\enhance_image\201111210_noiseImpulse0.jpg 8,111,26,130,1
+E:\photo\00\enhance_image\201111240_noiseImpulse0.jpg 102,83,124,105,1
+E:\photo\00\enhance_image\201111240_randomGaussian0.jpg 102,83,124,105,1
+E:\photo\00\enhance_image\201111241.jpg 70,132,112,164,1
+E:\photo\00\enhance_image\201111241_histogramEqualization0.jpg 70,132,112,164,1
+E:\photo\00\enhance_image\201111241_Imagerotate0.jpg 74,120,107,159,1
+E:\photo\00\enhance_image\201111241_noiseImpulse0.jpg 70,132,112,164,1
+E:\photo\00\enhance_image\201111250.jpg 20,159,54,189,1
+E:\photo\00\enhance_image\201111250_noiseImpulse0.jpg 20,159,54,189,1
+E:\photo\00\enhance_image\201111250_randomGaussian0.jpg 20,159,54,189,1
+E:\photo\00\enhance_image\201112070_Imagerotate0.jpg 81,124,114,158,1
+E:\photo\00\enhance_image\201112070_noiseImpulse0.jpg 54,61,87,95,1
+E:\photo\00\enhance_image\201112070_randomGaussian0.jpg 54,61,87,95,1
+E:\photo\00\enhance_image\201112290.jpg 150,8,181,35,1
+E:\photo\00\enhance_image\201112290_histogramEqualization0.jpg 150,8,181,35,1
+E:\photo\00\enhance_image\201112290_noiseImpulse0.jpg 150,8,181,35,1
+E:\photo\00\enhance_image\201112290_randomGaussian0.jpg 150,8,181,35,1
+E:\photo\00\enhance_image\201112300.jpg 100,67,130,95,1
+E:\photo\00\enhance_image\201112300_histogramEqualization0.jpg 100,67,130,95,1
+E:\photo\00\enhance_image\201112300_Imagerotate0.jpg 111,80,141,107,1
+E:\photo\00\enhance_image\201112300_noiseImpulse0.jpg 100,67,130,95,1
+E:\photo\00\enhance_image\201112300_randomGaussian0.jpg 100,67,130,95,1
+E:\photo\00\enhance_image\201201010.jpg
+E:\photo\00\enhance_image\201201010_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201201010_Imagerotate0.jpg
+E:\photo\00\enhance_image\201201010_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201201010_randomGaussian0.jpg
+E:\photo\00\enhance_image\201201011.jpg 34,164,77,200,1
+E:\photo\00\enhance_image\201201011_histogramEqualization0.jpg 34,164,77,200,1
+E:\photo\00\enhance_image\201201011_randomGaussian0.jpg 34,164,77,200,1
+E:\photo\00\enhance_image\201201030.jpg 207,28,251,69,1
+E:\photo\00\enhance_image\201201030_histogramEqualization0.jpg 207,28,251,69,1
+E:\photo\00\enhance_image\201201030_Imagerotate0.jpg 195,212,235,255,1
+E:\photo\00\enhance_image\201201030_randomGaussian0.jpg 207,28,251,69,1
+E:\photo\00\enhance_image\201201070.jpg 86,164,139,213,1 183,162,246,218,1
+E:\photo\00\enhance_image\201201070_histogramEqualization0.jpg 86,164,139,213,1 183,162,246,218,1
+E:\photo\00\enhance_image\201201070_Imagerotate0.jpg 93,185,143,235,1 158,256,215,315,1
+E:\photo\00\enhance_image\201201070_noiseImpulse0.jpg 86,164,139,213,1 183,162,246,218,1
+E:\photo\00\enhance_image\201201070_randomGaussian0.jpg 86,164,139,213,1 183,162,246,218,1
+E:\photo\00\enhance_image\201201150.jpg 16,75,58,110,1
+E:\photo\00\enhance_image\201201150_histogramEqualization0.jpg 16,75,58,110,1
+E:\photo\00\enhance_image\201201150_Imagerotate0.jpg 40,75,79,112,1
+E:\photo\00\enhance_image\201201150_randomGaussian0.jpg 16,75,58,110,1
+E:\photo\00\enhance_image\201201200_histogramEqualization0.jpg 76,65,132,104,1 21,192,76,246,1
+E:\photo\00\enhance_image\201201200_Imagerotate0.jpg 119,89,173,129,1 29,197,83,250,1
+E:\photo\00\enhance_image\201201200_noiseImpulse0.jpg 76,65,132,104,1 21,192,76,246,1
+E:\photo\00\enhance_image\201201200_randomGaussian0.jpg 76,65,132,104,1 21,192,76,246,1
+E:\photo\00\enhance_image\201201210.jpg 16,9,47,36,1
+E:\photo\00\enhance_image\201201210_histogramEqualization0.jpg 16,9,47,36,1
+E:\photo\00\enhance_image\201201210_Imagerotate0.jpg 122,23,151,51,1
+E:\photo\00\enhance_image\201201210_noiseImpulse0.jpg 16,9,47,36,1
+E:\photo\00\enhance_image\201201210_randomGaussian0.jpg 16,9,47,36,1
+E:\photo\00\enhance_image\201201220.jpg 22,23,55,48,1
+E:\photo\00\enhance_image\201201220_histogramEqualization0.jpg 22,23,55,48,1
+E:\photo\00\enhance_image\201201220_Imagerotate0.jpg 152,36,177,69,1
+E:\photo\00\enhance_image\201201250.jpg 11,108,54,153,1
+E:\photo\00\enhance_image\201201250_histogramEqualization0.jpg 11,108,54,153,1
+E:\photo\00\enhance_image\201201250_Imagerotate0.jpg 106,181,151,224,1
+E:\photo\00\enhance_image\201201250_noiseImpulse0.jpg 11,108,54,153,1
+E:\photo\00\enhance_image\201202020_histogramEqualization0.jpg 18,185,59,216,1
+E:\photo\00\enhance_image\201202020_Imagerotate0.jpg 49,217,90,248,1
+E:\photo\00\enhance_image\201202020_noiseImpulse0.jpg 18,185,59,216,1
+E:\photo\00\enhance_image\201202020_randomGaussian0.jpg 18,185,59,216,1
+E:\photo\00\enhance_image\201202030.jpg
+E:\photo\00\enhance_image\201202030_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201202030_Imagerotate0.jpg
+E:\photo\00\enhance_image\201202030_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201202030_randomGaussian0.jpg
+E:\photo\00\enhance_image\201202060.jpg 2,89,64,142,1
+E:\photo\00\enhance_image\201202060_histogramEqualization0.jpg 2,89,64,142,1
+E:\photo\00\enhance_image\201202060_noiseImpulse0.jpg 2,89,64,142,1
+E:\photo\00\enhance_image\201202060_randomGaussian0.jpg 2,89,64,142,1
+E:\photo\00\enhance_image\201202061.jpg 28,25,69,70,1
+E:\photo\00\enhance_image\201202061_histogramEqualization0.jpg 28,25,69,70,1
+E:\photo\00\enhance_image\201202061_Imagerotate0.jpg 30,36,71,81,1
+E:\photo\00\enhance_image\201202061_noiseImpulse0.jpg 28,25,69,70,1
+E:\photo\00\enhance_image\201202061_randomGaussian0.jpg 28,25,69,70,1
+E:\photo\00\enhance_image\201202070.jpg 146,150,220,211,1
+E:\photo\00\enhance_image\201202070_histogramEqualization0.jpg 146,150,220,211,1
+E:\photo\00\enhance_image\201202070_Imagerotate0.jpg 154,15,215,88,1
+E:\photo\00\enhance_image\201202070_randomGaussian0.jpg 146,150,220,211,1
+E:\photo\00\enhance_image\201202071_histogramEqualization0.jpg 155,112,229,179,1
+E:\photo\00\enhance_image\201202071_Imagerotate0.jpg 68,156,136,226,1
+E:\photo\00\enhance_image\201202071_noiseImpulse0.jpg 155,112,229,179,1
+E:\photo\00\enhance_image\201202071_randomGaussian0.jpg 155,112,229,179,1
+E:\photo\00\enhance_image\201202110.jpg 161,143,233,217,1
+E:\photo\00\enhance_image\201202110_histogramEqualization0.jpg 161,143,233,217,1
+E:\photo\00\enhance_image\201202110_noiseImpulse0.jpg 161,143,233,217,1
+E:\photo\00\enhance_image\201202111.jpg 26,177,68,215,1
+E:\photo\00\enhance_image\201202111_noiseImpulse0.jpg 26,177,68,215,1
+E:\photo\00\enhance_image\201202150.jpg 6,153,39,184,1 9,7,40,40,1
+E:\photo\00\enhance_image\201202150_histogramEqualization0.jpg 6,153,39,184,1 9,7,40,40,1
+E:\photo\00\enhance_image\201202150_Imagerotate0.jpg 27,7,58,40,1 170,21,203,51,1
+E:\photo\00\enhance_image\201202150_noiseImpulse0.jpg 6,153,39,184,1 9,7,40,40,1
+E:\photo\00\enhance_image\201202150_randomGaussian0.jpg 6,153,39,184,1 9,7,40,40,1
+E:\photo\00\enhance_image\201202160.jpg 34,83,80,127,1
+E:\photo\00\enhance_image\201202160_Imagerotate0.jpg 172,113,217,157,1
+E:\photo\00\enhance_image\201202260_histogramEqualization0.jpg 29,95,75,138,1
+E:\photo\00\enhance_image\201202260_noiseImpulse0.jpg 29,95,75,138,1
+E:\photo\00\enhance_image\201202260_randomGaussian0.jpg 29,95,75,138,1
+E:\photo\00\enhance_image\201203020.jpg
+E:\photo\00\enhance_image\201203020_Imagerotate0.jpg
+E:\photo\00\enhance_image\201203020_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201203020_randomGaussian0.jpg
+E:\photo\00\enhance_image\201203050.jpg 134,121,164,154,1
+E:\photo\00\enhance_image\201203050_Imagerotate0.jpg 74,168,106,198,1
+E:\photo\00\enhance_image\201203050_noiseImpulse0.jpg 134,121,164,154,1
+E:\photo\00\enhance_image\201203050_randomGaussian0.jpg 134,121,164,154,1
+E:\photo\00\enhance_image\201203051.jpg 4,11,94,94,1
+E:\photo\00\enhance_image\201203051_histogramEqualization0.jpg 4,11,94,94,1
+E:\photo\00\enhance_image\201203051_Imagerotate0.jpg 226,45,307,134,1
+E:\photo\00\enhance_image\201203051_noiseImpulse0.jpg 4,11,94,94,1
+E:\photo\00\enhance_image\201203051_randomGaussian0.jpg 4,11,94,94,1
+E:\photo\00\enhance_image\201203060.jpg 6,204,30,225,1 255,101,282,125,1
+E:\photo\00\enhance_image\201203060_histogramEqualization0.jpg 6,204,30,225,1 255,101,282,125,1
+E:\photo\00\enhance_image\201203060_Imagerotate0.jpg 325,130,349,152,1 55,101,81,126,1
+E:\photo\00\enhance_image\201203060_noiseImpulse0.jpg 6,204,30,225,1 255,101,282,125,1
+E:\photo\00\enhance_image\201203060_randomGaussian0.jpg 6,204,30,225,1 255,101,282,125,1
+E:\photo\00\enhance_image\201203070.jpg 31,223,71,264,1
+E:\photo\00\enhance_image\201203070_histogramEqualization0.jpg 31,223,71,264,1
+E:\photo\00\enhance_image\201203070_Imagerotate0.jpg 24,60,65,100,1
+E:\photo\00\enhance_image\201203070_noiseImpulse0.jpg 31,223,71,264,1
+E:\photo\00\enhance_image\201203070_randomGaussian0.jpg 31,223,71,264,1
+E:\photo\00\enhance_image\201203071.jpg 10,13,46,44,1
+E:\photo\00\enhance_image\201203071_Imagerotate0.jpg 140,189,175,220,1
+E:\photo\00\enhance_image\201203071_noiseImpulse0.jpg 10,13,46,44,1
+E:\photo\00\enhance_image\201203071_randomGaussian0.jpg 10,13,46,44,1
+E:\photo\00\enhance_image\201203080_histogramEqualization0.jpg 25,208,91,260,1
+E:\photo\00\enhance_image\201203080_Imagerotate0.jpg 107,281,169,335,1
+E:\photo\00\enhance_image\201203080_noiseImpulse0.jpg 25,208,91,260,1
+E:\photo\00\enhance_image\201203080_randomGaussian0.jpg 25,208,91,260,1
+E:\photo\00\enhance_image\201203081.jpg
+E:\photo\00\enhance_image\201203081_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201203081_Imagerotate0.jpg
+E:\photo\00\enhance_image\201203120.jpg 7,340,44,376,1 336,30,455,136,1
+E:\photo\00\enhance_image\201203120_histogramEqualization0.jpg 7,340,44,376,1 336,30,455,136,1
+E:\photo\00\enhance_image\201203120_Imagerotate0.jpg 535,182,571,218,1 49,263,165,370,1
+E:\photo\00\enhance_image\201203120_noiseImpulse0.jpg 7,340,44,376,1 336,30,455,136,1
+E:\photo\00\enhance_image\201203120_randomGaussian0.jpg 7,340,44,376,1 336,30,455,136,1
+E:\photo\00\enhance_image\201203140.jpg 23,142,84,203,1
+E:\photo\00\enhance_image\201203140_histogramEqualization0.jpg 23,142,84,203,1
+E:\photo\00\enhance_image\201203140_Imagerotate0.jpg 65,122,125,182,1
+E:\photo\00\enhance_image\201203140_noiseImpulse0.jpg 23,142,84,203,1
+E:\photo\00\enhance_image\201203150_histogramEqualization0.jpg 237,45,300,103,1
+E:\photo\00\enhance_image\201203150_noiseImpulse0.jpg 237,45,300,103,1
+E:\photo\00\enhance_image\201203151.jpg 177,18,218,59,1
+E:\photo\00\enhance_image\201203151_Imagerotate0.jpg 180,193,221,234,1
+E:\photo\00\enhance_image\201203151_noiseImpulse0.jpg 177,18,218,59,1
+E:\photo\00\enhance_image\201203151_randomGaussian0.jpg 177,18,218,59,1
+E:\photo\00\enhance_image\201203160.jpg 13,5,47,37,1
+E:\photo\00\enhance_image\201203160_histogramEqualization0.jpg 13,5,47,37,1
+E:\photo\00\enhance_image\201203160_Imagerotate0.jpg 217,80,249,113,1
+E:\photo\00\enhance_image\201203160_noiseImpulse0.jpg 13,5,47,37,1
+E:\photo\00\enhance_image\201203160_randomGaussian0.jpg 13,5,47,37,1
+E:\photo\00\enhance_image\201203180.jpg 19,145,89,217,1
+E:\photo\00\enhance_image\201203180_histogramEqualization0.jpg 19,145,89,217,1
+E:\photo\00\enhance_image\201203180_Imagerotate0.jpg 31,159,101,231,1
+E:\photo\00\enhance_image\201203180_noiseImpulse0.jpg 19,145,89,217,1
+E:\photo\00\enhance_image\201203180_randomGaussian0.jpg 19,145,89,217,1
+E:\photo\00\enhance_image\201203181_histogramEqualization0.jpg 170,170,213,212,1
+E:\photo\00\enhance_image\201203181_Imagerotate0.jpg 174,28,215,70,1
+E:\photo\00\enhance_image\201203181_noiseImpulse0.jpg 170,170,213,212,1
+E:\photo\00\enhance_image\201203182.jpg 120,11,163,53,1
+E:\photo\00\enhance_image\201203182_histogramEqualization0.jpg 120,11,163,53,1
+E:\photo\00\enhance_image\201203182_noiseImpulse0.jpg 120,11,163,53,1
+E:\photo\00\enhance_image\201203182_randomGaussian0.jpg 120,11,163,53,1
+E:\photo\00\enhance_image\201203183.jpg 226,172,273,216,1
+E:\photo\00\enhance_image\201203183_histogramEqualization0.jpg 226,172,273,216,1
+E:\photo\00\enhance_image\201203183_Imagerotate0.jpg 22,225,65,271,1
+E:\photo\00\enhance_image\201203183_noiseImpulse0.jpg 226,172,273,216,1
+E:\photo\00\enhance_image\201203183_randomGaussian0.jpg 226,172,273,216,1
+E:\photo\00\enhance_image\201203184.jpg 121,61,296,207,0 11,170,108,276,1
+E:\photo\00\enhance_image\201203184_histogramEqualization0.jpg 121,61,296,207,0 11,170,108,276,1
+E:\photo\00\enhance_image\201203184_Imagerotate0.jpg 181,161,343,317,0 43,155,141,255,1
+E:\photo\00\enhance_image\201203184_randomGaussian0.jpg 121,61,296,207,0 11,170,108,276,1
+E:\photo\00\enhance_image\201203185.jpg 48,46,103,101,1
+E:\photo\00\enhance_image\201203185_histogramEqualization0.jpg 48,46,103,101,1
+E:\photo\00\enhance_image\201203185_Imagerotate0.jpg 147,77,201,132,1
+E:\photo\00\enhance_image\201203185_noiseImpulse0.jpg 48,46,103,101,1
+E:\photo\00\enhance_image\201203185_randomGaussian0.jpg 48,46,103,101,1
+E:\photo\00\enhance_image\201203200_histogramEqualization0.jpg 34,75,143,170,0
+E:\photo\00\enhance_image\201203200_Imagerotate0.jpg 272,304,377,400,0
+E:\photo\00\enhance_image\201203200_noiseImpulse0.jpg 34,75,143,170,0
+E:\photo\00\enhance_image\201203200_randomGaussian0.jpg 34,75,143,170,0
+E:\photo\00\enhance_image\201203201.jpg 8,131,66,176,1
+E:\photo\00\enhance_image\201203201_histogramEqualization0.jpg 8,131,66,176,1
+E:\photo\00\enhance_image\201203201_Imagerotate0.jpg 109,24,161,75,1
+E:\photo\00\enhance_image\201203201_noiseImpulse0.jpg 8,131,66,176,1
+E:\photo\00\enhance_image\201203201_randomGaussian0.jpg 8,131,66,176,1
+E:\photo\00\enhance_image\201203210.jpg 7,111,54,164,1
+E:\photo\00\enhance_image\201203210_histogramEqualization0.jpg 7,111,54,164,1
+E:\photo\00\enhance_image\201203210_Imagerotate0.jpg 82,176,130,227,1
+E:\photo\00\enhance_image\201203210_noiseImpulse0.jpg 7,111,54,164,1
+E:\photo\00\enhance_image\201203210_randomGaussian0.jpg 7,111,54,164,1
+E:\photo\00\enhance_image\201203220.jpg 131,222,220,315,1 230,169,312,252,1 301,19,362,79,1
+E:\photo\00\enhance_image\201203220_histogramEqualization0.jpg 131,222,220,315,1 230,169,312,252,1 301,19,362,79,1
+E:\photo\00\enhance_image\201203220_Imagerotate0.jpg 171,71,259,162,1 104,163,185,245,1 113,347,173,406,1
+E:\photo\00\enhance_image\201203220_noiseImpulse0.jpg 131,222,220,315,1 230,169,312,252,1 301,19,362,79,1
+E:\photo\00\enhance_image\201203220_randomGaussian0.jpg 131,222,220,315,1 230,169,312,252,1 301,19,362,79,1
+E:\photo\00\enhance_image\201203230.jpg 20,20,112,110,1 383,11,440,65,1
+E:\photo\00\enhance_image\201203230_histogramEqualization0.jpg 20,20,112,110,1 383,11,440,65,1
+E:\photo\00\enhance_image\201203230_Imagerotate0.jpg 38,372,126,462,1 137,52,190,108,1
+E:\photo\00\enhance_image\201203230_randomGaussian0.jpg 20,20,112,110,1 383,11,440,65,1
+E:\photo\00\enhance_image\201203240.jpg
+E:\photo\00\enhance_image\201203240_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201203240_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201203260.jpg 60,28,124,81,1
+E:\photo\00\enhance_image\201203260_histogramEqualization0.jpg 60,28,124,81,1
+E:\photo\00\enhance_image\201203260_Imagerotate0.jpg 65,202,121,263,1
+E:\photo\00\enhance_image\201203260_randomGaussian0.jpg 60,28,124,81,1
+E:\photo\00\enhance_image\201203261.jpg 22,12,48,40,1
+E:\photo\00\enhance_image\201203261_histogramEqualization0.jpg 22,12,48,40,1
+E:\photo\00\enhance_image\201203261_noiseImpulse0.jpg 22,12,48,40,1
+E:\photo\00\enhance_image\201203261_randomGaussian0.jpg 22,12,48,40,1
+E:\photo\00\enhance_image\201203262.jpg 32,16,183,172,0
+E:\photo\00\enhance_image\201203262_histogramEqualization0.jpg 32,16,183,172,0
+E:\photo\00\enhance_image\201203262_Imagerotate0.jpg 48,171,201,321,0
+E:\photo\00\enhance_image\201203262_noiseImpulse0.jpg 32,16,183,172,0
+E:\photo\00\enhance_image\201203262_randomGaussian0.jpg 32,16,183,172,0
+E:\photo\00\enhance_image\201203270.jpg 190,48,365,209,1
+E:\photo\00\enhance_image\201203270_Imagerotate0.jpg 190,288,358,451,1
+E:\photo\00\enhance_image\201203270_noiseImpulse0.jpg 190,48,365,209,1
+E:\photo\00\enhance_image\201203270_randomGaussian0.jpg 190,48,365,209,1
+E:\photo\00\enhance_image\201203280_histogramEqualization0.jpg 16,14,101,91,0
+E:\photo\00\enhance_image\201203280_Imagerotate0.jpg 273,127,352,209,0
+E:\photo\00\enhance_image\201203280_randomGaussian0.jpg 16,14,101,91,0
+E:\photo\00\enhance_image\201203281.jpg 125,7,163,40,1
+E:\photo\00\enhance_image\201203281_Imagerotate0.jpg 19,120,56,155,1
+E:\photo\00\enhance_image\201203281_randomGaussian0.jpg 125,7,163,40,1
+E:\photo\00\enhance_image\201203282.jpg 34,42,102,107,1
+E:\photo\00\enhance_image\201203282_randomGaussian0.jpg 34,42,102,107,1
+E:\photo\00\enhance_image\201203283.jpg 29,13,92,84,1 256,134,319,189,1
+E:\photo\00\enhance_image\201203283_histogramEqualization0.jpg 29,13,92,84,1 256,134,319,189,1
+E:\photo\00\enhance_image\201203283_Imagerotate0.jpg 158,43,227,108,1 162,299,219,360,1
+E:\photo\00\enhance_image\201203283_noiseImpulse0.jpg 29,13,92,84,1 256,134,319,189,1
+E:\photo\00\enhance_image\201203283_randomGaussian0.jpg 29,13,92,84,1 256,134,319,189,1
+E:\photo\00\enhance_image\201203284_Imagerotate0.jpg 143,81,202,136,1
+E:\photo\00\enhance_image\201203284_noiseImpulse0.jpg 29,57,88,112,1
+E:\photo\00\enhance_image\201203284_randomGaussian0.jpg 29,57,88,112,1
+E:\photo\00\enhance_image\201203285.jpg 12,2,67,54,1
+E:\photo\00\enhance_image\201203285_histogramEqualization0.jpg 12,2,67,54,1
+E:\photo\00\enhance_image\201203285_Imagerotate0.jpg 21,194,73,247,1
+E:\photo\00\enhance_image\201203285_randomGaussian0.jpg 12,2,67,54,1
+E:\photo\00\enhance_image\201203286.jpg 193,11,236,54,1
+E:\photo\00\enhance_image\201203286_histogramEqualization0.jpg 193,11,236,54,1
+E:\photo\00\enhance_image\201203286_Imagerotate0.jpg 32,124,75,167,1
+E:\photo\00\enhance_image\201203286_noiseImpulse0.jpg 193,11,236,54,1
+E:\photo\00\enhance_image\201203286_randomGaussian0.jpg 193,11,236,54,1
+E:\photo\00\enhance_image\201203290.jpg 240,17,412,190,1
+E:\photo\00\enhance_image\201203290_histogramEqualization0.jpg 240,17,412,190,1
+E:\photo\00\enhance_image\201203290_noiseImpulse0.jpg 240,17,412,190,1
+E:\photo\00\enhance_image\201203291.jpg 8,175,50,215,1
+E:\photo\00\enhance_image\201203291_histogramEqualization0.jpg 8,175,50,215,1
+E:\photo\00\enhance_image\201203291_Imagerotate0.jpg 210,23,252,63,1
+E:\photo\00\enhance_image\201203291_noiseImpulse0.jpg 8,175,50,215,1
+E:\photo\00\enhance_image\201203291_randomGaussian0.jpg 8,175,50,215,1
+E:\photo\00\enhance_image\201203310_Imagerotate0.jpg 27,82,71,128,1
+E:\photo\00\enhance_image\201203310_noiseImpulse0.jpg 174,14,221,58,1
+E:\photo\00\enhance_image\201203310_randomGaussian0.jpg 174,14,221,58,1
+E:\photo\00\enhance_image\201204020.jpg 13,179,83,243,1
+E:\photo\00\enhance_image\201204020_Imagerotate0.jpg 235,207,298,274,1
+E:\photo\00\enhance_image\201204020_noiseImpulse0.jpg 13,179,83,243,1
+E:\photo\00\enhance_image\201204020_randomGaussian0.jpg 13,179,83,243,1
+E:\photo\00\enhance_image\201204040.jpg 221,9,264,40,1
+E:\photo\00\enhance_image\201204040_histogramEqualization0.jpg 221,9,264,40,1
+E:\photo\00\enhance_image\201204040_Imagerotate0.jpg 114,291,154,325,1
+E:\photo\00\enhance_image\201204040_noiseImpulse0.jpg 221,9,264,40,1
+E:\photo\00\enhance_image\201204040_randomGaussian0.jpg 221,9,264,40,1
+E:\photo\00\enhance_image\201204041.jpg
+E:\photo\00\enhance_image\201204041_histogramEqualization0.jpg
+E:\photo\00\enhance_image\201204041_noiseImpulse0.jpg
+E:\photo\00\enhance_image\201204041_randomGaussian0.jpg
+E:\photo\00\enhance_image\201707260.jpg 25,17,147,121,1
+E:\photo\00\enhance_image\201707260_histogramEqualization0.jpg 25,17,147,121,1
+E:\photo\00\enhance_image\201707260_Imagerotate0.jpg 168,25,272,147,1
+E:\photo\00\enhance_image\201707260_noiseImpulse0.jpg 25,17,147,121,1
+E:\photo\00\enhance_image\201707260_randomGaussian0.jpg 25,17,147,121,1
+E:\photo\00\enhance_image\202004020_histogramEqualization0.jpg 132,1,187,58,1
+E:\photo\00\enhance_image\202004020_Imagerotate0.jpg 133,152,189,206,1
+E:\photo\00\enhance_image\202004020_noiseImpulse0.jpg 132,1,187,58,1
+E:\photo\00\enhance_image\202004020_randomGaussian0.jpg 132,1,187,58,1
+E:\photo\00\enhance_image\202004030.jpg 14,10,67,65,0 90,73,146,128,0
+E:\photo\00\enhance_image\202004030_histogramEqualization0.jpg 14,10,67,65,0 90,73,146,128,0
+E:\photo\00\enhance_image\202004030_Imagerotate0.jpg 29,210,81,263,0 127,201,181,255,0
+E:\photo\00\enhance_image\202004030_noiseImpulse0.jpg 14,10,67,65,0 90,73,146,128,0
+E:\photo\00\enhance_image\202004031.jpg 27,133,111,204,1
+E:\photo\00\enhance_image\202004031_histogramEqualization0.jpg 27,133,111,204,1
+E:\photo\00\enhance_image\202004031_Imagerotate0.jpg 70,43,141,123,1
+E:\photo\00\enhance_image\202004031_noiseImpulse0.jpg 27,133,111,204,1
+E:\photo\00\enhance_image\202004031_randomGaussian0.jpg 27,133,111,204,1
+E:\photo\00\enhance_image\202004050.jpg 85,93,113,122,1
+E:\photo\00\enhance_image\202004050_histogramEqualization0.jpg 85,93,113,122,1
+E:\photo\00\enhance_image\202004050_Imagerotate0.jpg 69,31,97,60,1
+E:\photo\00\enhance_image\202004050_noiseImpulse0.jpg 85,93,113,122,1
+E:\photo\00\enhance_image\202004050_randomGaussian0.jpg 85,93,113,122,1
+E:\photo\00\enhance_image\202004060.jpg 21,109,58,139,1
+E:\photo\00\enhance_image\202004060_histogramEqualization0.jpg 21,109,58,139,1
+E:\photo\00\enhance_image\202004060_Imagerotate0.jpg 22,109,59,139,1
+E:\photo\00\enhance_image\202004060_randomGaussian0.jpg 21,109,58,139,1
+E:\photo\00\enhance_image\202004061_randomGaussian0.jpg 106,111,154,142,1
+E:\photo\00\enhance_image\202004062.jpg 132,139,185,189,1
+E:\photo\00\enhance_image\202004062_histogramEqualization0.jpg 132,139,185,189,1
+E:\photo\00\enhance_image\202004062_Imagerotate0.jpg 29,134,79,187,1
+E:\photo\00\enhance_image\202004062_noiseImpulse0.jpg 132,139,185,189,1
+E:\photo\00\enhance_image\202004062_randomGaussian0.jpg 132,139,185,189,1
+E:\photo\00\enhance_image\202004063.jpg 173,144,220,198,1
+E:\photo\00\enhance_image\202004063_histogramEqualization0.jpg 173,144,220,198,1
+E:\photo\00\enhance_image\202004063_Imagerotate0.jpg 144,30,197,78,1
+E:\photo\00\enhance_image\202004063_noiseImpulse0.jpg 173,144,220,198,1
+E:\photo\00\enhance_image\202004063_randomGaussian0.jpg 173,144,220,198,1
+E:\photo\00\enhance_image\202004064.jpg 9,69,70,125,1
+E:\photo\00\enhance_image\202004064_histogramEqualization0.jpg 9,69,70,125,1
+E:\photo\00\enhance_image\202004064_Imagerotate0.jpg 49,124,108,181,1
+E:\photo\00\enhance_image\202004070_histogramEqualization0.jpg 44,13,62,32,1
+E:\photo\00\enhance_image\202004070_Imagerotate0.jpg 59,72,77,91,1
+E:\photo\00\enhance_image\202004070_noiseImpulse0.jpg 44,13,62,32,1
+E:\photo\00\enhance_image\202004070_randomGaussian0.jpg 44,13,62,32,1
+E:\photo\00\enhance_image\202004080.jpg 9,112,44,149,1
+E:\photo\00\enhance_image\202004080_histogramEqualization0.jpg 9,112,44,149,1
+E:\photo\00\enhance_image\202004080_randomGaussian0.jpg 9,112,44,149,1
+E:\photo\00\enhance_image\202004090_Imagerotate0.jpg 170,311,217,360,1
+E:\photo\00\enhance_image\202004090_noiseImpulse0.jpg 229,196,281,242,1
+E:\photo\00\enhance_image\202004090_randomGaussian0.jpg 229,196,281,242,1
+E:\photo\00\enhance_image\202004091.jpg 159,9,210,57,1
+E:\photo\00\enhance_image\202004091_histogramEqualization0.jpg 159,9,210,57,1
+E:\photo\00\enhance_image\202004091_Imagerotate0.jpg 131,164,179,215,1
+E:\photo\00\enhance_image\202004091_noiseImpulse0.jpg 159,9,210,57,1
+E:\photo\00\enhance_image\202004092_Imagerotate0.jpg 135,218,171,257,1
+E:\photo\00\enhance_image\202004092_randomGaussian0.jpg 22,138,63,172,1
+E:\photo\00\enhance_image\202004100.jpg 33,21,243,201,0
+E:\photo\00\enhance_image\202004100_histogramEqualization0.jpg 33,21,243,201,0
+E:\photo\00\enhance_image\202004100_Imagerotate0.jpg 25,205,205,415,0
+E:\photo\00\enhance_image\202004100_noiseImpulse0.jpg 33,21,243,201,0
+E:\photo\00\enhance_image\202004100_randomGaussian0.jpg 33,21,243,201,0
+E:\photo\00\enhance_image\202004101.jpg 144,293,194,334,1 13,13,45,55,1
+E:\photo\00\enhance_image\202004101_histogramEqualization0.jpg 144,293,194,334,1 13,13,45,55,1
+E:\photo\00\enhance_image\202004101_Imagerotate0.jpg 130,330,177,373,1 193,24,228,63,1
+E:\photo\00\enhance_image\202004101_noiseImpulse0.jpg 144,293,194,334,1 13,13,45,55,1
+E:\photo\00\enhance_image\202004102_histogramEqualization0.jpg 179,10,226,62,0
+E:\photo\00\enhance_image\202004102_Imagerotate0.jpg 11,16,63,63,0
+E:\photo\00\enhance_image\202004102_noiseImpulse0.jpg 179,10,226,62,0
+E:\photo\00\enhance_image\202004102_randomGaussian0.jpg 179,10,226,62,0
+E:\photo\00\enhance_image\202004120_histogramEqualization0.jpg 160,154,249,229,0 21,11,79,77,0
+E:\photo\00\enhance_image\202004120_Imagerotate0.jpg 238,159,321,238,0 37,157,96,219,0
+E:\photo\00\enhance_image\202004120_noiseImpulse0.jpg 160,154,249,229,0 21,11,79,77,0
+E:\photo\00\enhance_image\202004121.jpg 17,80,112,175,1
+E:\photo\00\enhance_image\202004121_histogramEqualization0.jpg 17,80,112,175,1
+E:\photo\00\enhance_image\202004121_Imagerotate0.jpg 73,130,168,225,1
+E:\photo\00\enhance_image\202004121_randomGaussian0.jpg 17,80,112,175,1
+E:\photo\00\enhance_image\202004130.jpg 34,54,95,117,0 180,185,281,284,0 97,22,155,73,1
+E:\photo\00\enhance_image\202004130_histogramEqualization0.jpg 34,54,95,117,0 180,185,281,284,0 97,22,155,73,1
+E:\photo\00\enhance_image\202004130_Imagerotate0.jpg 178,43,240,104,0 32,206,130,307,0 229,101,279,159,1
+E:\photo\00\enhance_image\202004130_randomGaussian0.jpg 34,54,95,117,0 180,185,281,284,0 97,22,155,73,1
+E:\photo\00\enhance_image\202004131.jpg 147,11,228,86,0 202,219,258,264,0
+E:\photo\00\enhance_image\202004131_histogramEqualization0.jpg 147,11,228,86,0 202,219,258,264,0
+E:\photo\00\enhance_image\202004131_Imagerotate0.jpg 54,206,133,279,0 69,22,123,67,0
+E:\photo\00\enhance_image\202004131_noiseImpulse0.jpg 147,11,228,86,0 202,219,258,264,0
+E:\photo\00\enhance_image\202004131_randomGaussian0.jpg 147,11,228,86,0 202,219,258,264,0
+E:\photo\00\enhance_image\202004140_histogramEqualization0.jpg 36,20,137,96,0 70,84,179,184,1
+E:\photo\00\enhance_image\202004140_Imagerotate0.jpg 45,24,146,100,0 75,90,184,190,1
+E:\photo\00\enhance_image\202004140_noiseImpulse0.jpg 36,20,137,96,0 70,84,179,184,1
+E:\photo\00\enhance_image\202004140_randomGaussian0.jpg 36,20,137,96,0 70,84,179,184,1
+E:\photo\00\enhance_image\202004141.jpg 90,167,180,276,0 9,16,62,74,1
+E:\photo\00\enhance_image\202004141_histogramEqualization0.jpg 90,167,180,276,0 9,16,62,74,1
+E:\photo\00\enhance_image\202004141_noiseImpulse0.jpg 90,167,180,276,0 9,16,62,74,1
+E:\photo\00\enhance_image\202004142.jpg 172,8,209,45,1
+E:\photo\00\enhance_image\202004142_Imagerotate0.jpg 127,229,164,266,1
+E:\photo\00\enhance_image\202004142_noiseImpulse0.jpg 172,8,209,45,1
+E:\photo\00\enhance_image\202004150.jpg 49,68,114,124,0 116,24,170,84,1
+E:\photo\00\enhance_image\202004150_Imagerotate0.jpg 144,97,202,159,0 146,175,204,230,1
+E:\photo\00\enhance_image\202004150_noiseImpulse0.jpg 49,68,114,124,0 116,24,170,84,1
+E:\photo\00\enhance_image\202004150_randomGaussian0.jpg 49,68,114,124,0 116,24,170,84,1
+E:\photo\00\enhance_image\202004160.jpg 15,80,37,100,1 127,171,145,199,1 60,42,80,63,1 71,8,90,28,1
+E:\photo\00\enhance_image\202004160_histogramEqualization0.jpg 15,80,37,100,1 127,171,145,199,1 60,42,80,63,1 71,8,90,28,1
+E:\photo\00\enhance_image\202004160_Imagerotate0.jpg 110,59,130,80,1 85,203,110,223,1 165,77,185,97,1 200,68,220,87,1
+E:\photo\00\enhance_image\202004160_noiseImpulse0.jpg 15,80,37,100,1 127,171,145,199,1 60,42,80,63,1 71,8,90,28,1
+E:\photo\00\enhance_image\202004161.jpg 144,71,180,116,1 234,35,278,76,1
+E:\photo\00\enhance_image\202004161_histogramEqualization0.jpg 144,71,180,116,1 234,35,278,76,1
+E:\photo\00\enhance_image\202004161_noiseImpulse0.jpg 144,71,180,116,1 234,35,278,76,1
+E:\photo\00\enhance_image\202004161_randomGaussian0.jpg 144,71,180,116,1 234,35,278,76,1
+E:\photo\00\enhance_image\202004162.jpg 120,10,152,39,0
+E:\photo\00\enhance_image\202004162_histogramEqualization0.jpg 120,10,152,39,0
+E:\photo\00\enhance_image\202004162_Imagerotate0.jpg 121,11,153,40,0
+E:\photo\00\enhance_image\202004162_randomGaussian0.jpg 120,10,152,39,0
+E:\photo\00\enhance_image\202004163.jpg 17,14,97,89,0
+E:\photo\00\enhance_image\202004163_histogramEqualization0.jpg 17,14,97,89,0
+E:\photo\00\enhance_image\202004163_Imagerotate0.jpg 28,58,106,131,0
+E:\photo\00\enhance_image\202004163_noiseImpulse0.jpg 17,14,97,89,0
+E:\photo\00\enhance_image\202004164_histogramEqualization0.jpg 9,6,55,59,0 143,113,281,239,0
+E:\photo\00\enhance_image\202004164_noiseImpulse0.jpg 9,6,55,59,0 143,113,281,239,0
+E:\photo\00\enhance_image\202004164_randomGaussian0.jpg 9,6,55,59,0 143,113,281,239,0
+E:\photo\00\enhance_image\202004165.jpg 13,127,166,250,0
+E:\photo\00\enhance_image\202004165_noiseImpulse0.jpg 13,127,166,250,0
+E:\photo\00\enhance_image\202004165_randomGaussian0.jpg 13,127,166,250,0
+E:\photo\00\enhance_image\202004166.jpg 13,72,74,119,1
+E:\photo\00\enhance_image\202004166_histogramEqualization0.jpg 13,72,74,119,1
+E:\photo\00\enhance_image\202004166_Imagerotate0.jpg 268,105,319,160,1
+E:\photo\00\enhance_image\202004166_noiseImpulse0.jpg 13,72,74,119,1
+E:\photo\00\enhance_image\202004166_randomGaussian0.jpg 13,72,74,119,1
+E:\photo\00\enhance_image\202004170_histogramEqualization0.jpg 12,119,50,148,1
+E:\photo\00\enhance_image\202004170_Imagerotate0.jpg 22,122,59,151,1
+E:\photo\00\enhance_image\202004170_noiseImpulse0.jpg 12,119,50,148,1
+E:\photo\00\enhance_image\202004171_histogramEqualization0.jpg 175,84,246,167,1 3,167,28,191,1
+E:\photo\00\enhance_image\202004171_Imagerotate0.jpg 77,49,152,128,1 294,141,318,166,1
+E:\photo\00\enhance_image\202004171_noiseImpulse0.jpg 175,84,246,167,1 3,167,28,191,1
+E:\photo\00\enhance_image\202004171_randomGaussian0.jpg 175,84,246,167,1 3,167,28,191,1
+E:\photo\00\enhance_image\202004180.jpg 290,199,327,245,1
+E:\photo\00\enhance_image\202004180_Imagerotate0.jpg 80,63,118,107,1
+E:\photo\00\enhance_image\202004180_noiseImpulse0.jpg 290,199,327,245,1
+E:\photo\00\enhance_image\202004180_randomGaussian0.jpg 290,199,327,245,1
+E:\photo\00\enhance_image\202004181.jpg 197,13,250,68,1
+E:\photo\00\enhance_image\202004181_histogramEqualization0.jpg 197,13,250,68,1
+E:\photo\00\enhance_image\202004181_Imagerotate0.jpg 185,240,238,292,1
+E:\photo\00\enhance_image\202004181_noiseImpulse0.jpg 197,13,250,68,1
+E:\photo\00\enhance_image\202004181_randomGaussian0.jpg 197,13,250,68,1
+E:\photo\00\enhance_image\202004200.jpg 32,168,273,379,0
+E:\photo\00\enhance_image\202004200_histogramEqualization0.jpg 32,168,273,379,0
+E:\photo\00\enhance_image\202004200_noiseImpulse0.jpg 32,168,273,379,0
+E:\photo\00\enhance_image\202004200_randomGaussian0.jpg 32,168,273,379,0
+E:\photo\00\enhance_image\202004220.jpg 113,15,191,68,1
+E:\photo\00\enhance_image\202004220_Imagerotate0.jpg 135,167,193,239,1
+E:\photo\00\enhance_image\202004220_noiseImpulse0.jpg 113,15,191,68,1
+E:\photo\00\enhance_image\202004220_randomGaussian0.jpg 113,15,191,68,1
+E:\photo\00\enhance_image\202004230.jpg 63,14,171,149,0
+E:\photo\00\enhance_image\202004230_histogramEqualization0.jpg 63,14,171,149,0
+E:\photo\00\enhance_image\202004230_Imagerotate0.jpg 28,39,160,145,0
+E:\photo\00\enhance_image\202004230_randomGaussian0.jpg 63,14,171,149,0
+E:\photo\00\enhance_image\202004231.jpg 12,15,87,86,1
+E:\photo\00\enhance_image\202004231_histogramEqualization0.jpg 12,15,87,86,1
+E:\photo\00\enhance_image\202004231_Imagerotate0.jpg 18,34,92,104,1
+E:\photo\00\enhance_image\202004231_noiseImpulse0.jpg 12,15,87,86,1
+E:\photo\00\enhance_image\202004231_randomGaussian0.jpg 12,15,87,86,1
+E:\photo\00\enhance_image\202004232.jpg 8,8,35,31,1
+E:\photo\00\enhance_image\202004232_histogramEqualization0.jpg 8,8,35,31,1
+E:\photo\00\enhance_image\202004232_noiseImpulse0.jpg 8,8,35,31,1
+E:\photo\00\enhance_image\202004240.jpg 42,53,53,65,0
+E:\photo\00\enhance_image\202004240_histogramEqualization0.jpg 42,53,53,65,0
+E:\photo\00\enhance_image\202004240_Imagerotate0.jpg 88,59,99,71,0
+E:\photo\00\enhance_image\202004240_noiseImpulse0.jpg 42,53,53,65,0
+E:\photo\00\enhance_image\202004250.jpg 182,159,229,205,1
+E:\photo\00\enhance_image\202004250_Imagerotate0.jpg 124,35,170,81,1
+E:\photo\00\enhance_image\202004250_noiseImpulse0.jpg 182,159,229,205,1
+E:\photo\00\enhance_image\202004250_randomGaussian0.jpg 182,159,229,205,1
+E:\photo\00\enhance_image\202004251.jpg 17,150,67,202,1
+E:\photo\00\enhance_image\202004251_histogramEqualization0.jpg 17,150,67,202,1
+E:\photo\00\enhance_image\202004251_Imagerotate0.jpg 146,235,197,285,1
+E:\photo\00\enhance_image\202004251_noiseImpulse0.jpg 17,150,67,202,1
+E:\photo\00\enhance_image\202004251_randomGaussian0.jpg 17,150,67,202,1
+E:\photo\00\enhance_image\202004252_Imagerotate0.jpg 254,64,324,129,1
+E:\photo\00\enhance_image\202004252_noiseImpulse0.jpg 47,179,117,244,1
+E:\photo\00\enhance_image\202004252_randomGaussian0.jpg 47,179,117,244,1
+E:\photo\00\enhance_image\202004270.jpg 70,101,243,265,0
+E:\photo\00\enhance_image\202004270_histogramEqualization0.jpg 70,101,243,265,0
+E:\photo\00\enhance_image\202004270_Imagerotate0.jpg 216,200,385,365,0
+E:\photo\00\enhance_image\202004270_noiseImpulse0.jpg 70,101,243,265,0
+E:\photo\00\enhance_image\202004270_randomGaussian0.jpg 70,101,243,265,0
+E:\photo\00\enhance_image\202004280.jpg 32,79,220,265,0
+E:\photo\00\enhance_image\202004280_histogramEqualization0.jpg 32,79,220,265,0
+E:\photo\00\enhance_image\202004280_noiseImpulse0.jpg 32,79,220,265,0
+E:\photo\00\enhance_image\202004280_randomGaussian0.jpg 32,79,220,265,0
+E:\photo\00\enhance_image\202004281.jpg 70,114,188,196,0 80,15,144,74,0
+E:\photo\00\enhance_image\202004281_histogramEqualization0.jpg 70,114,188,196,0 80,15,144,74,0
+E:\photo\00\enhance_image\202004281_Imagerotate0.jpg 123,97,205,214,0 26,148,84,212,0
+E:\photo\00\enhance_image\202004281_noiseImpulse0.jpg 70,114,188,196,0 80,15,144,74,0
+E:\photo\00\enhance_image\202004281_randomGaussian0.jpg 70,114,188,196,0 80,15,144,74,0
+E:\photo\00\enhance_image\202004290_histogramEqualization0.jpg 132,7,157,30,1
+E:\photo\00\enhance_image\202004290_Imagerotate0.jpg 96,15,119,39,1
+E:\photo\00\enhance_image\202004290_noiseImpulse0.jpg 132,7,157,30,1
+E:\photo\00\enhance_image\202004290_randomGaussian0.jpg 132,7,157,30,1
+E:\photo\00\enhance_image\202004291.jpg 83,20,134,64,1
+E:\photo\00\enhance_image\202004291_histogramEqualization0.jpg 83,20,134,64,1
+E:\photo\00\enhance_image\202004291_Imagerotate0.jpg 130,207,179,253,1
+E:\photo\00\enhance_image\202004291_noiseImpulse0.jpg 83,20,134,64,1
+E:\photo\00\enhance_image\202004291_randomGaussian0.jpg 83,20,134,64,1
+E:\photo\00\enhance_image\202004292.jpg 60,41,131,114,1
+E:\photo\00\enhance_image\202004292_histogramEqualization0.jpg 60,41,131,114,1
+E:\photo\00\enhance_image\202004292_Imagerotate0.jpg 68,80,140,150,1
+E:\photo\00\enhance_image\202004292_noiseImpulse0.jpg 60,41,131,114,1
+E:\photo\00\enhance_image\202004292_randomGaussian0.jpg 60,41,131,114,1
+E:\photo\00\enhance_image\202004293_histogramEqualization0.jpg 28,10,140,126,0
+E:\photo\00\enhance_image\202004293_Imagerotate0.jpg 228,195,340,311,0
+E:\photo\00\enhance_image\202004293_noiseImpulse0.jpg 28,10,140,126,0
+E:\photo\00\enhance_image\202004293_randomGaussian0.jpg 28,10,140,126,0
+E:\photo\00\enhance_image\202004294_histogramEqualization0.jpg 33,19,71,53,1
+E:\photo\00\enhance_image\202004294_Imagerotate0.jpg 41,56,78,90,1
+E:\photo\00\enhance_image\202004294_noiseImpulse0.jpg 33,19,71,53,1
+E:\photo\00\enhance_image\202004294_randomGaussian0.jpg 33,19,71,53,1
+E:\photo\00\enhance_image\202004295.jpg 122,101,148,129,1
+E:\photo\00\enhance_image\202004295_histogramEqualization0.jpg 122,101,148,129,1
+E:\photo\00\enhance_image\202004295_Imagerotate0.jpg 122,140,147,167,1
+E:\photo\00\enhance_image\202004295_noiseImpulse0.jpg 122,101,148,129,1
+E:\photo\00\enhance_image\202004295_randomGaussian0.jpg 122,101,148,129,1
+E:\photo\00\enhance_image\202004300.jpg 13,96,130,217,0
+E:\photo\00\enhance_image\202004300_Imagerotate0.jpg 105,126,225,242,0
+E:\photo\00\enhance_image\202004300_noiseImpulse0.jpg 13,96,130,217,0
+E:\photo\00\enhance_image\202004300_randomGaussian0.jpg 13,96,130,217,0
+E:\photo\00\enhance_image\202004301.jpg 28,36,96,102,1
+E:\photo\00\enhance_image\202004301_histogramEqualization0.jpg 28,36,96,102,1
+E:\photo\00\enhance_image\202004301_Imagerotate0.jpg 191,249,258,315,1
+E:\photo\00\enhance_image\202004301_noiseImpulse0.jpg 28,36,96,102,1
+E:\photo\00\enhance_image\202004301_randomGaussian0.jpg 28,36,96,102,1
+E:\photo\00\enhance_image\202004302.jpg 7,89,53,134,1
+E:\photo\00\enhance_image\202004302_histogramEqualization0.jpg 7,89,53,134,1
+E:\photo\00\enhance_image\202004302_Imagerotate0.jpg 131,69,176,114,1
+E:\photo\00\enhance_image\202004302_noiseImpulse0.jpg 7,89,53,134,1
+E:\photo\00\enhance_image\202004303.jpg 123,141,157,169,1
+E:\photo\00\enhance_image\202004303_histogramEqualization0.jpg 123,141,157,169,1
+E:\photo\00\enhance_image\202004303_Imagerotate0.jpg 29,107,59,138,1
+E:\photo\00\enhance_image\202004303_noiseImpulse0.jpg 123,141,157,169,1
+E:\photo\00\enhance_image\202004303_randomGaussian0.jpg 123,141,157,169,1
+E:\photo\00\enhance_image\202005020.jpg 9,125,141,242,0
+E:\photo\00\enhance_image\202005020_histogramEqualization0.jpg 9,125,141,242,0
+E:\photo\00\enhance_image\202005020_noiseImpulse0.jpg 9,125,141,242,0
+E:\photo\00\enhance_image\202005020_randomGaussian0.jpg 9,125,141,242,0
+E:\photo\00\enhance_image\202005021.jpg 167,121,207,157,1
+E:\photo\00\enhance_image\202005021_randomGaussian0.jpg 167,121,207,157,1
+E:\photo\00\enhance_image\202005040_histogramEqualization0.jpg 10,8,48,44,1
+E:\photo\00\enhance_image\202005040_noiseImpulse0.jpg 10,8,48,44,1
+E:\photo\00\enhance_image\202005040_randomGaussian0.jpg 10,8,48,44,1
+E:\photo\00\enhance_image\202005041.jpg 9,8,78,73,1
+E:\photo\00\enhance_image\202005041_histogramEqualization0.jpg 9,8,78,73,1
+E:\photo\00\enhance_image\202005041_Imagerotate0.jpg 82,180,148,248,1
+E:\photo\00\enhance_image\202005041_noiseImpulse0.jpg 9,8,78,73,1
+E:\photo\00\enhance_image\202005042.jpg 16,14,52,54,1
+E:\photo\00\enhance_image\202005042_histogramEqualization0.jpg 16,14,52,54,1
+E:\photo\00\enhance_image\202005042_Imagerotate0.jpg 137,103,173,142,1
+E:\photo\00\enhance_image\202005042_noiseImpulse0.jpg 16,14,52,54,1
+E:\photo\00\enhance_image\202005042_randomGaussian0.jpg 16,14,52,54,1
+E:\photo\00\enhance_image\202005050.jpg 79,10,127,55,1 22,134,74,187,1
+E:\photo\00\enhance_image\202005050_histogramEqualization0.jpg 79,10,127,55,1 22,134,74,187,1
+E:\photo\00\enhance_image\202005050_Imagerotate0.jpg 189,116,233,163,1 73,32,125,83,1
+E:\photo\00\enhance_image\202005050_noiseImpulse0.jpg 79,10,127,55,1 22,134,74,187,1
+E:\photo\00\enhance_image\202005050_randomGaussian0.jpg 79,10,127,55,1 22,134,74,187,1
+E:\photo\00\enhance_image\202005051.jpg 80,242,109,269,1 248,233,327,288,1
+E:\photo\00\enhance_image\202005051_histogramEqualization0.jpg 80,242,109,269,1 248,233,327,288,1
+E:\photo\00\enhance_image\202005051_noiseImpulse0.jpg 80,242,109,269,1 248,233,327,288,1
+E:\photo\00\enhance_image\202005051_randomGaussian0.jpg 80,242,109,269,1 248,233,327,288,1
+E:\photo\00\enhance_image\202005052_histogramEqualization0.jpg 17,43,102,124,1
+E:\photo\00\enhance_image\202005052_Imagerotate0.jpg 70,60,154,142,1
+E:\photo\00\enhance_image\202005052_noiseImpulse0.jpg 17,43,102,124,1
+E:\photo\00\enhance_image\202005052_randomGaussian0.jpg 17,43,102,124,1
+E:\photo\00\enhance_image\202005070.jpg 406,139,463,188,1 15,12,60,48,1
+E:\photo\00\enhance_image\202005070_histogramEqualization0.jpg 406,139,463,188,1 15,12,60,48,1
+E:\photo\00\enhance_image\202005070_Imagerotate0.jpg 301,76,351,131,1 24,390,61,433,1
+E:\photo\00\enhance_image\202005070_noiseImpulse0.jpg 406,139,463,188,1 15,12,60,48,1
+E:\photo\00\enhance_image\202005070_randomGaussian0.jpg 406,139,463,188,1 15,12,60,48,1
+E:\photo\00\enhance_image\202005071_histogramEqualization0.jpg 27,23,81,77,1
+E:\photo\00\enhance_image\202005071_randomGaussian0.jpg 27,23,81,77,1
+E:\photo\00\enhance_image\202005072.jpg 18,14,84,82,0
+E:\photo\00\enhance_image\202005072_histogramEqualization0.jpg 18,14,84,82,0
+E:\photo\00\enhance_image\202005072_Imagerotate0.jpg 94,35,160,102,0
+E:\photo\00\enhance_image\202005072_noiseImpulse0.jpg 18,14,84,82,0
+E:\photo\00\enhance_image\202005072_randomGaussian0.jpg 18,14,84,82,0
+E:\photo\00\enhance_image\202005073.jpg 17,196,94,276,0
+E:\photo\00\enhance_image\202005073_histogramEqualization0.jpg 17,196,94,276,0
+E:\photo\00\enhance_image\202005073_noiseImpulse0.jpg 17,196,94,276,0
+E:\photo\00\enhance_image\202005073_randomGaussian0.jpg 17,196,94,276,0
+E:\photo\00\enhance_image\202005074.jpg 19,87,62,138,1
+E:\photo\00\enhance_image\202005074_histogramEqualization0.jpg 19,87,62,138,1
+E:\photo\00\enhance_image\202005074_randomGaussian0.jpg 19,87,62,138,1
+E:\photo\00\enhance_image\202005075_histogramEqualization0.jpg 16,37,104,110,0
+E:\photo\00\enhance_image\202005075_Imagerotate0.jpg 239,94,316,178,0
+E:\photo\00\enhance_image\202005075_noiseImpulse0.jpg 16,37,104,110,0
+E:\photo\00\enhance_image\202005080.jpg 10,100,81,176,1
+E:\photo\00\enhance_image\202005080_histogramEqualization0.jpg 10,100,81,176,1
+E:\photo\00\enhance_image\202005080_Imagerotate0.jpg 154,39,225,113,1
+E:\photo\00\enhance_image\202005080_noiseImpulse0.jpg 10,100,81,176,1
+E:\photo\00\enhance_image\202005080_randomGaussian0.jpg 10,100,81,176,1
+E:\photo\00\enhance_image\202005081.jpg 89,102,144,154,1
+E:\photo\00\enhance_image\202005081_histogramEqualization0.jpg 89,102,144,154,1
+E:\photo\00\enhance_image\202005081_Imagerotate0.jpg 135,118,189,170,1
+E:\photo\00\enhance_image\202005081_randomGaussian0.jpg 89,102,144,154,1
+E:\photo\00\enhance_image\202005082.jpg 228,254,274,291,1 183,75,240,134,1 296,35,353,80,1 134,326,184,401,1
+E:\photo\00\enhance_image\202005082_histogramEqualization0.jpg 228,254,274,291,1 183,75,240,134,1 296,35,353,80,1 134,326,184,401,1
+E:\photo\00\enhance_image\202005082_Imagerotate0.jpg 282,153,319,198,1 100,166,158,223,1 74,48,118,105,1 342,253,417,303,1
+E:\photo\00\enhance_image\202005082_noiseImpulse0.jpg 228,254,274,291,1 183,75,240,134,1 296,35,353,80,1 134,326,184,401,1
+E:\photo\00\enhance_image\202005082_randomGaussian0.jpg 228,254,274,291,1 183,75,240,134,1 296,35,353,80,1 134,326,184,401,1
+E:\photo\00\enhance_image\202005083.jpg 84,72,112,95,1
+E:\photo\00\enhance_image\202005083_histogramEqualization0.jpg 84,72,112,95,1
+E:\photo\00\enhance_image\202005083_Imagerotate0.jpg 115,69,141,93,1
+E:\photo\00\enhance_image\202005083_noiseImpulse0.jpg 84,72,112,95,1
+E:\photo\00\enhance_image\202005083_randomGaussian0.jpg 84,72,112,95,1
+E:\photo\00\enhance_image\202005084.jpg 189,112,241,159,1 118,27,153,61,1
+E:\photo\00\enhance_image\202005084_Imagerotate0.jpg 152,211,198,262,1 233,124,266,158,1
+E:\photo\00\enhance_image\202005084_noiseImpulse0.jpg 189,112,241,159,1 118,27,153,61,1
+E:\photo\00\enhance_image\202005084_randomGaussian0.jpg 189,112,241,159,1 118,27,153,61,1
+E:\photo\00\enhance_image\202005085_histogramEqualization0.jpg 19,20,100,121,1
+E:\photo\00\enhance_image\202005085_Imagerotate0.jpg 72,47,165,135,1
+E:\photo\00\enhance_image\202005085_noiseImpulse0.jpg 19,20,100,121,1
+E:\photo\00\enhance_image\202005086.jpg 117,83,294,280,0
+E:\photo\00\enhance_image\202005086_histogramEqualization0.jpg 117,83,294,280,0
+E:\photo\00\enhance_image\202005086_Imagerotate0.jpg 106,46,297,218,0
+E:\photo\00\enhance_image\202005086_noiseImpulse0.jpg 117,83,294,280,0
+E:\photo\00\enhance_image\202005110.jpg 11,47,127,167,1
+E:\photo\00\enhance_image\202005110_histogramEqualization0.jpg 11,47,127,167,1
+E:\photo\00\enhance_image\202005110_Imagerotate0.jpg 102,48,216,163,1
+E:\photo\00\enhance_image\202005110_noiseImpulse0.jpg 11,47,127,167,1
+E:\photo\00\enhance_image\202005110_randomGaussian0.jpg 11,47,127,167,1
+E:\photo\00\enhance_image\202005111.jpg 196,1,250,58,0 34,194,93,258,1 59,83,123,132,1 193,67,243,115,1
+E:\photo\00\enhance_image\202005111_histogramEqualization0.jpg 196,1,250,58,0 34,194,93,258,1 59,83,123,132,1 193,67,243,115,1
+E:\photo\00\enhance_image\202005111_Imagerotate0.jpg 206,318,261,374,0 208,62,268,124,1 260,177,319,230,1 175,271,224,319,1
+E:\photo\00\enhance_image\202005111_noiseImpulse0.jpg 196,1,250,58,0 34,194,93,258,1 59,83,123,132,1 193,67,243,115,1
+E:\photo\00\enhance_image\202005111_randomGaussian0.jpg 196,1,250,58,0 34,194,93,258,1 59,83,123,132,1 193,67,243,115,1
+E:\photo\00\enhance_image\202005112.jpg 143,109,210,161,1
+E:\photo\00\enhance_image\202005112_histogramEqualization0.jpg 143,109,210,161,1
+E:\photo\00\enhance_image\202005112_Imagerotate0.jpg 124,190,183,250,1
+E:\photo\00\enhance_image\202005112_noiseImpulse0.jpg 143,109,210,161,1
+E:\photo\00\enhance_image\202005112_randomGaussian0.jpg 143,109,210,161,1
+E:\photo\00\enhance_image\202005113.jpg 17,18,90,80,1
+E:\photo\00\enhance_image\202005113_Imagerotate0.jpg 89,246,152,315,1
+E:\photo\00\enhance_image\202005113_noiseImpulse0.jpg 17,18,90,80,1
+E:\photo\00\enhance_image\202005113_randomGaussian0.jpg 17,18,90,80,1
+E:\photo\00\enhance_image\202005114.jpg 13,166,65,217,1
+E:\photo\00\enhance_image\202005114_histogramEqualization0.jpg 13,166,65,217,1
+E:\photo\00\enhance_image\202005114_noiseImpulse0.jpg 13,166,65,217,1
+E:\photo\00\enhance_image\202005114_randomGaussian0.jpg 13,166,65,217,1
+E:\photo\00\enhance_image\202005115_histogramEqualization0.jpg 219,121,412,367,0
+E:\photo\00\enhance_image\202005115_Imagerotate0.jpg 67,241,300,447,0
+E:\photo\00\enhance_image\202005115_noiseImpulse0.jpg 219,121,412,367,0
+E:\photo\00\enhance_image\202005115_randomGaussian0.jpg 219,121,412,367,0
+E:\photo\00\enhance_image\202005120.jpg 17,204,94,271,1
+E:\photo\00\enhance_image\202005120_histogramEqualization0.jpg 17,204,94,271,1
+E:\photo\00\enhance_image\202005120_Imagerotate0.jpg 228,35,302,103,1
+E:\photo\00\enhance_image\202005120_noiseImpulse0.jpg 17,204,94,271,1
+E:\photo\00\enhance_image\202005120_randomGaussian0.jpg 17,204,94,271,1
+E:\photo\00\enhance_image\202005121_histogramEqualization0.jpg 134,122,173,154,1
+E:\photo\00\enhance_image\202005121_Imagerotate0.jpg 112,187,148,222,1
+E:\photo\00\enhance_image\202005121_noiseImpulse0.jpg 134,122,173,154,1
+E:\photo\00\enhance_image\202005121_randomGaussian0.jpg 134,122,173,154,1
+E:\photo\00\enhance_image\202005130.jpg 25,39,77,78,1
+E:\photo\00\enhance_image\202005130_histogramEqualization0.jpg 25,39,77,78,1
+E:\photo\00\enhance_image\202005130_noiseImpulse0.jpg 25,39,77,78,1
+E:\photo\00\enhance_image\202005130_randomGaussian0.jpg 25,39,77,78,1
+E:\photo\00\enhance_image\202005131.jpg 37,26,130,124,1
+E:\photo\00\enhance_image\202005131_histogramEqualization0.jpg 37,26,130,124,1
+E:\photo\00\enhance_image\202005131_noiseImpulse0.jpg 37,26,130,124,1
+E:\photo\00\enhance_image\202005132_histogramEqualization0.jpg 29,90,154,247,0
+E:\photo\00\enhance_image\202005132_noiseImpulse0.jpg 29,90,154,247,0
+E:\photo\00\enhance_image\202005132_randomGaussian0.jpg 29,90,154,247,0
+E:\photo\00\enhance_image\202005140.jpg 290,46,379,137,1
+E:\photo\00\enhance_image\202005140_histogramEqualization0.jpg 290,46,379,137,1
+E:\photo\00\enhance_image\202005140_Imagerotate0.jpg 221,76,311,165,1
+E:\photo\00\enhance_image\202005141.jpg 226,55,300,130,1
+E:\photo\00\enhance_image\202005141_histogramEqualization0.jpg 226,55,300,130,1
+E:\photo\00\enhance_image\202005141_Imagerotate0.jpg 112,40,185,112,1
+E:\photo\00\enhance_image\202005141_noiseImpulse0.jpg 226,55,300,130,1
+E:\photo\00\enhance_image\202005141_randomGaussian0.jpg 226,55,300,130,1
+E:\photo\00\enhance_image\202005142.jpg 177,149,243,216,1
+E:\photo\00\enhance_image\202005142_Imagerotate0.jpg 245,133,310,198,1
+E:\photo\00\enhance_image\202005142_noiseImpulse0.jpg 177,149,243,216,1
+E:\photo\00\enhance_image\202005142_randomGaussian0.jpg 177,149,243,216,1
+E:\photo\00\enhance_image\202005143.jpg 12,159,71,218,1
+E:\photo\00\enhance_image\202005143_histogramEqualization0.jpg 12,159,71,218,1
+E:\photo\00\enhance_image\202005143_Imagerotate0.jpg 31,157,90,216,1
+E:\photo\00\enhance_image\202005143_noiseImpulse0.jpg 12,159,71,218,1
+E:\photo\00\enhance_image\202005144_histogramEqualization0.jpg 91,23,169,119,1 224,202,349,314,1
+E:\photo\00\enhance_image\202005144_Imagerotate0.jpg 208,259,285,354,1 59,42,182,153,1
+E:\photo\00\enhance_image\202005144_noiseImpulse0.jpg 91,23,169,119,1 224,202,349,314,1
+E:\photo\00\enhance_image\202005144_randomGaussian0.jpg 91,23,169,119,1 224,202,349,314,1
+E:\photo\00\enhance_image\202005145.jpg 86,19,224,136,0 170,111,231,167,1
+E:\photo\00\enhance_image\202005145_histogramEqualization0.jpg 86,19,224,136,0 170,111,231,167,1
+E:\photo\00\enhance_image\202005145_Imagerotate0.jpg 101,88,218,226,0 72,174,128,235,1
+E:\photo\00\enhance_image\202005145_noiseImpulse0.jpg 86,19,224,136,0 170,111,231,167,1
+E:\photo\00\enhance_image\202005146.jpg 144,107,220,190,0
+E:\photo\00\enhance_image\202005146_histogramEqualization0.jpg 144,107,220,190,0
+E:\photo\00\enhance_image\202005146_Imagerotate0.jpg 181,117,256,197,0
+E:\photo\00\enhance_image\202005146_noiseImpulse0.jpg 144,107,220,190,0
+E:\photo\00\enhance_image\202005150.jpg 121,27,202,100,1 182,129,267,211,1
+E:\photo\00\enhance_image\202005150_histogramEqualization0.jpg 121,27,202,100,1 182,129,267,211,1
+E:\photo\00\enhance_image\202005150_Imagerotate0.jpg 65,137,140,216,1 133,33,215,117,1
+E:\photo\00\enhance_image\202005150_noiseImpulse0.jpg 121,27,202,100,1 182,129,267,211,1
+E:\photo\00\enhance_image\202005150_randomGaussian0.jpg 121,27,202,100,1 182,129,267,211,1
+E:\photo\00\enhance_image\202005151.jpg 23,24,104,103,1
+E:\photo\00\enhance_image\202005151_Imagerotate0.jpg 132,293,212,374,1
+E:\photo\00\enhance_image\202005151_randomGaussian0.jpg 23,24,104,103,1
+E:\photo\00\enhance_image\202005190.jpg 36,28,144,101,0
+E:\photo\00\enhance_image\202005190_histogramEqualization0.jpg 36,28,144,101,0
+E:\photo\00\enhance_image\202005190_Imagerotate0.jpg 38,39,146,112,0
+E:\photo\00\enhance_image\202005190_noiseImpulse0.jpg 36,28,144,101,0
+E:\photo\00\enhance_image\202005190_randomGaussian0.jpg 36,28,144,101,0
+E:\photo\00\enhance_image\202005210_histogramEqualization0.jpg 228,168,299,242,1
+E:\photo\00\enhance_image\202005210_Imagerotate0.jpg 209,287,281,359,1
+E:\photo\00\enhance_image\202005210_randomGaussian0.jpg 228,168,299,242,1
+E:\photo\00\enhance_image\202005260.jpg 8,73,59,129,1
+E:\photo\00\enhance_image\202005260_histogramEqualization0.jpg 8,73,59,129,1
+E:\photo\00\enhance_image\202005260_Imagerotate0.jpg 104,84,159,135,1
+E:\photo\00\enhance_image\202005260_noiseImpulse0.jpg 8,73,59,129,1
+E:\photo\00\enhance_image\202005270.jpg 237,162,382,334,0
+E:\photo\00\enhance_image\202005270_histogramEqualization0.jpg 237,162,382,334,0
+E:\photo\00\enhance_image\202005270_Imagerotate0.jpg 243,183,388,355,0
+E:\photo\00\enhance_image\202005270_noiseImpulse0.jpg 237,162,382,334,0
+E:\photo\00\enhance_image\202005270_randomGaussian0.jpg 237,162,382,334,0
+E:\photo\00\enhance_image\202005271.jpg 19,25,154,136,0
+E:\photo\00\enhance_image\202005271_histogramEqualization0.jpg 19,25,154,136,0
+E:\photo\00\enhance_image\202005271_Imagerotate0.jpg 139,36,248,168,0
+E:\photo\00\enhance_image\202005271_noiseImpulse0.jpg 19,25,154,136,0
+E:\photo\00\enhance_image\202005271_randomGaussian0.jpg 19,25,154,136,0
+E:\photo\00\enhance_image\202005280.jpg 81,69,208,198,0
+E:\photo\00\enhance_image\202005280_histogramEqualization0.jpg 81,69,208,198,0
+E:\photo\00\enhance_image\202005280_Imagerotate0.jpg 117,123,245,249,0
+E:\photo\00\enhance_image\202005280_noiseImpulse0.jpg 81,69,208,198,0
+E:\photo\00\enhance_image\202005280_randomGaussian0.jpg 81,69,208,198,0
+E:\photo\00\enhance_image\202005281.jpg 22,21,154,166,0
+E:\photo\00\enhance_image\202005281_histogramEqualization0.jpg 22,21,154,166,0
+E:\photo\00\enhance_image\202005281_Imagerotate0.jpg 202,111,339,244,0
+E:\photo\00\enhance_image\202005281_noiseImpulse0.jpg 22,21,154,166,0
+E:\photo\00\enhance_image\202005281_randomGaussian0.jpg 22,21,154,166,0
+E:\photo\00\enhance_image\202005290_histogramEqualization0.jpg 8,334,128,430,1 155,51,236,130,1 168,204,232,272,1
+E:\photo\00\enhance_image\202005290_Imagerotate0.jpg 361,48,475,149,1 402,376,483,455,1 337,254,402,321,1
+E:\photo\00\enhance_image\202005290_noiseImpulse0.jpg 8,334,128,430,1 155,51,236,130,1 168,204,232,272,1
+E:\photo\00\enhance_image\202005290_randomGaussian0.jpg 8,334,128,430,1 155,51,236,130,1 168,204,232,272,1
+E:\photo\00\enhance_image\202005291_histogramEqualization0.jpg 14,82,82,157,0 188,16,332,140,0
+E:\photo\00\enhance_image\202005291_Imagerotate0.jpg 122,90,192,163,0 292,132,431,261,0
+E:\photo\00\enhance_image\202005292.jpg 72,21,466,379,1
+E:\photo\00\enhance_image\202005292_Imagerotate0.jpg 227,120,581,510,1
+E:\photo\00\enhance_image\202005300.jpg 40,56,388,286,1
+E:\photo\00\enhance_image\202005300_histogramEqualization0.jpg 40,56,388,286,1
+E:\photo\00\enhance_image\202005300_Imagerotate0.jpg 253,108,509,428,1
+E:\photo\00\enhance_image\202005300_noiseImpulse0.jpg 40,56,388,286,1
+E:\photo\00\enhance_image\202005300_randomGaussian0.jpg 40,56,388,286,1
+E:\photo\00\enhance_image\202005301.jpg 83,66,185,159,1
+E:\photo\00\enhance_image\202005301_histogramEqualization0.jpg 83,66,185,159,1
+E:\photo\00\enhance_image\202005301_noiseImpulse0.jpg 83,66,185,159,1
+E:\photo\00\enhance_image\202005301_randomGaussian0.jpg 83,66,185,159,1
+E:\photo\00\enhance_image\202005302.jpg 38,23,165,159,0
+E:\photo\00\enhance_image\202005302_histogramEqualization0.jpg 38,23,165,159,0
+E:\photo\00\enhance_image\202005302_Imagerotate0.jpg 105,62,234,196,0
+E:\photo\00\enhance_image\202005302_randomGaussian0.jpg 38,23,165,159,0
+E:\photo\00\enhance_image\202005310.jpg 20,166,256,362,0
+E:\photo\00\enhance_image\202005310_histogramEqualization0.jpg 20,166,256,362,0
+E:\photo\00\enhance_image\202005310_Imagerotate0.jpg 251,66,478,270,0
+E:\photo\00\enhance_image\202005310_noiseImpulse0.jpg 20,166,256,362,0
+E:\photo\00\enhance_image\202005310_randomGaussian0.jpg 20,166,256,362,0
+E:\photo\00\enhance_image\202005311.jpg 46,45,170,157,1
+E:\photo\00\enhance_image\202005311_histogramEqualization0.jpg 46,45,170,157,1
+E:\photo\00\enhance_image\202005311_Imagerotate0.jpg 87,111,202,232,1
+E:\photo\00\enhance_image\202005311_noiseImpulse0.jpg 46,45,170,157,1
+E:\photo\00\enhance_image\202005311_randomGaussian0.jpg 46,45,170,157,1
+E:\photo\00\enhance_image\202005312.jpg 164,27,309,156,0
+E:\photo\00\enhance_image\202005312_histogramEqualization0.jpg 164,27,309,156,0
+E:\photo\00\enhance_image\202005312_Imagerotate0.jpg 194,188,323,332,0
+E:\photo\00\enhance_image\202005312_randomGaussian0.jpg 164,27,309,156,0
+E:\photo\00\enhance_image\202005313.jpg 160,4,342,166,0
+E:\photo\00\enhance_image\202005313_histogramEqualization0.jpg 160,4,342,166,0
+E:\photo\00\enhance_image\202005313_Imagerotate0.jpg 172,51,349,218,0
+E:\photo\00\enhance_image\202005313_noiseImpulse0.jpg 160,4,342,166,0
+E:\photo\00\enhance_image\202005313_randomGaussian0.jpg 160,4,342,166,0
+E:\photo\00\enhance_image\202006010.jpg 112,96,173,165,1 168,38,293,178,1
+E:\photo\00\enhance_image\202006010_histogramEqualization0.jpg 112,96,173,165,1 168,38,293,178,1
+E:\photo\00\enhance_image\202006010_Imagerotate0.jpg 115,154,182,217,1 139,190,275,318,1
+E:\photo\00\enhance_image\202006010_noiseImpulse0.jpg 112,96,173,165,1 168,38,293,178,1
+E:\photo\00\enhance_image\202006010_randomGaussian0.jpg 112,96,173,165,1 168,38,293,178,1
+E:\photo\00\enhance_image\202006011.jpg 19,128,167,261,0
+E:\photo\00\enhance_image\202006011_Imagerotate0.jpg 177,158,308,301,0
+E:\photo\00\enhance_image\202006011_noiseImpulse0.jpg 19,128,167,261,0
+E:\photo\00\enhance_image\202006011_randomGaussian0.jpg 19,128,167,261,0
+E:\photo\00\enhance_image\202006020.jpg
+E:\photo\00\enhance_image\202006020_histogramEqualization0.jpg
+E:\photo\00\enhance_image\202006020_Imagerotate0.jpg
+E:\photo\00\enhance_image\202006020_noiseImpulse0.jpg
+E:\photo\00\enhance_image\202006020_randomGaussian0.jpg
+E:\photo\00\enhance_image\202006030.jpg 233,33,297,94,1
+E:\photo\00\enhance_image\202006030_histogramEqualization0.jpg 233,33,297,94,1
+E:\photo\00\enhance_image\202006030_Imagerotate0.jpg 102,259,165,320,1
+E:\photo\00\enhance_image\202006030_noiseImpulse0.jpg 233,33,297,94,1
+E:\photo\00\enhance_image\202006040.jpg 154,121,304,298,0
+E:\photo\00\enhance_image\202006040_Imagerotate0.jpg 55,173,229,321,0
+E:\photo\00\enhance_image\202006040_randomGaussian0.jpg 154,121,304,298,0
+E:\photo\00\enhance_image\202006041.jpg 129,81,268,257,0
+E:\photo\00\enhance_image\202006041_histogramEqualization0.jpg 129,81,268,257,0
+E:\photo\00\enhance_image\202006041_Imagerotate0.jpg 97,62,246,227,0
+E:\photo\00\enhance_image\202006041_noiseImpulse0.jpg 129,81,268,257,0
+E:\photo\00\enhance_image\202006041_randomGaussian0.jpg 129,81,268,257,0
+E:\photo\00\enhance_image\202006070.jpg 17,17,177,155,0
+E:\photo\00\enhance_image\202006070_Imagerotate0.jpg 133,159,288,302,0
+E:\photo\00\enhance_image\202006070_noiseImpulse0.jpg 17,17,177,155,0
+E:\photo\00\enhance_image\202006070_randomGaussian0.jpg 17,17,177,155,0
+E:\photo\00\enhance_image\202006080_histogramEqualization0.jpg 19,23,106,113,0
+E:\photo\00\enhance_image\202006080_Imagerotate0.jpg 52,171,141,256,0
+E:\photo\00\enhance_image\202006080_noiseImpulse0.jpg 19,23,106,113,0
+E:\photo\00\enhance_image\202006080_randomGaussian0.jpg 19,23,106,113,0
+E:\photo\00\enhance_image\202006081.jpg 228,166,358,310,1
+E:\photo\00\enhance_image\202006081_histogramEqualization0.jpg 226,170,356,314,1
+E:\photo\00\enhance_image\202006081_Imagerotate0.jpg 253,104,392,234,1
+E:\photo\00\enhance_image\202006081_noiseImpulse0.jpg 226,170,356,314,1
+E:\photo\00\enhance_image\202006081_randomGaussian0.jpg 226,170,356,314,1
+E:\photo\00\enhance_image\202006082.jpg 230,171,338,278,0
+E:\photo\00\enhance_image\202006082_noiseImpulse0.jpg 230,171,338,278,0
+E:\photo\00\enhance_image\202006082_randomGaussian0.jpg 230,171,338,278,0
+E:\photo\00\enhance_image\202006100.jpg
+E:\photo\00\enhance_image\202006100_histogramEqualization0.jpg
+E:\photo\00\enhance_image\202006100_Imagerotate0.jpg
+E:\photo\00\enhance_image\202006100_noiseImpulse0.jpg
+E:\photo\00\enhance_image\202006100_randomGaussian0.jpg
+E:\photo\00\enhance_image\202006130.jpg 184,158,339,320,0
+E:\photo\00\enhance_image\202006130_histogramEqualization0.jpg 184,158,339,320,0
+E:\photo\00\enhance_image\202006130_Imagerotate0.jpg 75,116,231,276,0
+E:\photo\00\enhance_image\202006130_noiseImpulse0.jpg 184,158,339,320,0
+E:\photo\00\enhance_image\202006130_randomGaussian0.jpg 184,158,339,320,0
+E:\photo\00\enhance_image\202006170.jpg 13,108,67,163,1
+E:\photo\00\enhance_image\202006170_histogramEqualization0.jpg 13,108,67,163,1
+E:\photo\00\enhance_image\202006170_Imagerotate0.jpg 24,17,79,71,1
+E:\photo\00\enhance_image\202006170_noiseImpulse0.jpg 13,108,67,163,1
+E:\photo\00\enhance_image\202006170_randomGaussian0.jpg 13,108,67,163,1
+E:\photo\00\enhance_image\202006210_histogramEqualization0.jpg 21,136,138,255,0
+E:\photo\00\enhance_image\202006210_Imagerotate0.jpg 214,77,327,192,0
+E:\photo\00\enhance_image\202006210_noiseImpulse0.jpg 21,136,138,255,0
+E:\photo\00\enhance_image\202006220.jpg 30,204,146,316,1
+E:\photo\00\enhance_image\202006220_histogramEqualization0.jpg 30,204,146,316,1
+E:\photo\00\enhance_image\202006220_Imagerotate0.jpg 132,315,247,427,1
+E:\photo\00\enhance_image\202006220_randomGaussian0.jpg 30,204,146,316,1
+E:\photo\00\enhance_image\202006221.jpg 247,206,342,320,1
+E:\photo\00\enhance_image\202006221_Imagerotate0.jpg 50,234,158,334,1
+E:\photo\00\enhance_image\202006221_noiseImpulse0.jpg 247,206,342,320,1
+E:\photo\00\enhance_image\202006221_randomGaussian0.jpg 247,206,342,320,1
+E:\photo\00\enhance_image\202006230.jpg 6,65,159,176,1
+E:\photo\00\enhance_image\202006230_histogramEqualization0.jpg 6,65,159,176,1
+E:\photo\00\enhance_image\202006230_Imagerotate0.jpg 105,65,245,187,1
+E:\photo\00\enhance_image\202006230_noiseImpulse0.jpg 6,65,159,176,1
+E:\photo\00\enhance_image\202006231.jpg 25,165,151,280,0
+E:\photo\00\enhance_image\202006231_histogramEqualization0.jpg 25,165,151,280,0
+E:\photo\00\enhance_image\202006231_noiseImpulse0.jpg 25,165,151,280,0
+E:\photo\00\enhance_image\202006231_randomGaussian0.jpg 25,165,151,280,0
+E:\photo\00\enhance_image\202006250_histogramEqualization0.jpg 99,41,436,460,1
+E:\photo\00\enhance_image\202006250_Imagerotate0.jpg 146,297,547,637,1
+E:\photo\00\enhance_image\202006250_noiseImpulse0.jpg 99,41,436,460,1
+E:\photo\00\enhance_image\202006260.jpg 81,53,525,566,0
+E:\photo\00\enhance_image\202006260_Imagerotate0.jpg 348,206,782,708,0
+E:\photo\00\enhance_image\202006260_noiseImpulse0.jpg 81,53,525,566,0
+E:\photo\00\enhance_image\202006260_randomGaussian0.jpg 348,206,782,708,0
+E:\photo\00\enhance_image\202006290.jpg 21,139,142,249,1
+E:\photo\00\enhance_image\202006290_histogramEqualization0.jpg 21,139,142,249,1
+E:\photo\00\enhance_image\202006290_Imagerotate0.jpg 81,42,191,159,1
+E:\photo\00\enhance_image\202006290_randomGaussian0.jpg 21,139,142,249,1
+E:\photo\00\enhance_image\202007030.jpg 73,102,217,206,0
+E:\photo\00\enhance_image\202007030_Imagerotate0.jpg 118,31,229,166,0
+E:\photo\00\enhance_image\202007030_noiseImpulse0.jpg 73,102,217,206,0
+E:\photo\00\enhance_image\202007030_randomGaussian0.jpg 73,102,217,206,0
+E:\photo\00\enhance_image\202007080.jpg 136,79,245,184,1
+E:\photo\00\enhance_image\202007080_histogramEqualization0.jpg 136,79,245,184,1
+E:\photo\00\enhance_image\202007080_Imagerotate0.jpg 82,170,187,278,1
+E:\photo\00\enhance_image\202007080_noiseImpulse0.jpg 136,79,245,184,1
+E:\photo\00\enhance_image\202007080_randomGaussian0.jpg 136,79,245,184,1
+E:\photo\00\enhance_image\202007081.jpg 12,6,89,82,0
+E:\photo\00\enhance_image\202007081_histogramEqualization0.jpg 12,6,89,82,0
+E:\photo\00\enhance_image\202007081_noiseImpulse0.jpg 12,6,89,82,0
+E:\photo\00\enhance_image\202007090.jpg 116,77,231,192,1
+E:\photo\00\enhance_image\202007090_Imagerotate0.jpg 81,10,195,125,1
+E:\photo\00\enhance_image\202007090_noiseImpulse0.jpg 116,77,231,192,1
+E:\photo\00\enhance_image\202007090_randomGaussian0.jpg 116,77,231,192,1
+E:\photo\00\enhance_image\202007091_Imagerotate0.jpg 175,49,248,131,1
+E:\photo\00\enhance_image\202007091_noiseImpulse0.jpg 140,135,224,210,1
+E:\photo\00\enhance_image\202007091_randomGaussian0.jpg 140,135,224,210,1
+E:\photo\00\enhance_image\202007092.jpg 15,18,148,148,0 167,14,264,108,0
+E:\photo\00\enhance_image\202007092_histogramEqualization0.jpg 15,18,148,148,0 167,14,264,108,0
+E:\photo\00\enhance_image\202007092_Imagerotate0.jpg 36,84,165,211,0 177,44,270,135,0
+E:\photo\00\enhance_image\202007092_randomGaussian0.jpg 15,18,148,148,0 167,14,264,108,0
+E:\photo\00\enhance_image\202007110.jpg 16,17,67,67,1
+E:\photo\00\enhance_image\202007110_histogramEqualization0.jpg 16,17,67,67,1
+E:\photo\00\enhance_image\202007110_Imagerotate0.jpg 137,31,187,82,1
+E:\photo\00\enhance_image\202007110_noiseImpulse0.jpg 16,17,67,67,1
+E:\photo\00\enhance_image\202007110_randomGaussian0.jpg 16,17,67,67,1
+E:\photo\00\enhance_image\202007150.jpg 79,22,151,95,0
+E:\photo\00\enhance_image\202007150_histogramEqualization0.jpg 79,22,151,95,0
+E:\photo\00\enhance_image\202007150_Imagerotate0.jpg 37,88,107,159,0
+E:\photo\00\enhance_image\202007150_noiseImpulse0.jpg 79,22,151,95,0
+E:\photo\00\enhance_image\202007150_randomGaussian0.jpg 79,22,151,95,0
+E:\photo\00\enhance_image\202007160.jpg 398,108,521,201,0 70,295,107,344,1 16,19,83,104,1 86,184,143,225,1
+E:\photo\00\enhance_image\202007160_histogramEqualization0.jpg 398,108,521,201,0 70,295,107,344,1 16,19,83,104,1 86,184,143,225,1
+E:\photo\00\enhance_image\202007160_noiseImpulse0.jpg 398,108,521,201,0 70,295,107,344,1 16,19,83,104,1 86,184,143,225,1
+E:\photo\00\enhance_image\202007161.jpg
+E:\photo\00\enhance_image\202007161_histogramEqualization0.jpg
+E:\photo\00\enhance_image\202007161_noiseImpulse0.jpg
+E:\photo\00\enhance_image\202007161_randomGaussian0.jpg
+E:\photo\00\enhance_image\202007170.jpg
+E:\photo\00\enhance_image\202007170_histogramEqualization0.jpg
+E:\photo\00\enhance_image\202007170_Imagerotate0.jpg
+E:\photo\00\enhance_image\202007170_noiseImpulse0.jpg
+E:\photo\00\enhance_image\202007170_randomGaussian0.jpg
+E:\photo\00\enhance_image\202007180.jpg 111,111,369,420,0
+E:\photo\00\enhance_image\202007180_histogramEqualization0.jpg 111,111,369,420,0
+E:\photo\00\enhance_image\202007180_Imagerotate0.jpg 119,119,377,428,0
+E:\photo\00\enhance_image\202007180_noiseImpulse0.jpg 111,111,369,420,0
+E:\photo\00\enhance_image\202007180_randomGaussian0.jpg 111,111,369,420,0
+E:\photo\00\enhance_image\202007181.jpg 23,12,114,113,1
+E:\photo\00\enhance_image\202007181_histogramEqualization0.jpg 23,12,114,113,1
+E:\photo\00\enhance_image\202007181_noiseImpulse0.jpg 23,12,114,113,1
+E:\photo\00\enhance_image\202007181_randomGaussian0.jpg 23,12,114,113,1
+E:\photo\00\enhance_image\202007200.jpg 126,113,169,156,1
+E:\photo\00\enhance_image\202007200_histogramEqualization0.jpg 126,113,169,156,1
+E:\photo\00\enhance_image\202007200_Imagerotate0.jpg 31,141,74,184,1
+E:\photo\00\enhance_image\202007200_noiseImpulse0.jpg 126,113,169,156,1
+E:\photo\00\enhance_image\202007210.jpg 28,184,99,252,1
+E:\photo\00\enhance_image\202007210_histogramEqualization0.jpg 28,184,99,252,1
+E:\photo\00\enhance_image\202007210_noiseImpulse0.jpg 28,184,99,252,1
+E:\photo\00\enhance_image\202007210_randomGaussian0.jpg 28,184,99,252,1
+E:\photo\00\enhance_image\202007211.jpg 242,19,492,299,0
+E:\photo\00\enhance_image\202007211_Imagerotate0.jpg 42,84,319,331,0
+E:\photo\00\enhance_image\202007211_noiseImpulse0.jpg 242,19,492,299,0
+E:\photo\00\enhance_image\202007211_randomGaussian0.jpg 242,19,492,299,0
+E:\photo\00\enhance_image\202007220_histogramEqualization0.jpg 31,31,68,72,1
+E:\photo\00\enhance_image\202007220_Imagerotate0.jpg 237,71,277,107,1
+E:\photo\00\enhance_image\202007220_randomGaussian0.jpg 31,31,68,72,1
+E:\photo\00\enhance_image\202007221.jpg 78,117,126,168,1
+E:\photo\00\enhance_image\202007221_Imagerotate0.jpg 105,150,153,198,1
+E:\photo\00\enhance_image\202007221_noiseImpulse0.jpg 78,117,126,168,1
+E:\photo\00\enhance_image\202007221_randomGaussian0.jpg 78,117,126,168,1
+E:\photo\00\enhance_image\202007290.jpg 38,32,159,149,1
+E:\photo\00\enhance_image\202007290_histogramEqualization0.jpg 38,32,159,149,1
+E:\photo\00\enhance_image\202007290_Imagerotate0.jpg 47,73,167,190,1
+E:\photo\00\enhance_image\202007290_noiseImpulse0.jpg 38,32,159,149,1
+E:\photo\00\enhance_image\202007290_randomGaussian0.jpg 38,32,159,149,1
+E:\photo\00\enhance_image\202007310.jpg 7,7,122,110,1
+E:\photo\00\enhance_image\202007310_histogramEqualization0.jpg 7,7,122,110,1
+E:\photo\00\enhance_image\202007310_Imagerotate0.jpg 46,129,148,239,1
+E:\photo\00\enhance_image\202007310_noiseImpulse0.jpg 7,7,122,110,1
+E:\photo\00\enhance_image\202007310_randomGaussian0.jpg 7,7,122,110,1
+E:\photo\00\enhance_image\202007311.jpg 24,20,47,44,1
+E:\photo\00\enhance_image\202007311_histogramEqualization0.jpg 24,20,47,44,1
+E:\photo\00\enhance_image\202007311_Imagerotate0.jpg 108,187,132,210,1
+E:\photo\00\enhance_image\202007311_randomGaussian0.jpg 24,20,47,44,1
+E:\photo\00\enhance_image\202007312_Imagerotate0.jpg 93,145,271,322,0
+E:\photo\00\enhance_image\202007312_noiseImpulse0.jpg 31,19,216,200,0
+E:\photo\00\enhance_image\202007312_randomGaussian0.jpg 31,19,216,200,0
+E:\photo\00\enhance_image\202008010.jpg 41,22,124,111,1
+E:\photo\00\enhance_image\202008010_histogramEqualization0.jpg 41,22,124,111,1
+E:\photo\00\enhance_image\202008010_Imagerotate0.jpg 198,62,285,147,1
+E:\photo\00\enhance_image\202008010_randomGaussian0.jpg 41,22,124,111,1
+E:\photo\00\enhance_image\202008011.jpg 16,177,64,221,1 94,87,170,169,1
+E:\photo\00\enhance_image\202008011_Imagerotate0.jpg 213,20,261,64,1 117,83,192,165,1
+E:\photo\00\enhance_image\202008011_noiseImpulse0.jpg 16,177,64,221,1 94,87,170,169,1
+E:\photo\00\enhance_image\202008011_randomGaussian0.jpg 16,177,64,221,1 94,87,170,169,1
+E:\photo\00\enhance_image\202008012.jpg 38,12,281,330,1
+E:\photo\00\enhance_image\202008012_histogramEqualization0.jpg 38,12,281,330,1
+E:\photo\00\enhance_image\202008012_Imagerotate0.jpg 276,190,515,501,1
+E:\photo\00\enhance_image\202008012_randomGaussian0.jpg 38,12,281,330,1
+E:\photo\00\enhance_image\202008013_histogramEqualization0.jpg 12,12,51,51,0
+E:\photo\00\enhance_image\202008013_Imagerotate0.jpg 70,23,109,62,0
+E:\photo\00\enhance_image\202008013_noiseImpulse0.jpg 12,12,51,51,0
+E:\photo\00\enhance_image\202008060.jpg
+E:\photo\00\enhance_image\202008060_histogramEqualization0.jpg
+E:\photo\00\enhance_image\202008060_Imagerotate0.jpg
+E:\photo\00\enhance_image\202008060_randomGaussian0.jpg
+E:\photo\00\enhance_image\202008061.jpg 2,6,34,39,1
+E:\photo\00\enhance_image\202008061_histogramEqualization0.jpg 2,6,34,39,1
+E:\photo\00\enhance_image\202008061_Imagerotate0.jpg 49,127,82,159,1
+E:\photo\00\enhance_image\202008061_noiseImpulse0.jpg 2,6,34,39,1
+E:\photo\00\enhance_image\202008061_randomGaussian0.jpg 2,6,34,39,1
+E:\photo\00\enhance_image\202008070.jpg 23,60,68,105,1
+E:\photo\00\enhance_image\202008070_histogramEqualization0.jpg 23,60,68,105,1
+E:\photo\00\enhance_image\202008070_Imagerotate0.jpg 116,76,162,121,1
+E:\photo\00\enhance_image\202008070_noiseImpulse0.jpg 23,60,68,105,1
+E:\photo\00\enhance_image\202008070_randomGaussian0.jpg 23,60,68,105,1
+E:\photo\00\enhance_image\202008080.jpg 338,51,426,124,1 24,440,72,476,1
+E:\photo\00\enhance_image\202008080_histogramEqualization0.jpg 338,51,426,124,1 24,440,72,476,1
+E:\photo\00\enhance_image\202008080_Imagerotate0.jpg 101,301,178,384,1 616,373,655,417,1
+E:\photo\00\enhance_image\202008080_noiseImpulse0.jpg 338,51,426,124,1 24,440,72,476,1
+E:\photo\00\enhance_image\202008080_randomGaussian0.jpg 338,51,426,124,1 24,440,72,476,1
+E:\photo\00\enhance_image\202008100.jpg 27,23,171,131,0
+E:\photo\00\enhance_image\202008100_Imagerotate0.jpg 61,179,184,309,0
+E:\photo\00\enhance_image\202008100_noiseImpulse0.jpg 27,23,171,131,0
+E:\photo\00\enhance_image\202008100_randomGaussian0.jpg 27,23,171,131,0
+E:\photo\00\enhance_image\202008110.jpg 94,10,180,99,1
+E:\photo\00\enhance_image\202008110_histogramEqualization0.jpg 94,10,180,99,1
+E:\photo\00\enhance_image\202008110_Imagerotate0.jpg 22,23,110,109,1
+E:\photo\00\enhance_image\202008110_randomGaussian0.jpg 94,10,180,99,1
+E:\photo\00\enhance_image\202008120_histogramEqualization0.jpg 221,29,332,98,1
+E:\photo\00\enhance_image\202008120_Imagerotate0.jpg 229,51,334,126,1
+E:\photo\00\enhance_image\202008120_noiseImpulse0.jpg 221,29,332,98,1
+E:\photo\00\enhance_image\202008120_randomGaussian0.jpg 221,29,332,98,1
+E:\photo\00\enhance_image\202008121.jpg 93,61,137,103,1
+E:\photo\00\enhance_image\202008121_histogramEqualization0.jpg 93,61,137,103,1
+E:\photo\00\enhance_image\202008121_Imagerotate0.jpg 146,116,188,158,1
+E:\photo\00\enhance_image\202008121_noiseImpulse0.jpg 93,61,137,103,1
+E:\photo\00\enhance_image\202008121_randomGaussian0.jpg 93,61,137,103,1
+E:\photo\00\enhance_image\202008122.jpg 168,162,218,208,1
+E:\photo\00\enhance_image\202008122_histogramEqualization0.jpg 168,162,218,208,1
+E:\photo\00\enhance_image\202008122_Imagerotate0.jpg 76,26,124,71,1
+E:\photo\00\enhance_image\202008130_histogramEqualization0.jpg 9,17,36,43,1
+E:\photo\00\enhance_image\202008130_Imagerotate0.jpg 95,65,122,91,1
+E:\photo\00\enhance_image\202008130_noiseImpulse0.jpg 9,17,36,43,1
+E:\photo\00\enhance_image\202008130_randomGaussian0.jpg 9,17,36,43,1
+E:\photo\00\enhance_image\202008131.jpg 41,88,65,113,1 3,72,27,98,1
+E:\photo\00\enhance_image\202008131_histogramEqualization0.jpg 41,88,65,113,1 3,72,27,98,1
+E:\photo\00\enhance_image\202008131_Imagerotate0.jpg 45,101,69,126,1 17,71,41,96,1
+E:\photo\00\enhance_image\202008131_noiseImpulse0.jpg 41,88,65,113,1 3,72,27,98,1
+E:\photo\00\enhance_image\202008131_randomGaussian0.jpg 41,88,65,113,1 3,72,27,98,1
+E:\photo\00\enhance_image\202008132.jpg 18,144,62,179,1
+E:\photo\00\enhance_image\202008132_histogramEqualization0.jpg 18,144,62,179,1
+E:\photo\00\enhance_image\202008132_Imagerotate0.jpg 127,243,166,283,1
+E:\photo\00\enhance_image\202008132_randomGaussian0.jpg 18,144,62,179,1
+E:\photo\00\enhance_image\202008133.jpg 88,88,156,159,1
+E:\photo\00\enhance_image\202008133_histogramEqualization0.jpg 88,88,156,159,1
+E:\photo\00\enhance_image\202008133_Imagerotate0.jpg 31,98,100,164,1
+E:\photo\00\enhance_image\202008134.jpg 4,4,23,26,1
+E:\photo\00\enhance_image\202008134_Imagerotate0.jpg 87,6,108,25,1
+E:\photo\00\enhance_image\202008134_noiseImpulse0.jpg 4,4,23,26,1
+E:\photo\00\enhance_image\202008134_randomGaussian0.jpg 4,4,23,26,1
+E:\photo\00\enhance_image\202008140.jpg 3,83,53,123,1
+E:\photo\00\enhance_image\202008140_histogramEqualization0.jpg 3,83,53,123,1
+E:\photo\00\enhance_image\202008140_Imagerotate0.jpg 86,14,133,57,1
+E:\photo\00\enhance_image\202008140_noiseImpulse0.jpg 3,83,53,123,1
+E:\photo\00\enhance_image\202008140_randomGaussian0.jpg 3,83,53,123,1
+E:\photo\00\enhance_image\202008150.jpg 70,126,144,199,1 237,75,319,151,1
+E:\photo\00\enhance_image\202008150_histogramEqualization0.jpg 70,126,144,199,1 237,75,319,151,1
+E:\photo\00\enhance_image\202008150_Imagerotate0.jpg 224,135,297,209,1 189,307,266,387,1
+E:\photo\00\enhance_image\202008150_noiseImpulse0.jpg 70,126,144,199,1 237,75,319,151,1
+E:\photo\00\enhance_image\202008150_randomGaussian0.jpg 70,126,144,199,1 237,75,319,151,1
+E:\photo\00\enhance_image\202008151_Imagerotate0.jpg 280,182,448,337,1
+E:\photo\00\enhance_image\202008151_noiseImpulse0.jpg 175,178,361,317,1
+E:\photo\00\enhance_image\202008151_randomGaussian0.jpg 175,178,361,317,1
+E:\photo\00\enhance_image\202008152.jpg 10,100,42,135,1
+E:\photo\00\enhance_image\202008152_histogramEqualization0.jpg 10,100,42,135,1
+E:\photo\00\enhance_image\202008160.jpg 18,132,53,185,1
+E:\photo\00\enhance_image\202008160_histogramEqualization0.jpg 18,132,53,185,1
+E:\photo\00\enhance_image\202008160_Imagerotate0.jpg 27,34,80,69,1
+E:\photo\00\enhance_image\202008160_noiseImpulse0.jpg 18,132,53,185,1
+E:\photo\00\enhance_image\202008160_randomGaussian0.jpg 18,132,53,185,1
+E:\photo\00\enhance_image\202008170.jpg 27,313,296,473,1
+E:\photo\00\enhance_image\202008170_Imagerotate0.jpg 175,68,349,322,1
+E:\photo\00\enhance_image\202008170_noiseImpulse0.jpg 27,313,296,473,1
+E:\photo\00\enhance_image\202008171.jpg 8,5,101,91,0
+E:\photo\00\enhance_image\202008171_histogramEqualization0.jpg 8,5,101,91,0
+E:\photo\00\enhance_image\202008171_noiseImpulse0.jpg 8,5,101,91,0
+E:\photo\00\enhance_image\202008172.jpg 10,5,55,59,1
+E:\photo\00\enhance_image\202008172_histogramEqualization0.jpg 10,5,55,59,1
+E:\photo\00\enhance_image\202008172_Imagerotate0.jpg 104,20,152,69,1
+E:\photo\00\enhance_image\202008172_noiseImpulse0.jpg 10,5,55,59,1
+E:\photo\00\enhance_image\202008172_randomGaussian0.jpg 10,5,55,59,1
+E:\photo\00\enhance_image\202008180.jpg 18,10,185,171,0
+E:\photo\00\enhance_image\202008180_histogramEqualization0.jpg 18,10,185,171,0
+E:\photo\00\enhance_image\202008180_Imagerotate0.jpg 51,211,213,376,0
+E:\photo\00\enhance_image\202008180_noiseImpulse0.jpg 18,10,185,171,0
+E:\photo\00\enhance_image\202008180_randomGaussian0.jpg 18,10,185,171,0
+E:\photo\00\enhance_image\202008181.jpg 10,171,66,228,1 216,22,250,68,1
+E:\photo\00\enhance_image\202008181_histogramEqualization0.jpg 10,171,66,228,1 216,22,250,68,1
+E:\photo\00\enhance_image\202008181_Imagerotate0.jpg 76,20,132,75,1 173,262,217,297,1
+E:\photo\00\enhance_image\202008190_histogramEqualization0.jpg 196,98,384,303,0
+E:\photo\00\enhance_image\202008190_noiseImpulse0.jpg 196,98,384,303,0
+E:\photo\00\enhance_image\202008190_randomGaussian0.jpg 196,98,384,303,0
+E:\photo\00\enhance_image\202008191.jpg 126,45,177,96,1
+E:\photo\00\enhance_image\202008191_histogramEqualization0.jpg 126,45,177,96,1
+E:\photo\00\enhance_image\202008191_noiseImpulse0.jpg 126,45,177,96,1
+E:\photo\00\enhance_image\202008191_randomGaussian0.jpg 126,45,177,96,1
+E:\photo\00\enhance_image\202008200_histogramEqualization0.jpg 21,148,71,206,1
+E:\photo\00\enhance_image\202008200_Imagerotate0.jpg 40,100,96,152,1
+E:\photo\00\enhance_image\202008200_noiseImpulse0.jpg 21,148,71,206,1
+E:\photo\00\enhance_image\202008200_randomGaussian0.jpg 21,148,71,206,1
+E:\photo\00\enhance_image\202008210.jpg 24,24,78,79,1
+E:\photo\00\enhance_image\202008210_histogramEqualization0.jpg 24,24,78,79,1
+E:\photo\00\enhance_image\202008210_Imagerotate0.jpg 37,27,91,82,1
+E:\photo\00\enhance_image\202008210_noiseImpulse0.jpg 24,24,78,79,1
+E:\photo\00\enhance_image\202008211.jpg 223,4,333,136,1
+E:\photo\00\enhance_image\202008211_histogramEqualization0.jpg 223,4,333,136,1
+E:\photo\00\enhance_image\202008211_Imagerotate0.jpg 116,287,232,413,1
+E:\photo\00\enhance_image\202008211_noiseImpulse0.jpg 223,4,333,136,1
+E:\photo\00\enhance_image\202008211_randomGaussian0.jpg 223,4,333,136,1
+E:\photo\00\enhance_image\202008240_histogramEqualization0.jpg 189,85,414,341,1
+E:\photo\00\enhance_image\202008240_Imagerotate0.jpg 221,180,448,427,1
+E:\photo\00\enhance_image\202008240_noiseImpulse0.jpg 189,85,414,341,1
+E:\photo\00\enhance_image\202008240_randomGaussian0.jpg 189,85,414,341,1
+E:\photo\00\enhance_image\202008241.jpg 191,204,225,235,1
+E:\photo\00\enhance_image\202008241_Imagerotate0.jpg 185,31,217,64,1
+E:\photo\00\enhance_image\202008241_noiseImpulse0.jpg 191,204,225,235,1
+E:\photo\00\enhance_image\202008241_randomGaussian0.jpg 191,204,225,235,1
+E:\photo\00\enhance_image\202008250_histogramEqualization0.jpg 70,131,192,264,1
+E:\photo\00\enhance_image\202008250_Imagerotate0.jpg 158,225,287,344,1
+E:\photo\00\enhance_image\202008250_noiseImpulse0.jpg 70,131,192,264,1
+E:\photo\00\enhance_image\202008260_histogramEqualization0.jpg 216,183,267,232,1
+E:\photo\00\enhance_image\202008260_Imagerotate0.jpg 216,183,267,232,1
+E:\photo\00\enhance_image\202008260_noiseImpulse0.jpg 216,183,267,232,1
+E:\photo\00\enhance_image\202008260_randomGaussian0.jpg 216,183,267,232,1
+E:\photo\00\enhance_image\202008261.jpg 212,5,415,209,0 92,230,281,424,1
+E:\photo\00\enhance_image\202008261_histogramEqualization0.jpg 212,5,415,209,0 92,230,281,424,1
+E:\photo\00\enhance_image\202008261_Imagerotate0.jpg 233,320,436,523,0 96,116,288,306,1
+E:\photo\00\enhance_image\202008261_noiseImpulse0.jpg 212,5,415,209,0 92,230,281,424,1
+E:\photo\00\enhance_image\202008261_randomGaussian0.jpg 212,5,415,209,0 92,230,281,424,1
+E:\photo\00\enhance_image\202008270.jpg 38,52,88,95,1
+E:\photo\00\enhance_image\202008270_histogramEqualization0.jpg 38,52,88,95,1
+E:\photo\00\enhance_image\202008270_Imagerotate0.jpg 83,65,131,108,1
+E:\photo\00\enhance_image\202008270_noiseImpulse0.jpg 38,52,88,95,1
+E:\photo\00\enhance_image\202008271.jpg 260,14,324,74,1
+E:\photo\00\enhance_image\202008271_histogramEqualization0.jpg 260,14,324,74,1
+E:\photo\00\enhance_image\202008271_Imagerotate0.jpg 379,184,442,245,1
+E:\photo\00\enhance_image\202008271_noiseImpulse0.jpg 260,14,324,74,1
+E:\photo\00\enhance_image\202008271_randomGaussian0.jpg 260,14,324,74,1
+E:\photo\00\enhance_image\202008272.jpg 198,88,437,336,0
+E:\photo\00\enhance_image\202008272_histogramEqualization0.jpg 198,88,437,336,0
+E:\photo\00\enhance_image\202008272_Imagerotate0.jpg 254,248,491,488,0
+E:\photo\00\enhance_image\202008272_noiseImpulse0.jpg 198,88,437,336,0
+E:\photo\00\enhance_image\202008272_randomGaussian0.jpg 198,88,437,336,0
+E:\photo\00\enhance_image\202008290.jpg 217,182,269,243,1
+E:\photo\00\enhance_image\202008290_histogramEqualization0.jpg 217,182,269,243,1
+E:\photo\00\enhance_image\202008290_Imagerotate0.jpg 35,212,94,266,1
+E:\photo\00\enhance_image\202008290_noiseImpulse0.jpg 217,182,269,243,1
+E:\photo\00\enhance_image\202008290_randomGaussian0.jpg 217,182,269,243,1
+E:\photo\00\enhance_image\202008291.jpg 18,24,205,172,0
+E:\photo\00\enhance_image\202008291_histogramEqualization0.jpg 18,24,205,172,0
+E:\photo\00\enhance_image\202008291_Imagerotate0.jpg 115,110,302,257,0
+E:\photo\00\enhance_image\202008291_randomGaussian0.jpg 18,24,205,172,0
+E:\photo\00\enhance_image\202008292.jpg 10,151,118,269,1
+E:\photo\00\enhance_image\202008292_Imagerotate0.jpg 152,39,264,148,1
+E:\photo\00\enhance_image\202008292_noiseImpulse0.jpg 10,151,118,269,1
+E:\photo\00\enhance_image\202008292_randomGaussian0.jpg 10,151,118,269,1
+E:\photo\00\enhance_image\202008293.jpg 71,10,111,69,1
+E:\photo\00\enhance_image\202008293_histogramEqualization0.jpg 71,10,111,69,1
+E:\photo\00\enhance_image\202008293_Imagerotate0.jpg 76,74,135,114,1
+E:\photo\00\enhance_image\202008293_noiseImpulse0.jpg 71,10,111,69,1
+E:\photo\00\enhance_image\202008293_randomGaussian0.jpg 71,10,111,69,1
