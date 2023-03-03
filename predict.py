@@ -253,8 +253,8 @@ if __name__ == "__main__":
                 tempdict = {
                     "time": date,
                     "AE or CE label": "0 or 1",
-                    "Anticyclonic_": float((day_results[:, -1] == 0).sum()),
-                    "Cyclonic_": float((day_results[:, -1] == 1).sum()),
+                    "Anticyclonic": float((day_results[:, -1] == 0).sum()),
+                    "Cyclonic": float((day_results[:, -1] == 1).sum()),
                     "results": {
                         "predict":  day_results.tolist(),
                         "eddy_type": list(int(day_results[i][-1]) for i in range(day_results.shape[0])),
