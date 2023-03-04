@@ -250,7 +250,7 @@ class DecodeBox():
                         #     output[i]=None
                         #     continue
                         continue
-                    # 按面积筛选 1/4*π*eddy_minradius**2，50公里
+                    # 按网格面积筛选 1/4*π*(eddy_minradius/500)**2，50公里
                     area=((output[i][num, 2] - output[i][num, 0]) * (output[i][num, 3] - output[i][num, 1]))
                     if area>1/4*np.pi*(eddy_minradius/0.5)**2:   #100为识别的涡旋最小半径km
                         # output[i]=np.delete(output[i],num,axis=0)
